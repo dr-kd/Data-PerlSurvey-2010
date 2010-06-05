@@ -1,0 +1,63 @@
+variable,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,option 11,option 12,option 13,option 14,option 15,option 16,option 17,option 18,option 19,option 20,option 21,option 22,option 23,option 24,option 25,option 26,option 27,option 28,option 29,option 30,option 31,option 32,option 33,option 34,option 35,option 36,option 37,option 38,option 39,option 40,option 41,option 42,option 43,option 44,option 45,option 46,option 47,option 48,option 49,option 50,option 51,option 52,option 53
+gender,Male,Female,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+age_group,Under 20,20 - 24,25 - 29,30 - 39,40 - 49,50+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+highest_qual,School,Technical College,Bachelors,Masters / PhD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+post_school_training,Computing,Arts,Creative Arts,Languages,Science,Social Science,Mathematics,Engineering,Education,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+formally_taught_perl,None,Almost none,A little,Quite a bit,A lot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+formally_taught_other_os_language,None,Almost none,A little,Quite a bit,A lot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+approx_annual_income,"$0 - $30,000","$30,000 - $60,000","$60,000 - $90,000","$90,000 - $120,000","$120,000+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+work_industries,Advertising/Marketing/Public Relations,Agriculture/Forestry/Fishing,Architectural Services,Automotive,Computers - Services,Computers - Hardware,Computers - Software,Construction/Mining,Consulting Services,Consumer Products,Creative/Design,Customer Service,Education,Electronics,Energy/Utilities,Engineering,Entertainment,Environmental,Financial,Government,Health Care,Hospitality/Tourism,Human Resources,Insurance,Internet,Legal,Manufacturing,Medical/Healthcare,Military,Nonprofit,Publishing,Real Estate,Retail,Science,Sports and Recreation,Telecommunications,Textiles,Transportation,Other,,,,,,,,,,,,,,
+programming_computers_for,less than 1 year,1 to 3 years,4 to 6 years,7 to 10 years,11 to 20 years,20 or more years,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+programming_perl_for,less than 1 year,1 to 3 years,4 to 6 years,7 to 10 years,11 to 20 years,20 or more years,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+work_proportion_programming_software_projects,very little,less than a third,a third to a half,a half to two-thirds,more than two thirds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+work_proportion_programming_software_projects_not_writing_code,very little,less than a third,a third to a half,a half to two-thirds,more than two thirds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+time_percentage_programming_perl,very little,less than a third,a third to a half,a half to two-thirds,more than two thirds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+programming_in_spare_time,Never,Occasionally,A little,Frequently,Very often,Most of my spare time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+versions_of_perl_commonly_used,5.4 or lower,5.5005,5.6.x,5.8.x,5.10.x,5.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+version_of_perl_used_most_frequently,5.4 or lower,5.5005,5.6.x,5.8.x,5.10.x,5.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+os_used_programming_development,Amiga,Android,Apollo,BeOS,Bs2000,BSD - freebsd,BSD - netbsd,BSD - openbsd,EPOC,GNU Hurd,Linux - debian,Linux - fedora,Linux - gentoo,Linux - other,Linux - redhat q/centos,Linux - suse,Linux - ubuntu,Mac OS X for personal computers,Mac OS X Server,Mac OS X for iPhone/iPod Touch,Macos (pre OS X),Minix,MSDOS,MVS,OS/2,OS/390,OS/400,Palm OS,Plan 9,QNX,RiscOS,Symbian,Unix - AIX,Unix - DG/UX,Unix - HPUX,Unix - IRIX,Unix - NeXT,Unix - Solaris,Unix - Tru64,Unix - Other,VMS,Windows 2003 server,Windows 2k,Windows 3.1,Windows 95,Windows 98,Windows CE,Windows ME,Windows NT,Windows Vista,Windows 7,Windows XP,Other
+os_completed_projects_deployed,Amiga,Android,Apollo,BeOS,Bs2000,BSD - freebsd,BSD - netbsd,BSD - openbsd,EPOC,GNU Hurd,Linux - debian,Linux - fedora,Linux - gentoo,Linux - other,Linux - redhat q/centos,Linux - suse,Linux - ubuntu,Mac OS X for personal computers,Mac OS X Server,Mac OS X for iPhone/iPod Touch,Macos (pre OS X),Minix,MSDOS,MVS,OS/2,OS/390,OS/400,Palm OS,Plan 9,QNX,RiscOS,Symbian,Unix - AIX,Unix - DG/UX,Unix - HPUX,Unix - IRIX,Unix - NeXT,Unix - Solaris,Unix - Tru64,Unix - Other,VMS,Windows 2003 server,Windows 2k,Windows 3.1,Windows 95,Windows 98,Windows CE,Windows ME,Windows NT,Windows Vista,Windows 7,Windows XP,Other
+win_os_perl_distro,Strawberry Perl,ActiveState Perl,Cygwin Perl,Other (please specify),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+win_os_perl_distro_best,Strawberry Perl,ActiveState Perl,Cygwin Perl,Other (please specify),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+where_perl_belongs_in_list,1st,2nd,3rd,4th,5th,6th or lower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+text_editors_mainly_used_for_perl_programming,Anjuta,BBEdit,Crimson,DzSoft Perl,Eclipse EPIC,EditPlus,Emacs,EngInSite-Perl,Far,Geany,Gedit,Gvim,JEdit,Jed,Joe,KDevelop,KEdit,Kate,Kephra,Komodo Edit,Komodo IDE,Mcedit,Nano,NEdit,Notepad,Notepad++,Notepad2,Open Perl IDE,OptiPerl,PSPad,Padre,Perl Express,PerlWiz,Pico,SciTE,SlickEdit,Smultron,TextMate,TextPad,TextWrangler,Ultra Edit (plain or Studio),Vi,Vim,Xemacs,,,,,,,,,
+text_editors_used_occasionally_for_perl_programming,Anjuta,BBEdit,Crimson,DzSoft Perl,Eclipse EPIC,EditPlus,Emacs,EngInSite-Perl,Far,Geany,Gedit,Gvim,JEdit,Jed,Joe,KDevelop,KEdit,Kate,Kephra,Komodo Edit,Komodo IDE,Mcedit,Nano,NEdit,Notepad,Notepad++,Notepad2,Open Perl IDE,OptiPerl,PSPad,Padre,Perl Express,PerlWiz,Pico,SciTE,SlickEdit,Smultron,TextMate,TextPad,TextWrangler,Ultra Edit (plain or Studio),Vi,Vim,Xemacs,,,,,,,,,
+perl_mongers_mailing_lists_subscribe_to,0,1,2-5,5+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+technical_perl_mailing_lists_subscribe_to,0,1,2-5,5+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+technical_not_perl_mailing_lists_subscribe_to,0,1,2-5,5+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+local_perl_mongers_group,Yes,No,Yes but it's inactive,Don't Know,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+attend_local_perl_mongers_group_meetings,Never/Not applicable,I used to but don't any more,Once a year or less,More than once a year,Ususally,Almost every meeting,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+have_attended_perl_related_conference,Never,Once or twice,Infrequently,Occasionally,As often as I can,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+read_perl_news_sites,http://planet.perl.org/,http://perlsphere.net/,http://ironman.enlightenedperl.org/,http://planetsix.perl.org/,http://planet.parrotcode.org/,http://blogs.perl.org,http://use.perl.org,http://reddit.com/r/perl,Other (please specify),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+num_cpan_modules,None,1 - 5,6 - 20,21+,,,,,SD::Slot::text=HASH(0x93d1b04),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+num_cpan_modules_handed_over,None,1 - 5,6 - 20,21+,,,
+provided_bug_report_for_perl_interpreter,Never,Once,Occasionally,Frequently,,,
+provided_code_to_fix_bug_perl_interpreter,Never,Once,Occasionally,Frequently,,,
+provided_code_to_add_feature_to_perl_interpreter,Never,Once,Occasionally,Frequently,,,
+provided_bug_report_for_CPAN_module,Never,Once,Occasionally,Frequently,,,
+provided_code_to_fix_bug_CPAN_module,Never,Once,Occasionally,Frequently,,,
+provided_code_to_add_feature_to_CPAN_module,Never,Once,Occasionally,Frequently,,,
+perl_cutting_edge_programming_language,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_encouraged_at_workplace,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_language_for_startup,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_easy_to_maintain,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_code_scales_well,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+management_encourages_perl_for_new_projects,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+management_views_perl_as_cutting_edge,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+management_views_perl_as_easy_to_maintain,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+management_thinks_perl_scales_well,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_first_programming_language,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_for_beginners,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_early_career_programmers,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_experienced_programmers,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_system_administrators,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_network_engineers,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_embedded_systems_programmers,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+perl_good_tool_applications_programmers,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+official_perl_cert_for_me,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+official_perl_cert_for_others,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+install_CPAN_always_test_run,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+freq_force_install_CPAN_mods_after_test_fail,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+try_to_understand_why_tests_fail_before_force_install,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+report_test_fails_thru_approp_channels,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
+running_perl_program_across_mult_platforms_easy,Don't Know<br>/Not Applicable,Strongly<br>Disgree,Disagree,Slightly Disagree,Slightly Agree,Agree,Strongly<br>Agree
