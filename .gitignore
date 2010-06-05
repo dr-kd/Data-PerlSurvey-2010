@@ -11,3 +11,4 @@ cover_db
 pod2htm*.tmp
 Data-PerlSurvey-2010-*
 contact_email.txt 
+data/contact_email.txt
