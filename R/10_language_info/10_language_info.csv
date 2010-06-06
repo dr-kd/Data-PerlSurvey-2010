@@ -1,0 +1,4846 @@
+"","language_1","language_2","language_3","language_4","language_5","where_perl_belongs_in_list"
+"1","c","","","","",1
+"2","bash","javascript","xslt","php","",2
+"3","","","","","",1
+"4","","","","","",1
+"5","","","","","",NA
+"6","Javascript","C","PHP","","",1
+"7","","","","","",NA
+"8","Java","Delphi","c","","",6
+"9","javascript","bash","python","ruby","php",1
+"10","Python","R","","","",1
+"11","sql","c#","php","javascript","java",6
+"12","javascript","bash shell","","","",1
+"13","bash","Makefiles","Python","","",1
+"14","c++","C","java","javascript","sql",2
+"15","","","","","",NA
+"16","r","praat","python","matlab","",4
+"17","","","","","",NA
+"18","bash","","","","",1
+"19","bash","c","php","","",1
+"20","python","c","javascript","bash","ruby",3
+"21","C","Python","java","","",1
+"22","","","","","",NA
+"23","","","","","",NA
+"24","C++/C","php","HTML","javascript","Java",1
+"25","","","","","",NA
+"26","C++","PHP","Java","","",1
+"27","javascript","sql","xslt","java","",1
+"28","bash","javascript","","","",1
+"29","html","powershell","vbscript","php","fortran",2
+"30","PHP","java","","","",1
+"31","Java","PHP","Javascript","C","",2
+"32","","","","","",1
+"33","C","java","C++","","",1
+"34","python","php5","php4","c","objective c",5
+"35","ruby","objective c","c","bash","",6
+"36","javascript","bash","java","php","",1
+"37","c","java","csh","bash","erlang",1
+"38","C","Shell","PHP","C#","Java",1
+"39","javascript","","","","",1
+"40","","","","","",NA
+"41","javascript","python","","","",1
+"42","PHP","Javascript","Java","C++","python",3
+"43","","","","","",NA
+"44","C#","c++","VB.NET","ruby","php",6
+"45","Shell","SQL","JavaScript","C","Scheme",1
+"46","","","","","",NA
+"47","","","","","",NA
+"48","C","Python","","","",6
+"49","php","python","","","",1
+"50","python","","","","",1
+"51","javascript","bash","python","","",1
+"52","java","ruby","perl","bash","",1
+"53","Verilog","VHDL","C","","",3
+"54","java","Perl","javascript","vba","php",2
+"55","c","","","","",1
+"56","javascript","","","","",1
+"57","","","","","",NA
+"58","shell","c","python","lua","ada",2
+"59","php","c++","javascript","","",1
+"60","Java","C","Bash","","",2
+"61","Javascript","Python","","","",1
+"62","c++","php","javascript","c","lua",1
+"63","","","","","",NA
+"64","","","","","",NA
+"65","java","C","c++","shell","",2
+"66","PHP","Python","c","","",2
+"67","Javascript","bash","","","",1
+"68","javascript","c++","c","c#","java",1
+"69","Java","C","Bash","Python","",1
+"70","","","","","",NA
+"71","bash","C","C++","","",1
+"72","c","c++","","","",1
+"73","php, sql","c#","bash, sed, awk","","",2
+"74","Cold Fusion","JavaScript","","","",1
+"75","C","Shell","Java","","",1
+"76","PHP","javascript","JAVA","","",4
+"77","","","","","",1
+"78","c","c++","ruby","perl","lua",4
+"79","c++","","","","",2
+"80","","","","","",NA
+"81","O'Caml","Ruby","PHP","Bash","C",1
+"82","","","","","",NA
+"83","c#","javascript","shell","java","c++",1
+"84","javascript","php","java","","",1
+"85","javascript","bash","","","",1
+"86","","","","","",NA
+"87","Java","Ruby","Javascript","","",4
+"88","javascript","bash","","","",1
+"89","java","","","","",NA
+"90","java","scala","ruby","javascript","",1
+"91","Javascript","C","","","",1
+"92","PHP","C","C++","","",2
+"93","perl","bash","python","","",1
+"94","PHP","C","Python","Bash","",1
+"95","Scade","C","lisaac","","",2
+"96","javascript","java","","","",1
+"97","Java","","","","",1
+"98","C++","C","JavaScript","Python","",2
+"99","java","C","python","sh","",2
+"100","","","","","",6
+"101","","","","","",NA
+"102","","","","","",3
+"103","javascript","sql","c","","",1
+"104","php","sql","javascript","c++","",1
+"105","shell/bash","python","","","",1
+"106","","","","","",1
+"107","Haskell","C","Scala","Ruby","Java",6
+"108","bash","javascript","","","",1
+"109","PIC Assembler","A86 Assembler","C++","","",1
+"110","","","","","",NA
+"111","C++","java","php","PowerBuilder","C#",3
+"112","c","javascript","","","",1
+"113","","","","","",NA
+"114","javascript","matlab","","","",1
+"115","erlang","perl","c++","c","java",2
+"116","","","","","",NA
+"117","java","c++","c#","bash","",1
+"118","","","","","",1
+"119","c++","java","javascript","bash","pl sql",2
+"120","","","","","",1
+"121","C++","","","","",2
+"122","","","","","",NA
+"123","C","bash","java","","",1
+"124","","","","","",NA
+"125","cobol","pascal","dcl","","",4
+"126","javascript","sql","python","bash","batch",1
+"127","","","","","",NA
+"128","javascript","c","","","",1
+"129","Tcl","Skill","","","",2
+"130","","","","","",NA
+"131","java","c","","","",1
+"132","","","","","",NA
+"133","C","PIC assembler","autohotkey","VBA","",1
+"134","Java","c","bash","","",1
+"135","Java","Python","Perl","","",3
+"136","python","java","c++","php","",3
+"137","Shell","C","","","",1
+"138","Bash / Shell","","","","",1
+"139","C","lua","python","bash","c++",3
+"140","pl sql","python","ruby","elisp","java",6
+"141","C#","Javascript","transact sql","vbscript","",5
+"142","","","","","",NA
+"143","Java","C","C++","lisp scheme","javascript",2
+"144","","","","","",NA
+"145","php","c++","java","python","c",2
+"146","Bash Shell Script","PHP","","","",1
+"147","","","","","",NA
+"148","java","shell(bash)","ruby","","",2
+"149","python","java","c++","c","bash",6
+"150","SQL","Javascript","Template Toolkit","HTML","PHP",1
+"151","basic","javascript","bash","","",1
+"152","PHP","actionscript","Python","C#","Bash",2
+"153","","","","","",NA
+"154","python","C","prolog","","",1
+"155","SQL","C++","Basic","","",2
+"156","","","","","",NA
+"157","Ruby","Python","Javascript","java","C",2
+"158","coldfusion","javascript","c++","java","",3
+"159","Perl","bash","visual basic","csh","c",1
+"160","","","","","",NA
+"161","python","c","shell","","",6
+"162","sh","Haskell","C","C++","Java",2
+"163","ksh","tcl tk","python","ruby","",3
+"164","javascript","shell","HTML","CSS","php",1
+"165","C#","JavaScript","PHP","","",2
+"166","javascript","php","C#","","",1
+"167","php","","","","",2
+"168","c++","c","bash","javascript","sql",1
+"169","bash","javascript","java","","",2
+"170","sql","c++","c","python","vbscript",1
+"171","javascript","bash","python","c","tcl tk",1
+"172","C#","c++","","","",1
+"173","C","c++","","","",1
+"174","C","Java","Shell Script","","",1
+"175","","","","","",NA
+"176","","","","","",NA
+"177","","","","","",NA
+"178","C#","python","C","","",2
+"179","","","","","",NA
+"180","ruby","javascript","","","",1
+"181","JavaScript","Python","Scheme","Common Lisp","",2
+"182","","","","","",NA
+"183","Javascript","Python","","","",1
+"184","Perl","php","javascript","","",1
+"185","Java","C","C++","php","",5
+"186","C","Java","c++","","",3
+"187","","","","","",1
+"188","","","","","",NA
+"189","java","","","","",5
+"190","","","","","",NA
+"191","","","","","",NA
+"192","Unix shell (bash/ksh/sh)","Ruby","Progress","","",2
+"193","sql","ruby","bash","c","",1
+"194","sql","bash","ruby","","",1
+"195","javascript","tcl","python","scheme","",1
+"196","","","","","",NA
+"197","","","","","",NA
+"198","c++","bash","","","",3
+"199","Javascript","","","","",1
+"200","python","R","","","",1
+"201","C++","c","java","lisp","",1
+"202","Javascript","bash","","","",1
+"203","jython","clojure","java","","",2
+"204","bash","python","java","","",2
+"205","c++","python","","","",1
+"206","Labview ","C","bash ","","",2
+"207","pl sql","ksh","bash","c","",1
+"208","Python","C","D","Java","",2
+"209","javascript","","","","",2
+"210","C++","perl","C","bash","java",2
+"211","javascript","php","python","java","",3
+"212","JavaScript","Python","C#","PHP","Java",1
+"213","c","C++","java","","",1
+"214","Java","Javascript","erlang","ruby","python",2
+"215","","","","","",NA
+"216","PHP","Javascript","Erlang","","",1
+"217","java","javascript","elisp","","",1
+"218","ruby","python","php","c++","java",4
+"219","","","","","",NA
+"220","","","","","",NA
+"221","","","","","",NA
+"222","php","javascript","c","common lisp","perl",5
+"223","Haskell","C","PostScript","Forth","Perl 6",1
+"224","Java","C#","C","Tcl/Tk","VB .NET",6
+"225","javascript","C++","java","","",1
+"226","Python","C++","javascript","java","ruby",6
+"227","c/c++","java","php","bash","ocaml",4
+"228","bash","","","","",1
+"229","","","","","",NA
+"230","C/C++","javascript","Common Lisp","","",1
+"231","Java","C++","","","",1
+"232","javascript","C","","","",1
+"233","","","","","",NA
+"234","","","","","",NA
+"235","Java","Delphi","","","",1
+"236","C++","PHP","Java","","",2
+"237","sql","ksh","","","",1
+"238","bash","vbscript","","","",1
+"239","bash","C","","","",2
+"240","javascript","ruby","php","","",1
+"241","PHP","","","","",1
+"242","php","","","","",1
+"243","","","","","",NA
+"244","C++","python","matlab","bash","C",6
+"245","bash","","","","",1
+"246","bash","sybase sql","javascript","php","",1
+"247","objective c","c","c++","php","java",1
+"248","xslt","bash","","","",1
+"249","lua","c","c++","php","",1
+"250","","","","","",NA
+"251","javascript","python","bash","","",2
+"252","","","","","",NA
+"253","python","c++","c","java","haskell",1
+"254","","","","","",NA
+"255","bash","SQL","","","",1
+"256","C","","","","",1
+"257","java","php","javascript","","",2
+"258","sql","javascript","ruby","xslt","python",1
+"259","javascript","objective c","python","","",1
+"260","verilog","","","","",2
+"261","","","","","",NA
+"262","C++","C","python","","",3
+"263","python","php","","","",1
+"264","Common Lisp","Ruby","SQL","","",1
+"265","PHP","ECMAScript","Prolifics Panther","Java","C#",4
+"266","javascript","php","java","c","emacs lisp",1
+"267","perl","","","","",1
+"268","Javascript","Java","","","",1
+"269","javascript","java","","","",1
+"270","JavaScript","PHP","Java","","",1
+"271","","","","","",NA
+"272","SQL","bash","","","",1
+"273","Java","javascript","Groovy","","",3
+"274","ruby","shell","","","",2
+"275","java","visual basic","","","",3
+"276","","","","","",NA
+"277","Bash","JavaScript","XSLT","","",1
+"278","sh/bash","python","php","java","",2
+"279","","","","","",NA
+"280","javascript","actionscript","","","",1
+"281","bash","","","","",1
+"282","sql","javascript","","","",1
+"283","javascript","erlang","php","sql","",3
+"284","common lisp","scheme","javascript","emacs lisp","c",6
+"285","","","","","",NA
+"286","","","","","",NA
+"287","javascript","java","bash","","",1
+"288","java","dsssl","bash","c","",4
+"289","","","","","",NA
+"290","","","","","",NA
+"291","","","","","",1
+"292","Ruby","java","C#","","",1
+"293","JavaScript","bash","","","",1
+"294","python","Tcl","javascript","java","Fortran",6
+"295","PHP","C","C++","bash","perl",5
+"296","bash","php","java","c","",1
+"297","java","scala","perl","","",3
+"298","java","c++","c","","",3
+"299","java","c#","","","",1
+"300","bash","gawk","javascript","python","",2
+"301","php","unix scripting - bash, ksh, sed.grep. tr, etc","C","c++","cobol",2
+"302","c","python","c#","delphi","java",1
+"303","java","","","","",2
+"304","C#","","","","",1
+"305","Java","bash","sql","objective c","c",1
+"306","PHP","Python","C","","",1
+"307","bash","vala","c","csh","javascript",1
+"308","C++","C","R","MATLAB","",1
+"309","ruby","php","visual basic","visual c++","c++",3
+"310","PHP","JavaScript","bash","Ruby","",2
+"311","javascript","c#","c++","vbscript","java",1
+"312","","","","","",3
+"313","","","","","",NA
+"314","bash","ksh","","","",1
+"315","Shell","Awk","sed","","",2
+"316","bash","PHP","elisp","C","",1
+"317","","","","","",NA
+"318","javascript","C/C++","","","",1
+"319","php","java","python","","",3
+"320","Perl","SQL","c#","HTML","java",1
+"321","python","sql","bash scripting","","",1
+"322","","","","","",NA
+"323","ruby","javascript","c","python","java",4
+"324","javascript","sh","","","",1
+"325","","","","","",NA
+"326","perl","python","C","C++","",1
+"327","sh","c","applescript","","",1
+"328","Shell scripting","C","forth","Javascript","Assembler",1
+"329","","","","","",NA
+"330","ksh","sh","","","",1
+"331","","","","","",NA
+"332","java","javascript","shell","c","",1
+"333","java","c#","c++","","",1
+"334","php","javascript","xslt","sql","bash",2
+"335","","","","","",NA
+"336","C","vhdl","verilog","assembler","java",3
+"337","bash","plsql/plpgsql","python","pascal","java",1
+"338","","","","","",NA
+"339","","","","","",NA
+"340","c#","java","","","",1
+"341","Python","Ruby","c#","c++","",3
+"342","","","","","",NA
+"343","python","bash","","","",1
+"344","C","python","bash","","",1
+"345","bash","Javascript","c","","",1
+"346","javascript","","","","",1
+"347","C","Python","Java","Fortran","",1
+"348","sql","pl/sql","","","",1
+"349","","","","","",NA
+"350","","","","","",NA
+"351","","","","","",NA
+"352","sql","python","php","awk","pl sql",3
+"353","","","","","",NA
+"354","C++","C","bash","javascript","fortran",2
+"355","javascript","python","java","php","csharp",1
+"356","","","","","",NA
+"357","php","c","java","c++","bash",2
+"358","javascript","c","java","","",1
+"359","","","","","",NA
+"360","C","pascal","python","shell","",2
+"361","C++","PHP","J2EE","BASH Scripting",".NET/C#",2
+"362","","","","","",NA
+"363","","","","","",1
+"364","","","","","",NA
+"365","bash","objective c","c","","",1
+"366","","","","","",NA
+"367","C","","","","",1
+"368","C","SQL","Shells","","",2
+"369","sql","bash","clojure","java","ruby",1
+"370","java","ruby","","","",3
+"371","Python","Objective-C","JavaScript","C++","C",6
+"372","PHP","bash script","python","","",2
+"373","VCL","bash","PHP","","",1
+"374","","","","","",NA
+"375","PHP","Bash","","","",1
+"376","bash","java","sql","python","c",1
+"377","","","","","",NA
+"378","c","python","awk","sed","bash",1
+"379","","","","","",NA
+"380","C++","Haskell","Javascript","Bash","",3
+"381","Shell","SQL","","","",1
+"382","coldfusion","flex","javascript","","",6
+"383","ABAP (SAP)","","","","",2
+"384","","","","","",NA
+"385","","","","","",1
+"386","bash","php","python","","",3
+"387","","","","","",NA
+"388","","","","","",NA
+"389","perl","shell","","","",1
+"390","php","javascript","java","","",1
+"391","","","","","",NA
+"392","","","","","",NA
+"393","Java","PHP","Bash","","",1
+"394","Scala","java","haskell","Ocaml","C",6
+"395","","","","","",NA
+"396","","","","","",1
+"397","Python","PHP","JavaScript","bash","C",2
+"398","Java","bash","javascript","","",1
+"399","JavaScript","C","sh","","",1
+"400","C#","Javascript","vbscript","C","Clojure",4
+"401","java","bash","csh","sql","php",1
+"402","c++","visual basic","javascript","DOS batch files","",1
+"403","","","","","",NA
+"404","Bash","","","","",1
+"405","","","","","",1
+"406","","","","","",NA
+"407","java","c++","sql","python","",4
+"408","","","","","",NA
+"409","PL/SQL","Java","C","Python","Tcl",1
+"410","c","c++","haskell","ruby","python",3
+"411","bash","sql","php","c","",1
+"412","javascript","java","r","","",1
+"413","sql","c","","","",1
+"414","","","","","",1
+"415","PHP","C#","","","",3
+"416","PHP","Javascript","","","",5
+"417","sh","","","","",1
+"418","php","C#","","","",1
+"419","","","","","",NA
+"420","c++","c","java","bash","python",1
+"421","","","","","",NA
+"422","java","javascript","sh","","",1
+"423","","","","","",NA
+"424","java","javascript","","","",1
+"425","elisp","objective c","lisp","c","smalltalk",1
+"426","bash","","","","",2
+"427","Javascript (ECMA-262 3rd ed)","c++","","","",1
+"428","","","","","",NA
+"429","PHP","javascript","Groovy","vbscript","",5
+"430","","","","","",NA
+"431","C++","C","bash","","",2
+"432","","","","","",NA
+"433","Java","C/C++","","","",1
+"434","","","","","",NA
+"435","","","","","",NA
+"436","php","","","","",1
+"437","Ruby","javascript","","","",2
+"438","php","javascript","","","",1
+"439","","","","","",1
+"440","","","","","",1
+"441","","","","","",NA
+"442","C","php","python","","",1
+"443","C++","actionscript","","","",1
+"444","C","Common Lisp","Bourne shell scripting","Ocaml","Scheme",3
+"445","bash","sh","ruby","java","javascript",1
+"446","","","","","",NA
+"447","","","","","",NA
+"448","javascript","processing","","","",1
+"449","php","lua","","","",1
+"450","bash","c","c++","","",1
+"451","","","","","",NA
+"452","","","","","",NA
+"453","python","javascript","java","php","C",1
+"454","javascript","C#","java","bash","",1
+"455","C","java","","","",1
+"456","","","","","",NA
+"457","sql","bash","visual basic","prolog","php",4
+"458","bash","Python","C","Ruby","",4
+"459","bash","c","php","","",1
+"460","shell","c","","","",1
+"461","bash","python","c","","",1
+"462","","","","","",1
+"463","javascript","sql","c","python","",1
+"464","SQL","bash","","","",1
+"465","c","bash","c++","javascript","",2
+"466","","","","","",NA
+"467","c++","objective c++","ruby","","",4
+"468","","","","","",NA
+"469","","","","","",NA
+"470","C","Java","","","",1
+"471","c","","","","",1
+"472","","","","","",NA
+"473","Java","sql","javascript","awk","c",5
+"474","","","","","",NA
+"475","bash","c","python","ruby","",1
+"476","c++","c#","javascript","xslt","",5
+"477","php ","shell","","","",1
+"478","","","","","",NA
+"479","","","","","",NA
+"480","Applescript","shell","","","",1
+"481","Python","C","","","",3
+"482","c","matlab","cpp","py","sh",3
+"483","javascript","perl6","sql","bash","",1
+"484","","","","","",NA
+"485","bash","javascript","java","r","python",1
+"486","","","","","",NA
+"487","JavaScript","Python","","","",1
+"488","","","","","",NA
+"489","C++","bash","Python","Java","",1
+"490","php","c","sql","bash","python",1
+"491","Java","javascript","","","",1
+"492","bash","","","","",1
+"493","","","","","",NA
+"494","bash","php","python","","",1
+"495","","","","","",1
+"496","c","js","sql","java","pascal",1
+"497","","","","","",NA
+"498","","","","","",1
+"499","php","c","python","","",2
+"500","","","","","",NA
+"501","c","bash","assembler","","",1
+"502","","","","","",NA
+"503","javascript","","","","",1
+"504","VB.Net","Python","Bash","JavaScript","",1
+"505","Ruby","Java","","","",3
+"506","python","bash","perl","C","",3
+"507","C","c++","bash","","",1
+"508","","","","","",NA
+"509","C++","Java","Perl","BASH","Python",1
+"510","C","PHP","","","",3
+"511","dos batch files","","","","",1
+"512","C","javascript","Java","python","powershell",3
+"513","C","C++","Java",".net","Many Other",1
+"514","","","","","",NA
+"515","*sh","c","","","",1
+"516","bash","php","python","java","",1
+"517","R","python","lisp","C","Fortran",1
+"518","php","javascript","bash","c","",1
+"519","Perl","JavaScript","Ruby","C","Lisp",1
+"520","bash","php","javascript","","",1
+"521","python","awk","sed","c","",2
+"522","ksh","perl","bash","","",1
+"523","Java","JavaScript","C","","",4
+"524","php","sql","javascript","html","c",1
+"525","c","octave","vi","sed","",1
+"526","php","javascript","bash","applescript","python",2
+"527","java","bash","c","c++","lisp",1
+"528","javascript","sql","php","","",1
+"529","C#","bash","C","javascript","",2
+"530","python","bash","c","","",1
+"531","c","bash","assembler","php","java",2
+"532","C++","bash","","","",2
+"533","c#","c++","php","visual basic","ruby",4
+"534","c#","javascript","sql","html","css",2
+"535","Javascript","","","","",1
+"536","java","perl","pl/sql","php","python",1
+"537","Python","Tcl","PL/SQL","OCaml","",6
+"538","","","","","",NA
+"539","bash","visual basic","","","",1
+"540","PHP","C++","Delphi","","",1
+"541","","","","","",NA
+"542","","","","","",NA
+"543","Java","","","","",2
+"544","Java","Python","C++","Perl","Fortran",4
+"545","python","","","","",1
+"546","perl","xslt","","","",1
+"547","sql","spl (vendor-specific language for chemistry)","vbscript","c","fortran",1
+"548","","","","","",NA
+"549","","","","","",NA
+"550","","","","","",NA
+"551","C#","Ruby","PHP","javascript","",6
+"552","Bourne Shell","C / C++","","","",1
+"553","","","","","",NA
+"554","sh","javascript","sql","C","python",1
+"555","Bourne shell","","","","",1
+"556","Java","Bash","","","",2
+"557","c++","php","javascript","","",1
+"558","php","python","java","javascript","",1
+"559","Ruby","bash","PHP","","",2
+"560","c++","c","javascript","java","vbscript",1
+"561","","","","","",NA
+"562","","","","","",NA
+"563","Java","C","c++","Python","Bash",1
+"564","javascript","","","","",1
+"565","","","","","",NA
+"566","","","","","",NA
+"567","","","","","",1
+"568","","","","","",NA
+"569","javascript","python","php","java","bash",1
+"570","","","","","",NA
+"571","PHP","Python","","","",3
+"572","","","","","",NA
+"573","BASH","Python","C","Ada","Java",2
+"574","ruby","bash","","","",1
+"575","","","","","",1
+"576","","","","","",NA
+"577","PHP","javascript","ruby","","",1
+"578","PHP","Python","ruby","Java","TCL/TK",4
+"579","","","","","",NA
+"580","C++","","","","",2
+"581","javascript","sql","bash","","",1
+"582","Php","JavaScript","","","",3
+"583","c++","c","bash","python","awk",2
+"584","","","","","",NA
+"585","sql","vba","C#","Javascript","",3
+"586","","","","","",NA
+"587","PHP","vbscript","C#","visual basic","",2
+"588","C#","C/C++","","","",2
+"589","Prolog","","","","",1
+"590","c","ada","","","",1
+"591","","","","","",NA
+"592","Java","Javascript","Bash script","","",3
+"593","bash","c","","","",1
+"594","bash","C","","","",1
+"595","PHP","C++","Asm","","",4
+"596","bash","objective c","","","",1
+"597","Java","PHP","python","Groovy","",1
+"598","javascript","bash","c","applescript","",1
+"599","","","","","",NA
+"600","c#","","","","",2
+"601","javascript","","","","",1
+"602","","","","","",NA
+"603","","","","","",NA
+"604","C++","C","Java","","",3
+"605","JavaScript","c","SQL","","",1
+"606","","","","","",NA
+"607","","","","","",1
+"608","","","","","",NA
+"609","C++","PHP","Python","","",3
+"610","","","","","",1
+"611","","","","","",NA
+"612","","","","","",NA
+"613","c","c++","java","ruby","c#",1
+"614","","","","","",NA
+"615","","","","","",NA
+"616","","","","","",1
+"617","","","","","",NA
+"618","c#","c","","","",1
+"619","javascript","shell scripts","c++","","",1
+"620","coldfusion","PHP","python","sql","",4
+"621","Python","c","javascript","fortran","c++",6
+"622","","","","","",NA
+"623","python","bash","","","",1
+"624","sql","javascript","objective c","","",1
+"625","C++","C","javascript","java","python",1
+"626","php","javascript","bash","c","",4
+"627","","","","","",NA
+"628","C","Scheme","Smalltalk","Forth","Pascal",2
+"629","","","","","",NA
+"630","","","","","",NA
+"631","C++","C","assembler","pascal","",1
+"632","java","bash","delphi","sql","",2
+"633","bash","tcl tk","java","","",1
+"634","java","Groovy","C","","",4
+"635","","","","","",NA
+"636","php","","","","",1
+"637","","","","","",NA
+"638","Objective-C","C++","Python","","",6
+"639","javascript","java","bash","","",1
+"640","bash","awk","html","css","sql",1
+"641","","","","","",NA
+"642","c++","c","java","php","r",6
+"643","Windows shell","bash","Windows powershell","","",1
+"644","bash","c","","","",1
+"645","c++","c","","","",1
+"646","C#","C","Javascript","c++","SQL",4
+"647","","","","","",1
+"648","Ruby","HTML","C++","JavaScript","Java",6
+"649","Java","pl sql","python","bash","C",6
+"650","","","","","",1
+"651","","","","","",NA
+"652","Java","c","bash","","",3
+"653","Objective-C","C","c++","ruby","python",2
+"654","zsh","ooo","","","",1
+"655","","","","","",NA
+"656","PL/* (PostgreSQL stored procedure languages)","PHP","javascript","","",1
+"657","C++","Java","","","",2
+"658","java","xslt","sql","php","bash",1
+"659","","","","","",NA
+"660","sql","bash","javascript","","",1
+"661","","","","","",NA
+"662","python","c++","php","java","",1
+"663","shell (bash)","C","","","",1
+"664","csh","","","","",1
+"665","Javascript","SQL","bash","C","",1
+"666","javascript","php","c++","bash","c",1
+"667","","","","","",1
+"668","C#","Java","pl sql","","",3
+"669","","","","","",1
+"670","C/C++","python","shell script","","",1
+"671","C#","java","PERL","","",3
+"672","Javascript","bash","c++","","",1
+"673","","","","","",NA
+"674","C","Javascript","Java","Python","",1
+"675","sql","python","bash","","",2
+"676","php","lisp ","bash","","",1
+"677","","","","","",1
+"678","javascript","parrot intermediate representation","c","common lisp","",3
+"679","Python","C","C++","","",2
+"680","","","","","",NA
+"681","Java","","","","",1
+"682","","","","","",NA
+"683","","","","","",1
+"684","javascript","php","objective c","","",1
+"685","bash","java","python","","",1
+"686","","","","","",NA
+"687","","","","","",NA
+"688","Java","sql","javascript","php","c++",3
+"689","javascript","php","visual basic","","",1
+"690","","","","","",NA
+"691","java","javascript","","","",1
+"692","PHP","","","","",1
+"693","python","shell","java","C","ruby",1
+"694","","","","","",NA
+"695","","","","","",NA
+"696","Python","Ruby","javascript","PHP","Java",1
+"697","javascript","common lisp","","","",1
+"698","Java","Bash","","","",3
+"699","javascript","c","","","",1
+"700","java","php","python","ruby","",5
+"701","","","","","",1
+"702","Java","Javascript","C++","Shell","Python",3
+"703","c++","c","lisp scheme","sas","matlab",1
+"704","C++","Python","Scala","Erlang","O'Caml",4
+"705","Bash","Javascript","Haskell","","",1
+"706","Python","","","","",1
+"707","c++","java","javascript","","",4
+"708","javascript","C++","C","erlang","",1
+"709","python","c++","java","javascript","",1
+"710","","","","","",NA
+"711","","","","","",NA
+"712","","","","","",NA
+"713","javascript","Ruby","actionscript","","",4
+"714","","","","","",NA
+"715","","","","","",1
+"716","Bash","Perl","","","",2
+"717","php","python","expect","","",1
+"718","php","bash","java","","",1
+"719","","","","","",NA
+"720","Perl","sql","javascript","","",1
+"721","visual basic","autoit3","c","","",1
+"722","","","","","",NA
+"723","ksh/bash","Java","","","",1
+"724","Java","Shell","php","","",2
+"725","Php","","","","",1
+"726","php","java","javascript","","",4
+"727","bash","c","c++","python","lisp scheme",3
+"728","javascript","Io","ruby","","",1
+"729","Python","Java","C++","C","Javascript",1
+"730","C","python","c++","","",5
+"731","","","","","",NA
+"732","lua ","python","c","","",1
+"733","","","","","",NA
+"734","php","java","javascript","","",1
+"735","javascript","php","java","c++","python",1
+"736","Bourne Shell","","","","",1
+"737","PHP","java","","","",1
+"738","javascript","bash","c","c++","actionscript",1
+"739","Javascript","objective c","php","java","",2
+"740","javascript","haskell","c","r","",1
+"741","","","","","",1
+"742","JavaScript","PHP","ActionScript","Java","",1
+"743","php","VB.net","","","",1
+"744","python","php","bash","sql","c",3
+"745","c++","bash","","","",1
+"746","sql","java","","","",1
+"747","php","cobol","javascript","java","",3
+"748","bash","javascript","php","c","assembler",1
+"749","clojure","python","tcl","c++","golang",1
+"750","C","gawk","c++","bash","",3
+"751","javascript","sql","bash","","",1
+"752","bash","C","C++","","",1
+"753","","","","","",1
+"754","c","python","erlang","","",1
+"755","Java","Python","","","",1
+"756","MySQL","","","","",1
+"757","shell","tcl","scheme","","",1
+"758","Java","Python","C++","C#","TCL",6
+"759","html","sql","actionscript","javascript","",1
+"760","","","","","",NA
+"761","Shell","C","","","",1
+"762","","","","","",NA
+"763","java","Python","c++","awk","",6
+"764","","","","","",NA
+"765","C#","vbscript","ksh","javascript","",1
+"766","c++","python","c","java","",4
+"767","","","","","",2
+"768","C++","C","java","shell","assembler",3
+"769","sql","javascript","ruby","python","bash",1
+"770","javascript","php","","","",1
+"771","","","","","",NA
+"772","Java","Python","Javascript","shell","Ruby",4
+"773","shell","sql","","","",1
+"774","VBA","","","","",1
+"775","PHP","Visual Basic","","","",1
+"776","c","objective c","c++","","",1
+"777","java","javascript","python","lisp","",2
+"778","java","python","javascript","bash","",2
+"779","C","*nix Shell","","","",1
+"780","","","","","",NA
+"781","c","zsh","make","lisp","c++",1
+"782","ruby","sql","javascript","","",2
+"783","Java","Matlab","Bourne shell","C++","",5
+"784","Perl","openwatcom fortran","openwatcom C/C++","","",1
+"785","C++","Python","C#","","",4
+"786","Java","C","","","",1
+"787","r","javascript","bash","","",1
+"788","C/C++","python","php","C#","",1
+"789","javascript","php","c","","",1
+"790","Java","Java Script","c++","Obejct Pascal","PHP",1
+"791","javascript","delphi","php","RPG","bash",1
+"792","C","php","java","","",1
+"793","","","","","",NA
+"794","Ruby","Clojure","Scala","Java","Common Lisp",5
+"795","Ruby","Javascript","Python","bash","",1
+"796","c++","bash","","","",2
+"797","csh","c","","","",1
+"798","C++","C","Python","java","ruby",2
+"799","JavaScript","bash","","","",1
+"800","php","bash","java","","",1
+"801","Python","ksh","","","",1
+"802","c++","php","java","python","visual basic",1
+"803","bash","c","c++","python","",1
+"804","bash","visual basic","","","",1
+"805","c","delphi (pascal)","6502 asm","basic","logo",1
+"806","C/C++","PHP","Java","Python","Microsoft BASIC 4.0",3
+"807","c","shell","tcl","","",1
+"808","C++","java","","","",2
+"809","C++","Haskell","Scheme","Python","Clojure",6
+"810","php","","","","",1
+"811","shell","c","","","",3
+"812","PHP","python","bash","AppleScript","",2
+"813","javascript","java","","","",1
+"814","bash","c","php","c++","java",2
+"815","C","PHP","CSS","","",1
+"816","C++","C","python","Sh","EMCAScript",2
+"817","","","","","",NA
+"818","SQL","php","","","",1
+"819","java","ruby","tcl","groovy","scala",2
+"820","c++","java","c#","ruby","",6
+"821","c","php","","","",1
+"822","Ruby","sh","c","","",1
+"823","Java","c","php","javascript","ooc",6
+"824","python","ruby","tcl tk","lua","groovy",6
+"825","php","c++","","","",1
+"826","c","","","","",1
+"827","bash","php","","","",1
+"828","C++","Python","","","",1
+"829","C#","WSH/VBScript","php","","",4
+"830","javascript","ILERPG","","","",1
+"831","","","","","",1
+"832","","","","","",NA
+"833","ruby","c","python","haskell","java",1
+"834","","","","","",1
+"835","","","","","",3
+"836","C","PHP","","","",1
+"837","","","","","",NA
+"838","c","tcl tk","","","",2
+"839","c","c++","","","",1
+"840","C++","C#","PLSQL","sh","Java",5
+"841","tcsh","","","","",1
+"842","Bash","C","","","",1
+"843","","","","","",NA
+"844","","","","","",NA
+"845","","","","","",NA
+"846","Java","TCL","C","","",1
+"847","bash","zsh","tcsh","TCL/Tk","",1
+"848","Perl","python","php","java","c",1
+"849","C++","java","python","C","ruby",3
+"850","","","","","",NA
+"851","python","php","c","","",1
+"852","","","","","",NA
+"853","javascript","sql","shell","","",1
+"854","Mathematica","bash","C","JavaScript","",1
+"855","javascript","html","php","","",1
+"856","","","","","",1
+"857","javascript","php","java","","",1
+"858","","","","","",NA
+"859","php","Java","c","","",1
+"860","python","c++","c","c#","php",6
+"861","Java","C++","Python","PHP","",6
+"862","python","bash","","","",1
+"863","Java","","","","",1
+"864","python","java","perl","","",3
+"865","php","Ruby","Lisp","","",2
+"866","PHP","C","Fortran","","",1
+"867","","","","","",NA
+"868","c++","php","","","",2
+"869","","","","","",6
+"870","javascript","ruby","java","bash","awk",1
+"871","javascript","python","java","objective c","",1
+"872","bash","ruby","python","C","",1
+"873","c","python","sql","bash","java",2
+"874","","","","","",1
+"875","","","","","",NA
+"876","CLP","rpg","vba","","",4
+"877","Java","Javascript","","","",1
+"878","","","","","",NA
+"879","ruby","","","","",2
+"880","","","","","",NA
+"881","","","","","",NA
+"882","c","c++","","","",3
+"883","TCL","PHP","C","c++","Java",1
+"884","tcsh","javascript","mel","python","",1
+"885","java","javascript","C#","scala","ocaml",1
+"886","ruby","shell (bash)","java","","",1
+"887","c++","bash","c","ruby","",1
+"888","","","","","",1
+"889","java","ruby","c++","javascript","",3
+"890","javascript","C","Haskell","","",1
+"891","java","javascript","","","",2
+"892","JavaScript","C","Python","Scheme","",2
+"893","sql","javascript","","","",1
+"894","ABAP","java","php","","",4
+"895","Java","C#","C/C++","PHP","python",3
+"896","eScript","vbscript","javascript","java","c",2
+"897","C++","javascript","php","","",1
+"898","PHP","","","","",1
+"899","","","","","",NA
+"900","php","python","c++","javascript","lisp scheme",2
+"901","Python","C","java","","",2
+"902","","","","","",NA
+"903","","","","","",NA
+"904","","","","","",NA
+"905","","","","","",NA
+"906","unix shell","forth","applescript","javascript","",1
+"907","javascript","","","","",1
+"908","Java","","","","",2
+"909","","","","","",1
+"910","COBOL","vbscript","perl","vb.net","java",3
+"911","javascript","","","","",1
+"912","","","","","",NA
+"913","javascript","ruby","","","",1
+"914","","","","","",NA
+"915","Javascript","PHP","C#","","",2
+"916","","","","","",NA
+"917","sql","plpgsql","JavaScript","Ruby","",1
+"918","JavaScript","C","Lua","","",1
+"919","unix shell script","Windows cmd script","","","",1
+"920","c++","c","assembler","python","bash",6
+"921","javascript","C++","HTML","Java","",1
+"922","Perl","java ME",".net","","",1
+"923","sh/bash/ksh","C","php","","",2
+"924","javascript","python","ruby","objective c","java",1
+"925","","","","","",NA
+"926","java","c++","bash","groovy","",1
+"927","Ruby","Haskell","","","",6
+"928","c++","c","fortran","","",4
+"929","C","Bourne shell","awk","","",1
+"930","python","c++","java","bash","php",3
+"931","bash","dcl","","","",1
+"932","bash","C","","","",1
+"933","scheme","javascript","php","java","bash",3
+"934","c","python","scala","java","",2
+"935","","","","","",1
+"936","","","","","",1
+"937","","","","","",NA
+"938","","","","","",NA
+"939","bash","c","javascript","","",1
+"940","javascript (jquery rocks!)","C (historic)","php (yuck)","ruby (hmm)","",1
+"941","java","python","erlang","","",3
+"942","php","","","","",2
+"943","c","python","java","","",3
+"944","Java","Javascript","Erlang","","",2
+"945","bash","","","","",1
+"946","CAPL","c","","","",1
+"947","xslt","php","java","javascript","matlab",6
+"948","javascript","","","","",1
+"949","Python","Java","Scheme","PHP","",2
+"950","javascript","Bash","","","",1
+"951","Python","Shell scripts","","","",3
+"952","javascript","bash","pl/sql","php","",1
+"953","","","","","",NA
+"954","basic","cobol","awk","c","java",3
+"955","","","","","",NA
+"956","Python","javascript","Ruby","","",1
+"957","Java","PHP","C","JavaScript","DotNet",1
+"958","","","","","",NA
+"959","c","c++","","","",1
+"960","python","php","javascript","java","ruby",2
+"961","","","","","",NA
+"962","C++ Java","C#","Python VALA","Perl","",6
+"963","Erlang","Python","c++","shell","Ruby",6
+"964","bash","awk","python","","",1
+"965","","","","","",NA
+"966","php","sql","c","javascript","java",2
+"967","C++","","","","",1
+"968","C++","C#","","","",3
+"969","java","coldfusion","clojure","","",3
+"970","coldfusion","javascript","","","",1
+"971","","","","","",NA
+"972","Python","","","","",1
+"973","java","Shell","Python","Perl","xslt",4
+"974","php","c++","","","",2
+"975","Perl","C++","c","javascript","xslt",2
+"976","java","sql","bash","c++","c",1
+"977","Java","Clojure","","","",1
+"978","C","python","javascript","c++","haskell",1
+"979","","","","","",1
+"980","java","javascript","","","",3
+"981","","","","","",NA
+"982","java","pascal","python","","",4
+"983","Java","","","","",6
+"984","bash","c","c++","","python",1
+"985","javascript","php","bash","","",1
+"986","Clojure","Javascript","Python","Java","C",1
+"987","java","php","c++","javascript","bash",2
+"988","","","","","",NA
+"989","c++","python","ruby","","",1
+"990","sh/bash","make","c","ruby","python",1
+"991","","","","","",NA
+"992","java","C","","","",2
+"993","","","","","",NA
+"994","","","","","",NA
+"995","","","","","",NA
+"996","C++","C++/CLI","C#","VBScript/ASP","emacs lisp",3
+"997","javascript","php","","","",1
+"998","java","C#","C++","javascript","",1
+"999","python","c","haskell","","",1
+"1000","c#","rexx","clojure","","",1
+"1001","c++","java","pl sql","javascript","awk",4
+"1002","","","","","",NA
+"1003","","","","","",2
+"1004","PHP","java","","","",1
+"1005","C","shell script (bash)","Objective C","Processing.org (Java language/library)","",2
+"1006","c","objective  c","c++","java","php",3
+"1007","","","","","",NA
+"1008","","","","","",NA
+"1009","c","objective c","c++","","",1
+"1010","C","Java","Fortran","Haskell","",2
+"1011","php","java","c","","",2
+"1012","python","java","c++","javascript","",1
+"1013","","","","","",NA
+"1014","Java","c++","C","","",1
+"1015","java","Objective C","c++","C","Common Lisp",1
+"1016","javascript","c++","java","","",1
+"1017","","","","","",NA
+"1018","erlang","c","lisp scheme","","",1
+"1019","C","C++","Java","","",2
+"1020","php","bash","java","javascript","",1
+"1021","C","C++","Python","Java","PHP",1
+"1022","objective c","smalltalk","bash","ruby","",3
+"1023","c++","","","","",1
+"1024","JavaScript","","","","",1
+"1025","PL/SQL","C","java","","",2
+"1026","","","","","",NA
+"1027","c","c++","python","vhdl","bash",6
+"1028","c","c+","SH (Bourne)","","",2
+"1029","php","html","","","",1
+"1030","php","c","ruby","","",1
+"1031","Python","PHP","java","c++","",2
+"1032","ruby","javascript","dcl","bash","c++",2
+"1033","C","Q/pure","D","Mozart","",1
+"1034","bash","C","PHP","Python","matlab",1
+"1035","","","","","",NA
+"1036","Python","C++","C","","",4
+"1037","java","javascript","php","bash","",3
+"1038","Ksh/bash","C","SQL - ugh","","",2
+"1039","","","","","",NA
+"1040","c","java","javascript","","",1
+"1041","C","Lua","Python","Scala","Java",2
+"1042","","","","","",NA
+"1043","groovy","javascript","java","","",1
+"1044","","","","","",NA
+"1045","","","","","",2
+"1046","Java","C#","JavaScript","","",4
+"1047","PHP","Python","C","","",2
+"1048","","","","","",NA
+"1049","bash","sql","php","","",1
+"1050","php","c++","Pascal","","",1
+"1051","Perl","MVS Basic Assembler","PHP","Python","Shell (Bash and Ksh, mostly)",1
+"1052","Ruby","Java","javascript","","",2
+"1053","bash","","","","",1
+"1054","sql","r","","","",1
+"1055","perl","javascript","python","","",1
+"1056","Java","Shell (ksh, bash)","PHP","C","",2
+"1057","c","bash","windows batch","","",1
+"1058","","","","","",NA
+"1059","","","","","",NA
+"1060","Centura","c++","javascript","C#","VB.Net",3
+"1061","ksh","forth","tcl tk","bash","comal",1
+"1062","java","","","","",1
+"1063","","","","","",1
+"1064","","","","","",NA
+"1065","sh","c++","python","","",2
+"1066","","","","","",1
+"1067","erlang","php","","","",1
+"1068","php","javascript","","","",1
+"1069","javascript","ruby","","","",3
+"1070","C","php","python","tcl tk","",1
+"1071","","","","","",NA
+"1072","Javascript","C#","c++","ruby","MS batch",3
+"1073","","","","","",NA
+"1074","Perl","JavaScript","C","","",1
+"1075","c++","","","","",2
+"1076","javascript","sql","php","python","c",1
+"1077","","","","","",NA
+"1078","Scheme","Scala","C","Java","",3
+"1079","","","","","",1
+"1080","c","python","c++","java","",2
+"1081","","","","","",NA
+"1082","","","","","",NA
+"1083","javascript","php","c","python","",1
+"1084","AVR C","python","c","IDL","octave scripting",1
+"1085","bash","lisp scheme","ruby","","",1
+"1086","java","lisp","clojure","c","c++",1
+"1087","c++","c","bash","java","javascript",3
+"1088","","","","","",NA
+"1089","c++","java","php","fortran","",3
+"1090","","","","","",1
+"1091","python","javascript","","","",2
+"1092","c++","bash","java","","",2
+"1093","java","c++","c","assembler","erlang",1
+"1094","","","","","",NA
+"1095","LSL","javascript","lua","","",1
+"1096","php","python","javascript","java","",4
+"1097","java","c++","c","matlab","common lisp",6
+"1098","","","","","",NA
+"1099","bash","","","","",1
+"1100","","","","","",NA
+"1101","","","","","",NA
+"1102","","","","","",NA
+"1103","sql","plsql","bash","java","c",2
+"1104","Ansi C","Cocoa/XCode","Bash","javascript and HTML","TCL",1
+"1105","ruby","php","","","",3
+"1106","","","","","",NA
+"1107","product specific scripting and parameter languages","xslt","javascript","bash","windows cmd",2
+"1108","","","","","",NA
+"1109","PHP","Java","C++","","",1
+"1110","Standard ML","Scala","Groovy","","",1
+"1111","shell","","","","",1
+"1112","C++","C#","Windows Batch","","",4
+"1113","","","","","",NA
+"1114","Ruby","Python","","","",1
+"1115","java","javascript","awk","python","ksh",2
+"1116","","","","","",1
+"1117","sql","bash","javascript","java","python",1
+"1118","","","","","",NA
+"1119","","","","","",NA
+"1120","PHP","javascript","","","",3
+"1121","c++","c","bash","tcsh","",3
+"1122","java","php","shell","c","python",1
+"1123","C#","Haskell","sh","Common Lisp","",3
+"1124","","","","","",1
+"1125","","","","","",NA
+"1126","PHP","Python","","","",1
+"1127","javascript","","","","",1
+"1128","","","","","",NA
+"1129","","","","","",NA
+"1130","php","html","javascript","xml","ldap",1
+"1131","Java","","","","",1
+"1132","ruby","J","","","",1
+"1133","PHP","Python","C++","","",2
+"1134","","","","","",NA
+"1135","","","","","",NA
+"1136","sh","awk","C","","",1
+"1137","javascript","sql","","","",1
+"1138","C","python","bash","javascript","java",1
+"1139","","","","","",NA
+"1140","Perl","C#","Visual Basic 6","","",1
+"1141","","","","","",NA
+"1142","","","","","",NA
+"1143","c++","","","","",1
+"1144","plsql","php","python","","",1
+"1145","shell","php","","","",1
+"1146","C","Bourne Shell","Ruby","","",1
+"1147","","","","","",NA
+"1148","perl","ruby","","","",1
+"1149","Python","JavaScript","Ruby","PHP","AppleScript",3
+"1150","","","","","",NA
+"1151","Java","Python","PHP","C","C++",5
+"1152","","","","","",NA
+"1153","C++","javascript","Java","ml","",1
+"1154","python","javascript","haskell","java","",1
+"1155","","","","","",NA
+"1156","javascript","sql","","","",1
+"1157","javascript","c","","","",1
+"1158","java","python","javascript","c","",4
+"1159","javascript","php","","","",1
+"1160","Scheme","Python","Ruby","Javascript","Java",6
+"1161","C","Javascript","HTML","","",1
+"1162","","","","","",NA
+"1163","bash","","","","",1
+"1164","haskell","zsh","javascript","C","ruby",1
+"1165","php","javascript","python","shell","make",1
+"1166","c","c++","javascript","","",1
+"1167","","","","","",NA
+"1168","bash","","","","",1
+"1169","","","","","",NA
+"1170","bash","python","c++","","",1
+"1171","","","","","",NA
+"1172","","","","","",1
+"1173","php","bash","java","C","lisp",1
+"1174","","","","","",NA
+"1175","c","javascript","java","python","bash",1
+"1176","C","bourne shell","php","c++","java",1
+"1177","Python","Java","C/CAL","SML","",2
+"1178","bash","ruby","awk","sed","javascript",1
+"1179","python","c","objective c","c++","c#",1
+"1180","c","assembler","bash","","",2
+"1181","","","","","",1
+"1182","C","javascript","SQL","Go","bash",1
+"1183","","","","","",NA
+"1184","custom domain languages","C","make","sql","",1
+"1185","c","","","","",1
+"1186","","","","","",NA
+"1187","","","","","",NA
+"1188","Java","c++","Perl","","",3
+"1189","no other currently","","","","",1
+"1190","Scheme","C","C++","Emacs-Lisp","Python",4
+"1191","objective c","javascript","","","",1
+"1192","","","","","",NA
+"1193","javascript","html ?","c","","",1
+"1194","Inform 7","POSIX sh","Python","Applescript","C",1
+"1195","javascript","java","python","c","c++",1
+"1196","","","","","",NA
+"1197","","","","","",NA
+"1198","","","","","",NA
+"1199","ruby","visual basic","javascript","java","",1
+"1200","SQL","bash","javascript","java","",1
+"1201","","","","","",NA
+"1202","javascript","c","","","",1
+"1203","python","java","","","",1
+"1204","","","","","",NA
+"1205","Bash","Java","Groovy","C++","SQL",1
+"1206","C","C++","ruby","python","java",1
+"1207","","","","","",NA
+"1208","","","","","",NA
+"1209","PHP","","","","",1
+"1210","","","","","",NA
+"1211","","","","","",1
+"1212","C","Java","R","matlab","assembler",5
+"1213","C++","C","","","",1
+"1214","","","","","",NA
+"1215","javascript","C","bash","ruby","python",1
+"1216","javascript","","","","",1
+"1217","Perl","VB Script","","","",1
+"1218","javascript","python","ruby","c","C#",1
+"1219","c++","c","c# (mono)","","",2
+"1220","C/C++","sql","javascript","","",6
+"1221","c","python","bash","c++","",5
+"1222","javascript","","","","",1
+"1223","","","","","",NA
+"1224","javascript","bash","","","",1
+"1225","javascript","php","","","",1
+"1226","GNU make","bash","C","","",1
+"1227","","","","","",NA
+"1228","ActionScript","Python","JavaScript","C","",1
+"1229","php","ruby","bash","python","C",1
+"1230","java","c","shell","","",1
+"1231","php","c++","python","","",1
+"1232","","","","","",NA
+"1233","java","php","javascript","PL/SQL","awk",6
+"1234","","","","","",NA
+"1235","","","","","",3
+"1236","c","python","","","",1
+"1237","","","","","",NA
+"1238","Perl 6","","","","",1
+"1239","python","ksh","c","c++","java",3
+"1240","","","","","",1
+"1241","Bash","","","","",1
+"1242","","","","","",NA
+"1243","","","","","",NA
+"1244","csh","javascript","c","","",1
+"1245","PHP","C#","Javascript","Flex","Ruby",6
+"1246","ruby","bash","python","haskell","java",1
+"1247","","","","","",NA
+"1248","c/c++","make (nbmake)","sql","shell","awk",2
+"1249","","","","","",NA
+"1250","","","","","",NA
+"1251","PHP","javascript","","","",2
+"1252","actionscript","java","csh","pl sql","",1
+"1253","c#","visual basic","java","","",4
+"1254","c","python","c++","bash","",6
+"1255","","","","","",NA
+"1256","php (sadly)","haskell (for fun)","lisp (for fun)","c","c++",2
+"1257","Korn Shell","Perl","Tcl","C","Bash",2
+"1258","","","","","",1
+"1259","python","C","","","",2
+"1260","","","","","",NA
+"1261","","","","","",NA
+"1262","perl","ruby","python","bash","java",6
+"1263","javascript","java","php","","",1
+"1264","","","","","",NA
+"1265","java","","","","",2
+"1266","C","lua","bash","sieve","",2
+"1267","c#","ruby","","","",3
+"1268","java","php","javascript","c","c++",1
+"1269","java","lisp scheme","javascript","","",2
+"1270","","","","","",NA
+"1271","python","javascript","lisp scheme","c++","java",1
+"1272","","","","","",NA
+"1273","c","c++","python","","",2
+"1274","","","","","",NA
+"1275","","","","","",NA
+"1276","Java","python","shell","C#","",4
+"1277","","","","","",1
+"1278","bash","php","javascript","C/C++","",1
+"1279","C#","VBA","","","",3
+"1280","python","bash","sql","","",1
+"1281","cobol","c","fortran","","",1
+"1282","Perl","bash","","","",1
+"1283","","","","","",NA
+"1284","c++","c","perl","ksh","",3
+"1285","c","python","","","",1
+"1286","Python","Javascript","","","",1
+"1287","javascript","php","ruby","vb","c#",1
+"1288","c","lisp","","","",1
+"1289","C","","","","",1
+"1290","","","","","",NA
+"1291","","","","","",NA
+"1292","","","","","",NA
+"1293","java","c#","c++","","",2
+"1294","bash","c","","","",1
+"1295","matlab","maple","","","",2
+"1296","ml","c++","python","c","",2
+"1297","java","c++","systemverilog","","",1
+"1298","PHP","javascript","visual basic","","",2
+"1299","sql","bash","c++","php","lisp",1
+"1300","","","","","",NA
+"1301","ruby","","","","",1
+"1302","java","","","","",1
+"1303","c++","python","php","r","bash",5
+"1304","","","","","",3
+"1305","ruby","java","c","","",3
+"1306","javascript","ruby","","","",1
+"1307","python","javascript","","","",1
+"1308","php","java","ruby","visual basic","",1
+"1309","","","","","",NA
+"1310","","","","","",1
+"1311","C","","","","",1
+"1312","C#","Python","PHP","Java","Visual Basic",2
+"1313","javascript","sh","php","c","",1
+"1314","php","javascript","actionscript","","",NA
+"1315","php","bash","python","lisp scheme","ruby",1
+"1316","","","","","",NA
+"1317","javascript","php","shell scripting","","",3
+"1318","PHP","Python","Javascript","","",4
+"1319","javascript","","","","",1
+"1320","","","","","",NA
+"1321","python","c++","php","","",4
+"1322","bash","javascript","c","c++","java",2
+"1323","","","","","",1
+"1324","c","javascript","","","",1
+"1325","ruby","latex","javascript","","",1
+"1326","Visual Basic for Applications","HAL/S (review)","Assembler (review)","","",1
+"1327","php","sql","bash","c","ruby",1
+"1328","python","bash shell","php","c","erlang",1
+"1329","ruby","java","","","",1
+"1330","python","c","pike","javascript","java",2
+"1331","","","","","",NA
+"1332","VBA","","","","",1
+"1333","","","","","",NA
+"1334","","","","","",NA
+"1335","python","c","Objective-C","javascript","java",6
+"1336","perl","bash","","","",1
+"1337","javascript","php","Java","c","",1
+"1338","Java","Python","C++","","",6
+"1339","PHP","javascript","","","",1
+"1340","c","java","ruby","c++","python",2
+"1341","Java","Bash","Python","C++","Proprietary internal languages",2
+"1342","ocaml","perl","c++","","",2
+"1343","Python","Java","","","",3
+"1344","","","","","",NA
+"1345","python","erlang","c","brainfuck","lolcode",1
+"1346","C","","","","",1
+"1347","c++","C#","php","javascript","objective c",1
+"1348","","","","","",NA
+"1349","c","c++","bash","php","python",1
+"1350","Shell scripting","python","","","",1
+"1351","javascript","sql","bash","ruby","",1
+"1352","SQL","Bourne shell scripting","Ruby","Redcode","",1
+"1353","JavaScript","","","","",1
+"1354","","","","","",NA
+"1355","scheme","python","c","","",1
+"1356","","","","","",NA
+"1357","java","groovy","","","",1
+"1358","","","","","",NA
+"1359","php","","","","",2
+"1360","Java","assembly","","","",1
+"1361","PHP","VBA","JavaScript","Java","C",1
+"1362","sh (+ assorted tools)","C","","","",1
+"1363","Java","c++","","","",1
+"1364","java","python","c/c++","","",1
+"1365","PL/SQL","Javascript","C","","",2
+"1366","PHP","c++","java","javascript","bash",3
+"1367","C++","C#","","","",2
+"1368","Emacs Lisp","Shell","Ruby","Haskell","Smalltalk",1
+"1369","ruby","haskell","bash","","",2
+"1370","python","javascript","ruby","","",1
+"1371","python","fortran","","","",2
+"1372","Java","Bourne shell","awk","C","",1
+"1373","c","c++","fortran","","",3
+"1374","javascript","c","bash","","",1
+"1375","","","","","",NA
+"1376","","","","","",1
+"1377","javascript","php","","","",1
+"1378","c++","c","scheme","","",3
+"1379","javascript","","","","",1
+"1380","Perl","javascript","php","Java","",1
+"1381","","","","","",NA
+"1382","php","sql","","","",3
+"1383","","","","","",NA
+"1384","c++","bash","python","","",1
+"1385","perl","java","lisp scheme","","",1
+"1386","javascript","php","java","","",1
+"1387","vbscript","xslt","javascript","","",3
+"1388","c++","python","","","",3
+"1389","python","","","","",1
+"1390","none","","","","",1
+"1391","C++","C","shell","awk","python",2
+"1392","","","","","",NA
+"1393","PHP","visual basic","bash","","",2
+"1394","lua","erlang","C","","",1
+"1395","php","c","c++","java","",1
+"1396","Java","Ruby","Clojure","C#","perl",5
+"1397","","","","","",NA
+"1398","Java","python","","","",2
+"1399","php","c","javascript","","",1
+"1400","Objective C","Javascript","Ruby","c++","c",1
+"1401","","","","","",NA
+"1402","csh","c","javascript","","",1
+"1403","","","","","",NA
+"1404","ruby","","","","",1
+"1405","sh","c++","c","php","",1
+"1406","java","groovy","shell","","",4
+"1407","php","java","bash","ruby","",1
+"1408","C++","Python","","","",2
+"1409","c","","","","",1
+"1410","","","","","",NA
+"1411","","","","","",NA
+"1412","sql","javascript","bash","","",1
+"1413","","","","","",NA
+"1414","","","","","",NA
+"1415","c#","java","clojure","","",4
+"1416","javascript","php","","","",1
+"1417","java","php","javascript","C","matlab",3
+"1418","javascript","php","","","",1
+"1419","","","","","",NA
+"1420","C","c++","C#","bash","sql",2
+"1421","java","c","bash","pascal","python",3
+"1422","C#","java","python","javascript","",1
+"1423","bash","javascript","","","",1
+"1424","PHP","JavaScript","","","",3
+"1425","delphi","c","c++","Visal Basic","",1
+"1426","","","","","",1
+"1427","xsl","javascript","ruby","python","java",2
+"1428","","","","","",NA
+"1429","bash","C","python","","",1
+"1430","","","","","",NA
+"1431","C++","java","javascript","","",2
+"1432","php","java","","","",1
+"1433","","","","","",NA
+"1434","javascript","bash","php","python","ruby",1
+"1435","Java","Perl","RPG","","",2
+"1436","C","bash","c++","ocaml","mathematica",3
+"1437","C++","java","bash","","",4
+"1438","Haskell","C#","Java","C","",3
+"1439","4GL","shell scripts","","","",2
+"1440","php","javascript","","","",3
+"1441","ruby","C","bash","javascript","python",3
+"1442","C","Python","","","",1
+"1443","java","php","c#","","",1
+"1444","java","c++","matlab","mathematica","",3
+"1445","C#.net","asp.net","VBA","javascript","Java",6
+"1446","php","java","javascript","","",1
+"1447","","","","","",NA
+"1448","C++","python","ruby","C","shell",1
+"1449","java","php","csh","","",1
+"1450","matlab","c++","c","perl","",4
+"1451","JavaScript","Shell","C","SQL","Python",1
+"1452","sh","c","make","emacs lisp","",1
+"1453","c++","php","python","","",1
+"1454","","","","","",NA
+"1455","java","php","javascript","pl sql","ruby",5
+"1456","python","c","java","pl/sql","",2
+"1457","c++","C","Verilog","Javascript","Lisp",2
+"1458","","","","","",NA
+"1459","bash","c++","fortran","","",1
+"1460","PHP","C# .NET","Shellscript","c","c++",3
+"1461","Bash","Ruby","Scheme","Lisp","C",1
+"1462","PHP","Progress/WebSpeed","","","",1
+"1463","C#","VB.Net","javascript","Java","",3
+"1464","php","python","bash","java","c",1
+"1465","C#","javascript","","","",2
+"1466","C++","PHP","C#","","",2
+"1467","sh","C","awk","tcl ","php",2
+"1468","","","","","",NA
+"1469","c++","tcl tk","c","bash","python",3
+"1470","","","","","",NA
+"1471","java","","","","",1
+"1472","c","java","","","",1
+"1473","JavaScript","PHP","SQL","","",2
+"1474","","","","","",NA
+"1475","javascript","flex","java","","",3
+"1476","PHP","","","","",1
+"1477","java","python","sql","","",4
+"1478","","","","","",NA
+"1479","Perl","javascript","java","c++","",1
+"1480","bash","php","","","",1
+"1481","php","objective c","c","python","bash",1
+"1482","","","","","",NA
+"1483","","","","","",1
+"1484","java","lisp scheme","python","c","haskell",4
+"1485","javascript","bash","java","sql","python",1
+"1486","javascript","php","","","",1
+"1487","","","","","",NA
+"1488","c","c++","","","",1
+"1489","bourne shell","bourne again shell","","","",1
+"1490","c","bash","javascript","c++","java",1
+"1491","Java","pl sql","c++","","",1
+"1492","Perl","c++","matlab","Visual Basic","fortran",1
+"1493","c","sql","fortran","ruby","",2
+"1494","","","","","",NA
+"1495","javascript","bash","sql","awk","c",1
+"1496","","","","","",1
+"1497","","","","","",NA
+"1498","","","","","",NA
+"1499","PHP","Bash","javascript","java","",1
+"1500","","","","","",NA
+"1501","C++","C","bash","assembly","C#",3
+"1502","SQL","Lua","VBA","C++","shell",1
+"1503","","","","","",NA
+"1504","","","","","",NA
+"1505","actionscript","php","java","c","",3
+"1506","javascript","","","","",1
+"1507","","","","","",NA
+"1508","C","shell","python","c++","emacs lisp",1
+"1509","php","PowerShell","C#","c++","Java",3
+"1510","","","","","",1
+"1511","c#","c++","","","",2
+"1512","php","java","python","actionscript","",4
+"1513","","","","","",NA
+"1514","ksh","java","c++","","",1
+"1515","Java","JavaScript","Ruby","Python","Groovy",3
+"1516","javascript","","","","",1
+"1517","Java","c","","","",1
+"1518","","","","","",NA
+"1519","java","","","","",1
+"1520","c++","javascript","c","emacs lisp","",1
+"1521","java","shell","","","",1
+"1522","","","","","",NA
+"1523","/bin/sh","","","","",1
+"1524","","","","","",NA
+"1525","Perl","ruby","javascript","java","c++",1
+"1526","objective C","C","bash","","",1
+"1527","SQL","","","","",1
+"1528","","","","","",NA
+"1529","java","javascript","python","C","",1
+"1530","bash","php","","","",1
+"1531","php","c#","java","","",1
+"1532","","","","","",1
+"1533","java","c++","php","erlang","",1
+"1534","Python","Javascript","Cython","C++","",1
+"1535","","","","","",NA
+"1536","","","","","",NA
+"1537","","","","","",NA
+"1538","bash","","","","",1
+"1539","JavaScript","Bash","","","",1
+"1540","","","","","",NA
+"1541","R","python","","","",1
+"1542","c++","freebasic","","","",1
+"1543","PHP","","","","",1
+"1544","","","","","",3
+"1545","","","","","",2
+"1546","pl sql","","","","",2
+"1547","xslt","javascript","java","","",2
+"1548","","","","","",1
+"1549","","","","","",NA
+"1550","c","php","","","",2
+"1551","c++","c#","visual basic","php","",4
+"1552","T-SQL","Windows batch","vbscript","powershell","",2
+"1553","php","python","c","","",1
+"1554","bash","pascal","","","",1
+"1555","bash Shell Scripting","","","","",1
+"1556","java","","","","",2
+"1557","bash","lisp scheme","c","","",1
+"1558","javascript","bash","","","",1
+"1559","Bourne shell","C","Python","C++","Haskell",1
+"1560","SQL","bash","python","","",1
+"1561","javascript","bash","","","",1
+"1562","c","vala","","","",1
+"1563","groovy grails","","","","",2
+"1564","","","","","",NA
+"1565","sql","","","","",1
+"1566","","","","","",NA
+"1567","C","ksh","pl/sql","perl","python",5
+"1568","","","","","",NA
+"1569","C","bash","php","","",2
+"1570","C++","C","C#","","",6
+"1571","Python","C++","","","",3
+"1572","perl","shell","python","","",1
+"1573","C#","sql","c++","Perl","Javascript",3
+"1574","","","","","",NA
+"1575","javascript","c","sql","actionscript","",1
+"1576","Python","Java","C#","C++","C",6
+"1577","c","shell","c++","","",1
+"1578","java","xslt","","","",1
+"1579","ruby","java","javascript","lisp scheme","",6
+"1580","java","python","bash","idoc","javascript",6
+"1581","","","","","",NA
+"1582","ruby","javascript","php","python","",5
+"1583","","","","","",NA
+"1584","","","","","",NA
+"1585","bash","php","","","",1
+"1586","bash","","","","",1
+"1587","C","c++","csh","python","sql",2
+"1588","perl","ruby","javascript","majic","spel",1
+"1589","java","C#","ABAP","delphi","xslt",6
+"1590","","","","","",NA
+"1591","javascript","php","python","objective c","",3
+"1592","assembler","sql","bash","c","basic",1
+"1593","C++","C","python","bash","",5
+"1594","scheme","common lisp","c","lua","haskell",4
+"1595","ksh","awk","tcl tk","c","c++",1
+"1596","c++","java","php","","",1
+"1597","bash","","","","",1
+"1598","php","MS Visual Basic 6","","","",1
+"1599","","","","","",1
+"1600","","","","","",1
+"1601","c++","python","vb","javascript/html","shell script",6
+"1602","","","","","",NA
+"1603","PHP","VB.NET","C#","","",1
+"1604","Perl","c++","C","java","",1
+"1605","","","","","",NA
+"1606","C++","PHP","","","",1
+"1607","C/C++","sql","javascript","","",6
+"1608","perl","c/c++","","","",1
+"1609","vb.Net","C#","T-SQL","","",4
+"1610","javascript","ruby","c","","",1
+"1611","C","R","Matlab","Python","mathematica",3
+"1612","perl","php","c","","",1
+"1613","python","ruby","c","","",2
+"1614","C++","Python","Shell","Perl","Java",3
+"1615","php","bash","ruby","","",2
+"1616","c","bash","","","",1
+"1617","c","c++","java","python","php",6
+"1618","Java","Clojure","python","bash","",5
+"1619","","","","","",1
+"1620","php","bash","c","","",1
+"1621","c","javascript","","","",1
+"1622","","","","","",NA
+"1623","php","javascript","ruby","perl","",4
+"1624","","","","","",NA
+"1625","C++","","","","",1
+"1626","java","C","javascript","python","PHP",1
+"1627","Perl","visual basic","","","",1
+"1628","","","","","",1
+"1629","javascript","php","","","",1
+"1630","javascript","","","","",1
+"1631","applescript","ruby","bash","","",1
+"1632","bash","javascript","php","","",1
+"1633","PHP","C","","","",6
+"1634","python","C++","C","Perl","java",4
+"1635","Python","bash","Java","","",1
+"1636","javascript","php","python","","",1
+"1637","","","","","",NA
+"1638","","","","","",NA
+"1639","shell scripting","c","C++","","",2
+"1640","Java","javascript","c#","","",2
+"1641","C","javascript","","","",1
+"1642","java","perl","bash","ruby","",2
+"1643","","","","","",1
+"1644","C","php","Lua","Smalltalk","Python",1
+"1645","javascript","java","","","",1
+"1646","javascript","sql","java","actionscript","c",1
+"1647","C#","PHP","Java","python","",2
+"1648","","","","","",NA
+"1649","javascript","","","","",1
+"1650","common lisp","c","javascript","php","",2
+"1651","Javascript","Bash","","","",1
+"1652","bash","C","php","","",NA
+"1653","javascript","php","actionscript","","",1
+"1654","sql","javascript","bash","","",1
+"1655","","","","","",NA
+"1656","Java","","","","",1
+"1657","php","javascript","","","",3
+"1658","JavaScript","PHP","C#","C++","",1
+"1659","objective c","ruby","","","",1
+"1660","","","","","",NA
+"1661","javascript","sql","","","",2
+"1662","","","","","",1
+"1663","javascript","java","c","bash","",1
+"1664","R","C/C++","php","java","javascript",3
+"1665","","","","","",1
+"1666","PHP","Javascript","c++","","",2
+"1667","C++","Java","C","php","",1
+"1668","javascript","sql","python","","",1
+"1669","java","c#","c","python","",5
+"1670","ksh","","","","",1
+"1671","Perl","bash","","","",1
+"1672","javascript","html","c","actionscript","",1
+"1673","Java","PHP","","","",1
+"1674","javascript","java","","","",1
+"1675","","","","","",NA
+"1676","","","","","",1
+"1677","Bourne shell","Javascript","","","",1
+"1678","PHP","Python","","","",1
+"1679","","","","","",NA
+"1680","","","","","",NA
+"1681","C++","Java","Python","Bash","XHTML",1
+"1682","SQL","ksh","C","","",1
+"1683","ruby","groovy","java","javafx","javascript",5
+"1684","","","","","",NA
+"1685","php","C# .NET","bash","python","",1
+"1686","","","","","",NA
+"1687","","","","","",NA
+"1688","","","","","",NA
+"1689","Sybase Transact SQL","Unix csh","c++","","",4
+"1690","shell, Bash","C","assembly","Python","J/APL",1
+"1691","Emacs Lisp","bash","java","C++","erlang",1
+"1692","","","","","",NA
+"1693","erlang","haskell","prolog","scheme","Farnsworth",2
+"1694","Java","VBA","VB .NET",".BAT","vbscript",1
+"1695","","","","","",NA
+"1696","","","","","",NA
+"1697","","","","","",NA
+"1698","C","","","","",1
+"1699","sql","javascript","c++","python","php",1
+"1700","php","r","c++","c","",2
+"1701","c","bash","javascript","python","php",2
+"1702","make","sh","","","",1
+"1703","","","","","",NA
+"1704","sql","vb .net","","","",2
+"1705","c++","C","haskell","scheme","x++",1
+"1706","javascript","bash","java","","",1
+"1707","","","","","",NA
+"1708","Python","Shell","","","",2
+"1709","Ruby","javascript","Java","Python","",6
+"1710","Python","javascript","Java","C","",6
+"1711","python","clojure","erlang","java","",5
+"1712","c++","python","php","vb","java",2
+"1713","Ruby","C","","","",1
+"1714","JavaScript","Java","","","",1
+"1715","sql","javascript","","","",1
+"1716","","","","","",NA
+"1717","python","C++","bash","javascript","",1
+"1718","javascript","vba","","","",1
+"1719","bash","ruby","","","",1
+"1720","sql","ksh","c#","c","javascript",3
+"1721","C","PHP","bash","lua","python",4
+"1722","PHP","python","","","",1
+"1723","java","javascript","C","","",1
+"1724","ruby","php","java","","",1
+"1725","E (specman)","c, c++","matlab","shell","verilog",2
+"1726","php","javascript","","","",3
+"1727","","","","","",NA
+"1728","Ruby on Rails","CSS/XHTML","","","",3
+"1729","python","java","c","bash","",3
+"1730","Ruby","PHP","Python","JavaScript","",3
+"1731","","","","","",NA
+"1732","bash","","","","",1
+"1733","bash","C","csh","","",1
+"1734","bash","Python","ruby","javascript","PHP",1
+"1735","","","","","",NA
+"1736","Java","ruby","scala","prolog","",1
+"1737","python","java","Scala","Common Lisp","Javascript",1
+"1738","","","","","",1
+"1739","","","","","",NA
+"1740","","","","","",NA
+"1741","","","","","",NA
+"1742","objective c","bash","","","",1
+"1743","","","","","",NA
+"1744","","","","","",NA
+"1745","php","c++","","","",1
+"1746","SQL","JavaScript","c","sh","c++",1
+"1747","","","","","",NA
+"1748","Javascript","sh","c","","",1
+"1749","Python","Java","c","c++","",2
+"1750","Java","Javascript","","","",3
+"1751","","","","","",NA
+"1752","php","groovy","","","",6
+"1753","PHP","Java","Lisp","Prolog","",2
+"1754","javascript","c++","c","ocaml","clojure",4
+"1755","","","","","",NA
+"1756","Java","Python","Javascript","","",4
+"1757","PHP","c","bash","","",2
+"1758","java","ksh","sql","c","c++",2
+"1759","","","","","",1
+"1760","python","c","java","visual basic","javascript",1
+"1761","","","","","",NA
+"1762","Python","C","","","",3
+"1763","java","python","c","","",3
+"1764","","","","","",NA
+"1765","","","","","",NA
+"1766","perl","C","objective-c","","",1
+"1767","XSL","Java","Javascript","Perl","Lua",3
+"1768","bash","javascript","php","","",1
+"1769","","","","","",NA
+"1770","perl","shell","php","xslt","java",1
+"1771","bash","","","","",1
+"1772","javascript","c","scheme","forth","parrot",2
+"1773","VBA","c++","","","",1
+"1774","Javascript","Actionscript","Python","PHP","C",1
+"1775","bash","visual basic","python","javascript","",1
+"1776","Ruby","Haskell","C++","C","C#",1
+"1777","","","","","",NA
+"1778","Lua","C","bash","","",5
+"1779","python","javascript","actionscript","scheme","ruby",4
+"1780","c","C#","PHP","c++","java",1
+"1781","javascript","PHP","","","",1
+"1782","","","","","",NA
+"1783","php","visual basic","","","",1
+"1784","python","c++","","","",3
+"1785","Python","Scheme","PHP","Java","",4
+"1786","Java","C#","","","",3
+"1787","php","bash","c","c++","tcl",1
+"1788","Perl","JavaScrip","C++","Objective-C","D",1
+"1789","C/C++","Basic","","","",1
+"1790","ECMAScript","Shell","C","Java","Tcl",1
+"1791","","","","","",1
+"1792","javascript","bash","python","php","basic",1
+"1793","java","c++","C#","visual basic","php",6
+"1794","javascript","sql","scala","java","c",1
+"1795","Python","javascript","C","Ruby","",6
+"1796","javascript","php","sh","c","",1
+"1797","python","C","javascript","java","lisp",2
+"1798","","","","","",NA
+"1799","php","sql","javascript","c++","",4
+"1800","","","","","",NA
+"1801","","","","","",1
+"1802","C++","sql","C","Java","",1
+"1803","java","javascript","bash","xslt","",1
+"1804","Python","Emacs Lisp","Java","","",1
+"1805","sql","bash","python","c","",1
+"1806","","","","","",NA
+"1807","","","","","",NA
+"1808","","","","","",NA
+"1809","c","c++","","","",3
+"1810","Python","Ruby","Lisp","php","bash",5
+"1811","","","","","",1
+"1812","","","","","",NA
+"1813","","","","","",NA
+"1814","c","javascript","c++","bash","assembler",1
+"1815","","","","","",NA
+"1816","Java","C","C++","sh","",1
+"1817","Prolog","Haskell","php","","",6
+"1818","objective c","c","python","arexx","javascript",1
+"1819","C","C++","","","",2
+"1820","","","","","",NA
+"1821","c","C++","r","Python","Java",2
+"1822","","","","","",NA
+"1823","","","","","",1
+"1824","PHP","Groovy","Java","C++","",1
+"1825","ruby","c","c++","c#","powershell",6
+"1826","php","c++","python","bash","lua",1
+"1827","PHP","C","C++","","",4
+"1828","javascript","C","R","","",1
+"1829","","","","","",NA
+"1830","","","","","",NA
+"1831","","","","","",NA
+"1832","PHP","c","bash","python","",1
+"1833","bash","c++","java","","",1
+"1834","","","","","",NA
+"1835","","","","","",NA
+"1836","ruby","visual basic","c","","",1
+"1837","","","","","",NA
+"1838","","","","","",NA
+"1839","ruby","c","c++","bash","",1
+"1840","c","java","","","",1
+"1841","SQL","Javascript","C","","",1
+"1842","sql","javascript","bash","","",1
+"1843","sql","bash","clojure","javascript","java",1
+"1844","","","","","",NA
+"1845","javascript","bash","c++","ccscript","TeX",1
+"1846","","","","","",NA
+"1847","Perl","sql","Mason","C#","Flex",1
+"1848","PHP","javascript","","","",1
+"1849","javascript","bash","","","",1
+"1850","javascript","delphi","java","c","bash",1
+"1851","JavaScript","","","","",1
+"1852","C/C++","Actionscript 3","Objective C","","",2
+"1853","Python","java","javascript","","",2
+"1854","PHP","c","","","",1
+"1855","lisp scheme","perl","","","",2
+"1856","","","","","",NA
+"1857","Python","c++","","","",1
+"1858","Shell","awk","php","","",1
+"1859","bash","pl sql","python","java","xslt",1
+"1860","Bash","","","","",1
+"1861","bash","java","c","groovy","",2
+"1862","Java","Javascript","c++","","",1
+"1863","c","sql","javascript","","",1
+"1864","bash","php","c++","","",2
+"1865","PHP","Python","","","",1
+"1866","R","C#","C","","",2
+"1867","","","","","",2
+"1868","C++","sh","LISP","Haskell","Python",1
+"1869","bash","c","php","awk","javascript",1
+"1870","c++","c","python","Java","haskell",4
+"1871","","","","","",NA
+"1872","PHP","Objective-C","Python","ruby","javascript",4
+"1873","","","","","",NA
+"1874","bash","c","Java","","",1
+"1875","python","c","bash","java","go",6
+"1876","Java","bash","ruby","tcsh","C",1
+"1877","sql","javascript","visual basic","","",1
+"1878","java","javascript","shell","","",1
+"1879","c","lisp scheme","ksh","sql","R",1
+"1880","C","","","","",1
+"1881","","","","","",NA
+"1882","","","","","",NA
+"1883","","","","","",1
+"1884","shell scripting","","","","",1
+"1885","Python","PHP","","","",1
+"1886","ruby","python","","","",1
+"1887","php","javascript","","","",1
+"1888","php","","","","",1
+"1889","Ruby","php","Python","objective c","",1
+"1890","","","","","",NA
+"1891","python","javascript","sql","","",4
+"1892","bash scripting","Python","","","",1
+"1893","python","php","","","",3
+"1894","C++","C","BASH","PHP","",1
+"1895","java","Javascript","","","",2
+"1896","javascript","bash","c","","",1
+"1897","PHP","Javascript","","","",3
+"1898","javascript","sql","bash","","",1
+"1899","","","","","",NA
+"1900","php","perl","python","bash","",2
+"1901","C","Pascal","python","DCL","",5
+"1902","C++","","","","",NA
+"1903","bash","python","php","lua","assembler",1
+"1904","objective c","javascript","xslt","c","",1
+"1905","javascript","php","java","","",1
+"1906","LabVIEW","C","Python","PHP","Java",6
+"1907","","","","","",NA
+"1908","php","","","","",1
+"1909","","","","","",NA
+"1910","sql","java","xslt","","",1
+"1911","ruby","shell","","","",2
+"1912","sql","bash","python","","",1
+"1913","Python","PHP","java","C++","",2
+"1914","ruby","java","c","python","c#",4
+"1915","Ruby","C","lisp","java","php",6
+"1916","","","","","",NA
+"1917","","","","","",NA
+"1918","","","","","",NA
+"1919","","","","","",NA
+"1920","c","lisp ","matlab","c++","",2
+"1921","","","","","",NA
+"1922","sql","nawk","c++","c","c#",2
+"1923","","","","","",1
+"1924","c#","powershell","","","",1
+"1925","","","","","",NA
+"1926","","","","","",NA
+"1927","c++","HLSL","","","",3
+"1928","","","","","",NA
+"1929","php","","","","",1
+"1930","javascript","","","","",1
+"1931","C","","","","",1
+"1932","C","C++","Python","","",4
+"1933","php","c","bash","","",1
+"1934","shell","c","","","",1
+"1935","C++","","","","",2
+"1936","pl sql","javascript","sql","bash","",1
+"1937","","","","","",1
+"1938","java","c++","","","",2
+"1939","java","SQL","javaScript","Delphi","",1
+"1940","","","","","",NA
+"1941","C++","makepp","lisp emacs/sawfish","","",2
+"1942","Perl","Advanced Revelation R/Basic (is like PICK Basic)","pl sql","java","delphi",1
+"1943","C","bash","python","C++","",2
+"1944","php","python","bash","ruby","",1
+"1945","","","","","",NA
+"1946","Perl","C","","","",1
+"1947","","","","","",NA
+"1948","python","java","javascript","","",2
+"1949","C/C++","Python","Javascript","Java","",1
+"1950","Ruby on Rails","","","","",1
+"1951","Java","Python","C","Matlab/Octave","",6
+"1952","","","","","",1
+"1953","applescript","","","","",1
+"1954","perl","javascript","","","",1
+"1955","python","objective-c","","","",1
+"1956","C++","C","sql","Powerscript","javascript",1
+"1957","php","python","","","",3
+"1958","JavaScript","Emacs Lisp","Bash","","",1
+"1959","Ruby","PHP","Python","C++","",1
+"1960","","","","","",NA
+"1961","python","php","c","javascript","",3
+"1962","C","Shell","java","c++","",1
+"1963","javascript","sql","c","c++","",1
+"1964","","","","","",NA
+"1965","JavaScript","C++","","","",1
+"1966","c++/qt","javascript","visual basic","","",1
+"1967","","","","","",1
+"1968","","","","","",NA
+"1969","Javascript","Shell","python","O'Caml","",1
+"1970","","","","","",NA
+"1971","","","","","",1
+"1972","python","c#","c","c++","",5
+"1973","c","ruby","java","rakudo","",1
+"1974","c++","","","","",1
+"1975","bash","","","","",1
+"1976","ruby","clojure","lisp","haskell","python",2
+"1977","","","","","",NA
+"1978","C","Javascript","","","",2
+"1979","C++","C","Java","","",2
+"1980","","","","","",NA
+"1981","javascript","sql","java","objective c","",1
+"1982","C","C++","Ruby","","",1
+"1983","C","","","","",1
+"1984","","","","","",NA
+"1985","bash","c","","","",1
+"1986","C","SQL","BASIC","python","",3
+"1987","C","","","","",1
+"1988","javascript","xslt","php","","",1
+"1989","c","objective c","java","","",1
+"1990","javascript","","","","",1
+"1991","C++","Java","JavaScript","","",3
+"1992","","","","","",2
+"1993","tcl tk","javascript","smalltalk","c","",1
+"1994","php","java","","","",1
+"1995","ruby","php","scheme","java","",2
+"1996","Bourne shell","Python","","","",1
+"1997","c++","bash","","","",1
+"1998","","","","","",NA
+"1999","bash","javascript","","","",1
+"2000","c++","c","","","",3
+"2001","Javascript","C#","","","",1
+"2002","html","css","javascript","","",3
+"2003","c","bash","python","java","",2
+"2004","","","","","",NA
+"2005","C","Shell","JavaScript","","",1
+"2006","sql","c","python","r","c++",1
+"2007","Matlab","C++","","","",2
+"2008","python","scala","javascript","c","",2
+"2009","","","","","",NA
+"2010","python","emacs lisp","bash","c","java",5
+"2011","PHP","bash","C","","",1
+"2012","bash","latex","delphi","php","vb",1
+"2013","","","","","",NA
+"2014","realbasic","jython","","","",1
+"2015","","","","","",1
+"2016","PHP","C++","java","actionscript","javascript",1
+"2017","ruby","c++","javascript","","",4
+"2018","C","PHP","","","",1
+"2019","php","ruby","pl sql","sql","c++",1
+"2020","visual basic","c","Java","","",3
+"2021","","","","","",NA
+"2022","","","","","",1
+"2023","objective c","javascript","python","","",1
+"2024","Python","Shell","Lisp","","",2
+"2025","LaTeX","PlPgSQL","","","",1
+"2026","PowerScript","java","javascript","","",2
+"2027","","","","","",NA
+"2028","php","asp","bash","javascript","c++",1
+"2029","php","","","","",NA
+"2030","","","","","",NA
+"2031","","","","","",1
+"2032","","","","","",NA
+"2033","","","","","",NA
+"2034","VBA","VB6","","","",2
+"2035","","","","","",NA
+"2036","C","javascript","","","",1
+"2037","javascript","","","","",1
+"2038","","","","","",NA
+"2039","Java","Python","Ruby","C","",4
+"2040","python","php","sql","zsh","",1
+"2041","Java","","","","",1
+"2042","PHP","Java","javascript","r","bash",1
+"2043","php","bash","C#","","",1
+"2044","PHP","Shell","Javascript","","",2
+"2045","c","C#","DCL","TPU","",2
+"2046","java",".net","c","","",1
+"2047","","","","","",NA
+"2048","","","","","",NA
+"2049","Java","PHP","Bash","Javascript","Python",1
+"2050","","","","","",NA
+"2051","bash","PHP","","","",1
+"2052","","","","","",NA
+"2053","Java","bash","haskell","","",2
+"2054","SAS","Perl","vbscript","SQL","",2
+"2055","ksh","sql","javascript","","",1
+"2056","Ruby (Rails)","pl/sql","php","c","",1
+"2057","C","C++","Python","","",3
+"2058","Java","Python","","","",2
+"2059","python","","","","",2
+"2060","python","php","ruby","","",4
+"2061","","","","","",NA
+"2062","c","c++","bash","sql","",2
+"2063","","","","","",NA
+"2064","C++","Python","C#","haskell","shell",4
+"2065","","","","","",NA
+"2066","","","","","",NA
+"2067","","","","","",1
+"2068","fortran","ksh","Bash","basic","c",1
+"2069","javascript","bash","java","","",1
+"2070","C++","C","","","",3
+"2071","c#","PHP","","","",1
+"2072","","","","","",1
+"2073","","","","","",NA
+"2074","sql","pl sql","java","javascript","ruby",2
+"2075","Python","bash","php","perl","javascript",4
+"2076","python","c++","c+","java","",1
+"2077","","","","","",NA
+"2078","PHP","python","java","","",1
+"2079","Haskell","C","Lua","scheme","java",6
+"2080","java","","","","",2
+"2081","PHP","python","JavaScript","Bash","C",1
+"2082","","","","","",NA
+"2083","php","python","","","",1
+"2084","c#","c++","c","assembler","java",5
+"2085","Python","C","C++","lisp scheme","",5
+"2086","C++","C","sh","assembly","",1
+"2087","java","javascript","","","",1
+"2088","javascript","bash","php","","",1
+"2089","","","","","",NA
+"2090","ruby","sql","r","clojure","haskell",1
+"2091","sh","c","","","",1
+"2092","R","C","python","bash?","",1
+"2093","java","php","c","","",1
+"2094","php","python","","","",1
+"2095","javascript","bash","c","4gl","c++",1
+"2096","","","","","",NA
+"2097","Java","bash","php","ruby","",2
+"2098","c++","java","php","c","haskell",1
+"2099","sql","c++","bash","lua","",1
+"2100","","","","","",NA
+"2101","sh","C","Lua","C++","Python",2
+"2102","","","","","",NA
+"2103","","","","","",NA
+"2104","","","","","",NA
+"2105","shell scripting","","","","",1
+"2106","javascript","bash","python","c","java",1
+"2107","","","","","",NA
+"2108","bash","ruby","c","","",1
+"2109","shell","visual basic","python","","",1
+"2110","php","","","","",1
+"2111","php","ruby","c#","","",1
+"2112","C++","python","","","",2
+"2113","","","","","",NA
+"2114","","","","","",NA
+"2115","","","","","",NA
+"2116","","","","","",NA
+"2117","javascript","php","bash","","",1
+"2118","javascript","java","python","","",2
+"2119","c/c++","php","javascript","ruby","java",2
+"2120","Template Toolkit","javascript","HTML","","",1
+"2121","Java","c++","bash","python","C",2
+"2122","Java","c","bash","groovy","",1
+"2123","sql","c","ruby","bash","",1
+"2124","javascript","php","ruby on rails","","",1
+"2125","python","c++","bash","C#","",2
+"2126","","","","","",1
+"2127","Bash","JavaScript","C","Common Lisp","",1
+"2128","Javascript","Java","Common Lisp","","",1
+"2129","Perl","ECMAScript","java","c++","",1
+"2130","php","bash","","","",2
+"2131","C++","javascript","","","",2
+"2132","JavaScript","Java","","","",1
+"2133","php","","","","",1
+"2134","java","ruby","c++","bash","tcl",1
+"2135","bash","javascript","c","","",1
+"2136","C#","basic","","","",1
+"2137","","","","","",NA
+"2138","","","","","",NA
+"2139","","","","","",NA
+"2140","C","Java","Shell","SQL","HTML",3
+"2141","javascript","xslt","ruby","lisp scheme","c",1
+"2142","c","shell","sql","javascript","",1
+"2143","python","c++","lisp scheme","lua","bash",3
+"2144","Javascript","C","PHP","C++","Python",1
+"2145","","","","","",NA
+"2146","Matlab","Fortran","","","",1
+"2147","C","c++","assembler","","",1
+"2148","shell/bash","","","","",2
+"2149","javascript","php","java","prolog","lisp scheme",1
+"2150","","","","","",1
+"2151","C#","sql","python","f#","common lisp",3
+"2152","","","","","",NA
+"2153","","","","","",NA
+"2154","perl","shell","java","","",1
+"2155","bourne shell","javascript","C","java","ruby",1
+"2156","c","c++","java","javascript","",6
+"2157","","","","","",NA
+"2158","Ruby","JavaScript","c++","C#","sql",3
+"2159","sql","javascript","","","",1
+"2160","javascript","bash","html","python","php",1
+"2161","","","","","",NA
+"2162","","","","","",NA
+"2163","","","","","",2
+"2164","","","","","",NA
+"2165","","","","","",NA
+"2166","c++","C","powershell","java","",1
+"2167","Java","VisualBasic","PHP","","",3
+"2168","C","assembler","python","scheme","haskell",6
+"2169","sql","bash","c++","","",1
+"2170","","","","","",NA
+"2171","ocaml","javascript","bash","php","C++",1
+"2172","R","SQL","C","","",1
+"2173","Java","C#","VB","","",4
+"2174","python","c++","prolog","","",1
+"2175","javascript","c++","assembler","","",1
+"2176","SQL (MySQL , Oracle PL/SQL)","bash","javascript","Java","ruby",1
+"2177","bash","php","matlab","c","",1
+"2178","Mathematica","pro","SQL*PLUS","tcl","LISP",1
+"2179","PHP","Ruby","","","",1
+"2180","delphi","sql","","","",3
+"2181","Perl","javascript","ruby","php","c",2
+"2182","","","","","",NA
+"2183","C#","C","Python","","",3
+"2184","Ruby","Javascript","bash","","",2
+"2185","java","php","","","",1
+"2186","Python","PHP","Go","Ruby","C++",3
+"2187","C","C++","java","php","javascript",3
+"2188","","","","","",NA
+"2189","","","","","",NA
+"2190","sql","java","xslt","","",3
+"2191","ruby","objective c","bash","python","c",1
+"2192","bash","php","","","",2
+"2193","","","","","",1
+"2194","","","","","",NA
+"2195","c++","perl","java","c","",2
+"2196","xslt","","","","",1
+"2197","","","","","",NA
+"2198","","","","","",NA
+"2199","","","","","",1
+"2200","","","","","",NA
+"2201","Javascript","C++","c","","",1
+"2202","javascript","python","php","","",2
+"2203","java","Perl","C","sql","",2
+"2204","","","","","",NA
+"2205","Objective-C","C","Javascript","Ruby","C++",3
+"2206","","","","","",1
+"2207","java","c","c++","sql","bash",2
+"2208","C++ ","visual basic","","","",1
+"2209","c++","c","php","","",1
+"2210","C++","Perl 6","","","",3
+"2211","bash","python","","","",1
+"2212","Java","C","","","",1
+"2213","bash","python","","","",1
+"2214","","","","","",NA
+"2215","","","","","",NA
+"2216","bash","jython","","","",1
+"2217","","","","","",NA
+"2218","Shell","Javascript","Java","Python","C++",1
+"2219","C","Java","C++","","",1
+"2220","python","c#","c","","",1
+"2221","bash","c++","c","python","",2
+"2222","PL/SQL","Python","Javascript","","",1
+"2223","JavaScript","C","Java","HTML","CSS",1
+"2224","javascript","java","lua","C++","",1
+"2225","C","C++","Shell","Python","Ruby",4
+"2226","bash","C","","","",2
+"2227","PHP","python","Ruby","","",2
+"2228","Clojure","Ruby","Scheme","","",4
+"2229","Java","C#","PHP","C++","python",1
+"2230","sql","html","css","javascript","visual basic",2
+"2231","PHP","Ruby","","","",1
+"2232","C","C++","groovy","haskell","scala",1
+"2233","matlab","C","java","","",4
+"2234","","","","","",NA
+"2235","","","","","",NA
+"2236","Java","Javascript","php","python","",5
+"2237","c","","","","",1
+"2238","","","","","",NA
+"2239","C","C++","Ruby","","",2
+"2240","Lisp","Smalltalk","Haskell","Erlang","C#",6
+"2241","python","clojure","javascript","php","bash",2
+"2242","C/C++","Java","Python","","",1
+"2243","c","c++","","","",3
+"2244","java","php","c++","","",2
+"2245","","","","","",NA
+"2246","javascript","","","","",1
+"2247","bash","ksh","","","",2
+"2248","PHP","bash","","","",1
+"2249","sql","javascript","java","lua","",1
+"2250","SQL","Javascript","HTML","CSS","XML",1
+"2251","","","","","",NA
+"2252","sh","","","","",1
+"2253","Java","Ruby","","","",1
+"2254","c","java","python","","",1
+"2255","java","","","","",1
+"2256","","","","","",NA
+"2257","python","","","","",1
+"2258","","","","","",NA
+"2259","C++","Java","python","bash","php",3
+"2260","C#","Shell Script","PL/SQL","Transact SQL","PHP",6
+"2261","SQL","PL/SQL","java","Coldfusion","",2
+"2262","C/C++","Visual Basic.NET","Bash","","",2
+"2263","javascript","actionscript","haskell","bash","applescript",1
+"2264","Java","C++","C","ksh","",4
+"2265","C++","Emacs Lisp","","","",2
+"2266","C#","R","java","bash","c++",2
+"2267","bash","csh","c","fortran","",1
+"2268","","","","","",NA
+"2269","c++","sql","java","","",1
+"2270","C","php","visual basic","c++","",1
+"2271","python","bash","","","",1
+"2272","","","","","",NA
+"2273","javascript","C","SQL","Java","C++",1
+"2274","javascript","php","","","",1
+"2275","Java","FORTRAN","c","Clojure","",4
+"2276","javascript","java","","","",1
+"2277","","","","","",NA
+"2278","Shell/Bash","Javascript","","","",1
+"2279","bash","c","php","javascript","",1
+"2280","python","ruby","","","",1
+"2281","Perl","Shell scripts","SQL","Javascript","c/c++",1
+"2282","java","c++","c","elisp","",1
+"2283","ruby","PHP","","","",1
+"2284","Java","","","","",1
+"2285","c","perl","ruby","python","java",2
+"2286","C","","","","",1
+"2287","Java","c++","csh","c","",2
+"2288","PHP","java","","","",3
+"2289","php","","","","",1
+"2290","c","","","","",1
+"2291","Ruby","C","javascript","C++","java",1
+"2292","C","javascript","php","ruby","",1
+"2293","","","","","",NA
+"2294","fortran","","","","",1
+"2295","C","Java","PHP","javascript","",1
+"2296","c","JavaScript","Prolog","Makefile language","sh",1
+"2297","Javascript","","","","",1
+"2298","java","C#","C","Powershell","",4
+"2299","Python","C++","Haskell","C","Javascript",1
+"2300","","","","","",NA
+"2301","bash","CTL","","","",1
+"2302","Objective-C","Ruby","PHP","java","erlang",4
+"2303","python","java","javascript","scala","",2
+"2304","Java","Groovy","","","",6
+"2305","VBA","","","","",1
+"2306","","","","","",NA
+"2307","bash","tcl tk","c","c++","",1
+"2308","","","","","",NA
+"2309","","","","","",NA
+"2310","","","","","",NA
+"2311","","","","","",1
+"2312","Java","RPG IV","python","PHP","",5
+"2313","","","","","",NA
+"2314","php","javascript","","","",3
+"2315","Unix-Shell","","","","",2
+"2316","Ruby","shell","C++","","",1
+"2317","c++","java","R","bash","elisp",4
+"2318","Python","c++","r","","",3
+"2319","java","python","c","c++","ruby",6
+"2320","VB","C","COBOL","Java","",1
+"2321","rexx","javascript","php","sql","",3
+"2322","C#","C++","C","Javascript","PHP",6
+"2323","javascript","sql","bash","php","",1
+"2324","javascript","vbscript","java","","",1
+"2325","ABAP","c","python","awk","sql",2
+"2326","C#","c","","","",1
+"2327","bash","SQL","","","",1
+"2328","javascript","C","lisp","python","J",1
+"2329","Python","Java","Javascript","C","",2
+"2330","Python","C++","","","",1
+"2331","sql","javascript","","","",1
+"2332","javascript","","","","",1
+"2333","ruby","arc","scheme","lisp","bash",3
+"2334","objective c","c++","php","python","c",6
+"2335","","","","","",NA
+"2336","Python","PHP","Java","C","",6
+"2337","Korn shell","C","Python","make","Java",1
+"2338","","","","","",NA
+"2339","pl sql","javascript","bash","","",1
+"2340","c++","SystemVerilog","javascript","tcl","php",1
+"2341","LPC","","","","",2
+"2342","","","","","",NA
+"2343","bash","python","ruby","","",1
+"2344","Java","ruby","javascript","c","",1
+"2345","scheme","c","C++","python","php",1
+"2346","","","","","",NA
+"2347","Java","Javascript","Python","","",4
+"2348","java","","","","",1
+"2349","javascript","java","sql","bash","",1
+"2350","","","","","",NA
+"2351","java","c","","","",6
+"2352","","","","","",NA
+"2353","javascript","html/css","php","python","ruby",1
+"2354","","","","","",NA
+"2355","php","java","","","",6
+"2356","","","","","",NA
+"2357","Ruby","PHP","bash","C/C++","",2
+"2358","bash","","","","",1
+"2359","C","java","C#","C++","",1
+"2360","","","","","",1
+"2361","javascript","java","bash","c","",2
+"2362","IDL","javascript","bash","PHP","C",1
+"2363","","","","","",NA
+"2364","javascript","php","","","",1
+"2365","","","","","",NA
+"2366","Java","Unix shell","c++","Ruby","",2
+"2367","Python","C","Javascript","Perl","Shell",4
+"2368","Objective-C","C++","C","VBScript","",3
+"2369","objective c","c#","java","python","c",2
+"2370","","","","","",1
+"2371","javascript","sql(postgres)","","","",1
+"2372","","","","","",NA
+"2373","c","c++","python","objective c","",3
+"2374","Java","Delphi","Shell","Batch","",3
+"2375","","","","","",NA
+"2376","bash","","","","",1
+"2377","php","rails","","","",1
+"2378","javascript","sql","c","c++","java",1
+"2379","","","","","",1
+"2380","c","c++","java","","",1
+"2381","","","","","",NA
+"2382","bash","c","tcl","java","tcsh",1
+"2383","","","","","",NA
+"2384","","","","","",NA
+"2385","PHP","","","","",1
+"2386","Haskell","Python","C","Lisp","",1
+"2387","javascript","sql","pl sql","","",2
+"2388","Javascript","c","c++","python","php",1
+"2389","","","","","",NA
+"2390","bash","java","","","",1
+"2391","delphi","java","php","bash","lua",6
+"2392","bash","php","sql","javascript","java",1
+"2393","ZSH/Bash","Java","c","","",2
+"2394","","","","","",NA
+"2395","vba","diverse bactch script","Excel","","",1
+"2396","","","","","",NA
+"2397","","","","","",NA
+"2398","Javascript","Java","","","",1
+"2399","","","","","",NA
+"2400","php","coldfusion","","","",3
+"2401","PHP","","","","",2
+"2402","bash","javascript","","","",1
+"2403","","","","","",NA
+"2404","sql","bash","c","","",1
+"2405","","","","","",NA
+"2406","","","","","",NA
+"2407","php","c#","c++","","",1
+"2408","","","","","",NA
+"2409","c","assembly(x86)","python","c++","scheme",2
+"2410","","","","","",NA
+"2411","Python","c","awk","consistent changes","",5
+"2412","","","","","",NA
+"2413","Python","JavaScript","zsh","vimscript","Brainfuck",3
+"2414","","","","","",1
+"2415","javascript","excel","","","",1
+"2416","JavaScript","HTML/CSS","SQL","","",1
+"2417","Ruby","Java","C","python","C#",3
+"2418","Bash shell","","","","",1
+"2419","","","","","",NA
+"2420","python","c++","java","","",1
+"2421","PHP","vbscript","visual basic","C#","bash",2
+"2422","php","javascript","c++","java","sql",3
+"2423","","","","","",NA
+"2424","python","Perl","sh","","",2
+"2425","plpgsql","bash","plsql","","",1
+"2426","","","","","",NA
+"2427","java","c++","python","","",3
+"2428","javascript","java","bash","","",1
+"2429","","","","","",1
+"2430","Java","Natural (see http://www.softwareag.com)","C++","","",3
+"2431","shell","awk","c","","",1
+"2432","","","","","",1
+"2433","java","javascript","groovy","","",1
+"2434","PHP","","","","",1
+"2435","delphi","visual basic","c","javascript","ruby",1
+"2436","","","","","",NA
+"2437","","","","","",1
+"2438","python","clojure","scheme","php","java",1
+"2439","bash","php","python","javascript","actionscript",6
+"2440","Javascript","","","","",1
+"2441","java","javascript","php","vb","",5
+"2442","perl","javascript","sql","","",1
+"2443","","","","","",NA
+"2444","C","java","","","",1
+"2445","shell","c++","haskell","","",1
+"2446","Perl","PHP","Ruby","","",1
+"2447","Powerbuilder","C#","visual basic","","",1
+"2448","javascript","sql","","","",1
+"2449","","","","","",NA
+"2450","python","C","bash","javascript","",1
+"2451","","","","","",NA
+"2452","Delphi","php","c++","ruby","",1
+"2453","Perl","Ruby","","","",1
+"2454","php","javascript","java","python","",3
+"2455","Ruby","Shell","","","",2
+"2456","bash","c","","","",1
+"2457","ruby","php","lisp scheme","","",1
+"2458","php","java","python","","",1
+"2459","c++","Java","","","",3
+"2460","Javascript","Python","C++","","",1
+"2461","java","c","bash","","",2
+"2462","F#","","","","",1
+"2463","bash","DOS batch file programming","delphi","","",1
+"2464","","","","","",NA
+"2465","c","c++","php","perl","bash",3
+"2466","javascript","ruby","python","java","scala",1
+"2467","","","","","",NA
+"2468","","","","","",NA
+"2469","","","","","",1
+"2470","C","C++","assembler","awk","bash",4
+"2471","Scheme","C","Python","Scala","",6
+"2472","C","Cobol","","","",2
+"2473","SQL","Java","Ruby","php","c",1
+"2474","","","","","",NA
+"2475","C","Ruby","","","",1
+"2476","C","","","","",1
+"2477","php","javascript","java","ruby","",3
+"2478","","","","","",NA
+"2479","tcl","","","","",1
+"2480","Tcl","C","","","",1
+"2481","Scala","java","python","","",2
+"2482","C","","","","",1
+"2483","","","","","",1
+"2484","c","Go","scheme","erlang","python",3
+"2485","PHP","Perl","","","",2
+"2486","c","bash","","","",1
+"2487","Python","C++","Java","Haskell","",6
+"2488","c++","lisp scheme","erlang","","",2
+"2489","Java","C","C#","","",4
+"2490","","","","","",NA
+"2491","","","","","",NA
+"2492","C","Make","C++","Python","Ruby",1
+"2493","C","C++","""ShellScript""","awk","sed",1
+"2494","php","python","javascript","html","css",6
+"2495","bash","C","C++","php","python",2
+"2496","bash","python","c","java","",1
+"2497","bash","","","","",1
+"2498","","","","","",NA
+"2499","C","OCAML","RPG IV ILE","","",2
+"2500","oracle pl/sql","bash","db2 sql","","",1
+"2501","c","c++","sql","shell","java",1
+"2502","","","","","",NA
+"2503","","","","","",1
+"2504","java","php","sql","","",4
+"2505","","","","","",NA
+"2506","Java","C","Shell","","",1
+"2507","javascript","","","","",2
+"2508","","","","","",NA
+"2509","Python","c++","Jaava","","",2
+"2510","java","javascript","xslt","bash","c",1
+"2511","php","","","","",1
+"2512","PHP","JavaScript","bash","objective c","",2
+"2513","Python","C#","Lisp","C++","",5
+"2514","java","","","","",1
+"2515","powershell","sas","jcl","rexx","cobol",1
+"2516","javascript","sql","php","forth","",1
+"2517","","","","","",NA
+"2518","shell","javascript","ruby","python","java",1
+"2519","SQL","ruby","","","",1
+"2520","php","bash","visual basic","","",3
+"2521","PHP","Javascript","","","",3
+"2522","bash","","","","",1
+"2523","","","","","",NA
+"2524","csh","","","","",1
+"2525","C#","coldfusion","sql","c++","php",4
+"2526","C","Shell","","","",1
+"2527","","","","","",NA
+"2528","Java","","","","",1
+"2529","shell script","php","tcl tk","C","",1
+"2530","Java","","","","",1
+"2531","","","","","",1
+"2532","javascript","ksh","c++","java","ruby",1
+"2533","c++","c","matlab","lua","bash",2
+"2534","bash","c","sql","","",1
+"2535","bash","python","haskell","","",1
+"2536","c","scheme","haskell","bash","smalltalk",6
+"2537","","","","","",NA
+"2538","Ruby","Python","C","R","C++",2
+"2539","","","","","",NA
+"2540","SQL","bash","javascript","java","",1
+"2541","c#","php","javascript","pl sql","vbscript",5
+"2542","C++","JavaScript","","","",1
+"2543","javascript","","","","",1
+"2544","java","c","c++","","",2
+"2545","","","","","",NA
+"2546","javascript","php","java","","",1
+"2547","javascript","java","","","",1
+"2548","Python","Ruby","Haskell","Common Lisp","",1
+"2549","c","c++","","","",1
+"2550","Java","","","","",2
+"2551","perl","plpgsql","bash","","",1
+"2552","php","JavaScript","python","Java","",3
+"2553","objective c","ruby","zsh","","",1
+"2554","Javascript","Java","","","",1
+"2555","php","bash","","","",1
+"2556","","","","","",NA
+"2557","C","Shell","java","","",2
+"2558","","","","","",NA
+"2559","php","bash/batch","","","",1
+"2560","javascript","bash","csh","c++","JAVA",1
+"2561","Haskell","C","python","javascript","",3
+"2562","php","applescript","javascript","","",1
+"2563","PHP","C","Python","","",2
+"2564","javascript","korn shell","Java","","",1
+"2565","bash","c","php","python","sed",3
+"2566","php","c","bash","","",1
+"2567","c","sql","bash","python","ruby",1
+"2568","Shell","JavaScript","","","",1
+"2569","Shell","C","","","",1
+"2570","java","bash","javascript","","",2
+"2571","c++","php","","","",1
+"2572","","","","","",NA
+"2573","cgi","html","TCL/Expect","","",1
+"2574","Ruby","Haskell","Python","","",2
+"2575","shell","ruby","python","","",2
+"2576","perl","bash","javascript","sql","php",1
+"2577","javascript","","","","",1
+"2578","c++","c","python","","",3
+"2579","","","","","",NA
+"2580","","","","","",NA
+"2581","","","","","",1
+"2582","","","","","",NA
+"2583","python","java","tcl","c++","c#",2
+"2584","sql","c++","c","bash","",1
+"2585","c","bash","awk","fortran","c++",1
+"2586","javascript","php","sh","","",1
+"2587","python","java","bash","javascript","c",3
+"2588","javascript","sql","ruby","","",1
+"2589","python","Windows shell (batch)","c","","",1
+"2590","","","","","",NA
+"2591","java","javascript","php","go","lisp",2
+"2592","Java","","","","",2
+"2593","c++","c","","","",1
+"2594","","","","","",NA
+"2595","pl sql","bash","javascript","","",1
+"2596","","","","","",NA
+"2597","","","","","",NA
+"2598","Ruby","javascript","Clojure","","",5
+"2599","PHP","javascript","C++","Java","",3
+"2600","Java","","","","",1
+"2601","","","","","",NA
+"2602","Pawn","pascal","C","assembler","",2
+"2603","","","","","",NA
+"2604","","","","","",NA
+"2605","","","","","",NA
+"2606","bash","sql","","","",1
+"2607","","","","","",1
+"2608","Ruby","bash","php","","",4
+"2609","c","javascript","java","","",1
+"2610","Lisp","C","","","",1
+"2611","python","bash","","","",3
+"2612","php","javascript","","","",2
+"2613","","","","","",1
+"2614","java","javascript","C++","","",1
+"2615","JavaScript","PHP","ColdFusion","","",1
+"2616","Python","C","Java","php","Ruby",5
+"2617","","","","","",1
+"2618","SQL","grace","sh","c","perl6",1
+"2619","C#","Javascript","sql","bash","",3
+"2620","C","PHP","python","","",2
+"2621","javascript","php","sql","","",1
+"2622","","","","","",1
+"2623","bash","C","javascript","python","",1
+"2624","javascript","c","bash","","",2
+"2625","C++","C","Bash","Ada","prolog",2
+"2626","javascript","java","c++","c","",1
+"2627","Python","Ruby","Lisp","Io","",1
+"2628","php","javascript","","","",2
+"2629","Java","Clojure","Ruby","","",4
+"2630","PL/SQL","C","javascript","Java","C++",4
+"2631","sql","javascript","c","java","bash",1
+"2632","","","","","",1
+"2633","","","","","",NA
+"2634","C/C++","python","ruby","","",2
+"2635","c++","python","","","",1
+"2636","C#","PHP","C","C++","Python",1
+"2637","php","python","","java","",2
+"2638","","","","","",NA
+"2639","SQL","Pl/pgsql","python","javascript","c",3
+"2640","C#","javascript","C++","Powershell","Java",5
+"2641","python","bash","c","c++","",2
+"2642","Scheme","","","","",1
+"2643","c","c++","java","","",1
+"2644","","","","","",NA
+"2645","puppet","bourne shell","ruby","c","",1
+"2646","R","ruby","javascript","","",1
+"2647","","","","","",NA
+"2648","visual basic","javascript","","","",2
+"2649","python","javascript","c","","",4
+"2650","c","c++","bash","","",3
+"2651","javascript","php","html","css","python",1
+"2652","PHP","ksh","bash","Java","",2
+"2653","","","","","",NA
+"2654","javascript","shell","","","",1
+"2655","ruby","javascript","","","",2
+"2656","php","java","bash","C++","C",2
+"2657","","","","","",NA
+"2658","PHP but I don't like to","","","","",1
+"2659","bash","ksh","php","html","javascript",2
+"2660","ksh","c","php","","",1
+"2661","Perl","C++","PHP","Java","",1
+"2662","Javascript","sql","bash","","",1
+"2663","Ruby","","","","",2
+"2664","C++","C","javascript","bash","",2
+"2665","","","","","",NA
+"2666","java","","","","",2
+"2667","","","","","",NA
+"2668","Logo","Cecil","COBOL","","",6
+"2669","sql","python","c","","",1
+"2670","","","","","",NA
+"2671","C","PL/SQL","ABF","pascal","prolog",3
+"2672","","","","","",1
+"2673","PHP","Sh","","","",1
+"2674","lua","c++","php","c","sh",1
+"2675","","","","","",NA
+"2676","","","","","",NA
+"2677","ruby","python","C++","SQL/PLPGSQL","PHP",1
+"2678","","","","","",1
+"2679","java","perl","groovy","","",3
+"2680","xml","","","","",1
+"2681","","","","","",NA
+"2682","bash","","","","",1
+"2683","javascript","java","","","",1
+"2684","","","","","",NA
+"2685","SQL","Java","Ruby","Python","",1
+"2686","","","","","",NA
+"2687","","","","","",1
+"2688","r","python","c","c++","java",1
+"2689","shell scripts","octave","","","",1
+"2690","C++","Java","FORTRAN","C","Javascript",2
+"2691","C","C++","python","","",3
+"2692","","","","","",NA
+"2693","ruby","cucumber","unix","","",2
+"2694","","","","","",5
+"2695","javascript","php","C","","",1
+"2696","bash","OCaml","Go","Javascript","",1
+"2697","sql","bash","","","",1
+"2698","C","Javascript","Ruby","","",1
+"2699","php","python","ruby","c","objective c",3
+"2700","c#","java","c++","visual basic","javascript",1
+"2701","Korn shell","C","Java","SQL","Common Lisp",2
+"2702","javascript","lisp","c","bash","",1
+"2703","xslt","java","scala","c","prolog",1
+"2704","php","bash","","","",1
+"2705","java","shell script","javascript","","",2
+"2706","R","C","","","",1
+"2707","php","c","pascal","python","",3
+"2708","","","","","",NA
+"2709","C++","C","","","",2
+"2710","sql","javascript","java","shell","c",1
+"2711","Javascript","","","","",1
+"2712","python","sh","C","Java","",1
+"2713","","","","","",NA
+"2714","javascript","php","c","c++","java",1
+"2715","c++","java","javascript","bash","",1
+"2716","python","Java","bash","c","PL/SQL",1
+"2717","bash","javascript","python","java","c",1
+"2718","","","","","",NA
+"2719","Java","c++","AutoIt","c#","",1
+"2720","javascript","C","Java","C++","haskell",1
+"2721","","","","","",NA
+"2722","haskell","bash","c","java","",1
+"2723","python","bash","","","",3
+"2724","bash","ruby","sql","c","c++",4
+"2725","Python","R","C","java","c#",4
+"2726","","","","","",1
+"2727","C++","java","","","",1
+"2728","python","haskell","javascript","","",1
+"2729","Python","Bash","","","",3
+"2730","java","c","","","",1
+"2731","C","c++","javascript","java","assembler",1
+"2732","Javascript","sql","","","",1
+"2733","","","","","",NA
+"2734","java","javascript","xslt","pl sql","cobol",5
+"2735","bourne shell","php","","","",1
+"2736","PL/SQL","bash","JavaScript","","",1
+"2737","Transact-SQL","","","","",NA
+"2738","c","c++","bash","make","javascript",1
+"2739","c","pl sql","delphi","","",1
+"2740","PHP",".Net","Java Script","Visual Basic","",1
+"2741","","","","","",NA
+"2742","actionscript","c++","c#","jsfl","",6
+"2743","SQL","Objective-C","javascript","","",1
+"2744","","","","","",NA
+"2745","java","c++","javascript","","",2
+"2746","Javascript","C","Lua","Java","",1
+"2747","bash","c","c++","fortran","",1
+"2748","sh","java","python","c","c++",4
+"2749","C","Java","python","php","ruby",2
+"2750","C","java","Shell","C++","Javascript",1
+"2751","Haskell","Javascript","PHP","C","Bash",1
+"2752","","","","","",NA
+"2753","","","","","",NA
+"2754","unix shell (bash)","","","","",1
+"2755","C","javascript","BASH","","",1
+"2756","bash","","","","",1
+"2757","","","","","",NA
+"2758","Javascript","","","","",1
+"2759","C++","C","JavaScript","python","",3
+"2760","Bourne shell scripts","Python","Octave","","",1
+"2761","JavaScript","C","","","",1
+"2762","","","","","",NA
+"2763","bash","C","","","",1
+"2764","","","","","",NA
+"2765","SQL","python","c","c++","objective c",4
+"2766","","","","","",NA
+"2767","","","","","",NA
+"2768","c","c++","lua","","",1
+"2769","","","","","",NA
+"2770","javascript","c++","","","",1
+"2771","Bash","C","Python","Ruby","",1
+"2772","java","python","bash","","",4
+"2773","","","","","",NA
+"2774","PHP","C#","JavaScript","","",6
+"2775","bash","ruby","python","","",1
+"2776","Python","Java","C(++)","Tcl","Elisp",4
+"2777","BATCH","","","","",1
+"2778","c","python","php","erlang","comedy option : brainfuck",6
+"2779","common lisp","javascript","php","","",2
+"2780","c","bash","c#","javascript","sql",1
+"2781","","","","","",NA
+"2782","bash shell scripting","","","","",1
+"2783","javascript","ruby","java","","",1
+"2784","","","","","",1
+"2785","java","javascript","sql","c++","C",1
+"2786","","","","","",NA
+"2787","Perl","Bash","","","",1
+"2788","c","c++","php","python","",3
+"2789","SQL","PL/SQL","Java","Shell scripting","JavaScript",2
+"2790","php","html","sql","","",1
+"2791","Python","Scheme","Scala","","",6
+"2792","php","c#","ruby","python","haskell",5
+"2793","Perl","PHP","bash","","",1
+"2794","C","Java","PHP","SH","",1
+"2795","","","","","",NA
+"2796","","C#","","","",1
+"2797","visual basic for applications","pl/sql","bash","PeopleCode","SQR",2
+"2798","Bash","sh","c","R stats package","scheme",1
+"2799","Bash","C ","make","","",1
+"2800","ruby","javascript","php","python","java",3
+"2801","","","","","",NA
+"2802","javascript","java","C#","","",1
+"2803","Bash","SH","PHP","","",1
+"2804","Clojure","Scala","javascript","Java","Hskell",1
+"2805","","","","","",NA
+"2806","javascript","php","bash","c","",1
+"2807","SQL","Javascript","C++","PHP","Java",1
+"2808","bash","java","php","","",1
+"2809","bash shell","java","lisp scheme","perl","scratch",4
+"2810","python","r","","","",1
+"2811","c++","javascript","java","","",1
+"2812","c#","python","c","java","",6
+"2813","java","php","","","",1
+"2814","","","","","",NA
+"2815","","","","","",NA
+"2816","Haskell","java","PHP","javascript","",6
+"2817","C++","Javascript","python","","",1
+"2818","bash","java","c","awk","",1
+"2819","bash","","","","",1
+"2820","postgres  plsql","Donald Knuth TeX","sao, tdu - my own","","",1
+"2821","","","","","",NA
+"2822","Matlab","R","","","",1
+"2823","","","","","",NA
+"2824","PHP","C","tcl tk","","",1
+"2825","","","","","",NA
+"2826","python","lisp scheme","haskell","sql","c++",6
+"2827","C","Javascript","Java","","",1
+"2828","PHP","Objective-C","Java","","",1
+"2829","Unix shell","javascript","sql","php","",1
+"2830","","","","","",NA
+"2831","","","","","",NA
+"2832","","","","","",NA
+"2833","python","java","c++","javascript","",6
+"2834","","","","","",NA
+"2835","Java","Ruby","C++","","",2
+"2836","Cobol","Intercal","B","Dylan","basic",6
+"2837","c","c++","python","haskell","latex",6
+"2838","","","","","",NA
+"2839","PHP","Objective C","python","","",1
+"2840","Java","Bash","ML","","",1
+"2841","bash","php","awk","","",1
+"2842","javascript","sql","php","c","vbscript",1
+"2843","Haskell","PHP","Python","Ruby","Java",6
+"2844","java","","","","",1
+"2845","C#","c","javascript","c++","java",4
+"2846","Common Lisp","Emacs Lisp","C","sh","Haskell",6
+"2847","c","","","","",1
+"2848","Python","C","Shell (bash)","Java","",1
+"2849","bash","javascript","lua","c","java",1
+"2850","matlab","mathematica","ocean","skill","",2
+"2851","Bash","","","","",2
+"2852","c++","","","","",1
+"2853","python","javascript","php","ruby","",5
+"2854","","","","","",NA
+"2855","C++","C","haskell","php","java",4
+"2856","javascript","","","","",1
+"2857","Bash","Java","","","",1
+"2858","python","java","scheme","haskell","r",6
+"2859","C++","Java","Python","","",1
+"2860","c","javascript","","","",1
+"2861","JavaScript","","","","",1
+"2862","","","","","",NA
+"2863","java","python","","","",1
+"2864","C++","c","csh","","",2
+"2865","","","","","",1
+"2866","plsql","basic","c/c++","","",1
+"2867","","","","","",NA
+"2868","php","shell script","","","",1
+"2869","PHP","Javascript","c","Perl","",6
+"2870","","","","","",NA
+"2871","javascript","python","","","",1
+"2872","C","PHP","C++","sh","",2
+"2873","javascript","python","","","",1
+"2874","c","c++","","","",1
+"2875","BASH shell","c","","","",1
+"2876","PHP","c","","","",1
+"2877","Java","Python","","","",3
+"2878","SQL","PL/SQL","Powerbuilder","C","",2
+"2879","c++","java","","","",1
+"2880","ruby","javascript","Quickbasic","","",1
+"2881","bash","ruby","","","",2
+"2882","C","bash","","","",1
+"2883","Java","c","xquery","xslt","",1
+"2884","c","ruby","","","",2
+"2885","c","java","bash","objective c","",1
+"2886","","","","","",NA
+"2887","c++","javascript","","","",2
+"2888","Ruby","Java","","","",1
+"2889","Python","c++","php","","",1
+"2890","bash","awk","sed","","",1
+"2891","html/css","sql","javascript","c","bash",1
+"2892","Python","C++","","","",1
+"2893","bash","python","","","",1
+"2894","Bourne Shell","ruby","c","","",1
+"2895","JavaScript","PHP","Visual Basic","C#","Python",3
+"2896","","","","","",NA
+"2897","","","","","",NA
+"2898","","","","","",1
+"2899","sql","javascript","bash","java","php",1
+"2900","Java","bash","Ruby","","",1
+"2901","sql","bash","","","",1
+"2902","","","","","",NA
+"2903","","","","","",NA
+"2904","Python","C","PHP","","",1
+"2905","Shell/bash","java","javascript","","",1
+"2906","","","","","",1
+"2907","C","Shell","","","",1
+"2908","javascript","java","c","","",1
+"2909","php","javascript","","","",1
+"2910","javascript","bash","","","",1
+"2911","JAVA","JAVASCRIPT","BASH","PYTHON","",5
+"2912","","","","","",1
+"2913","c++","c","ruby","","",1
+"2914","C","java","C++","Shell scripting","python",4
+"2915","javascript","c++","java","c","actionscript",1
+"2916","PL/SQL","C","","","",1
+"2917","bash","C","","","",1
+"2918","bash","","","","",1
+"2919","elisp","bash","R","haskell","c",1
+"2920","Shell","emacs lisp","C","","",1
+"2921","c","shell scripts","","","",1
+"2922","lua","c++","c","haskell","python",1
+"2923","javascript","php","ruby","python","java",1
+"2924","php","ruby","","","",1
+"2925","php","xquery","javascript","sql","bash",1
+"2926","PHP","C","","","",2
+"2927","sql","javascript","c","pl sql","",1
+"2928","Perl","","","","",1
+"2929","java","c","python","ruby","c++",1
+"2930","applescript","","","","",1
+"2931","JavaScript","php","ruby","python","c",3
+"2932","","","","","",NA
+"2933","ksh","php","python","bash","sql",1
+"2934","PeopleCode","","","","",1
+"2935","","","","","",NA
+"2936","Bash","C","Ruby","","",2
+"2937","","","","","",NA
+"2938","Basic","Fortran","","","",1
+"2939","","","","","",NA
+"2940","ruby","javascript","objective c","c","c++",3
+"2941","","","","","",NA
+"2942","C","CUDA","shell script","c++","php",4
+"2943","bash","javascript","C","","",1
+"2944","","","","","",NA
+"2945","","","","","",NA
+"2946","scala","java","python","","",3
+"2947","javascript","sql","bash","","",1
+"2948","Python","Erlang","OCaml","","",4
+"2949","php","bash","javascript","","",1
+"2950","C++","C#","PHP","","",3
+"2951","python","C#","Perl","lisp scheme","c++",3
+"2952","r","php","bash","awk","",1
+"2953","SQL","c","bash","ruby","c++",1
+"2954","Oracle SQL","PL/SQL","","","",1
+"2955","shell","javascript","c","","",1
+"2956","python","php","","","",1
+"2957","","","","","",NA
+"2958","","","","","",NA
+"2959","","","","","",NA
+"2960","PHP","ASP","","","",1
+"2961","","","","","",NA
+"2962","C","C++","","","",2
+"2963","","","","","",NA
+"2964","","","","","",NA
+"2965","JavaScript","Python","php","java","c#",3
+"2966","Java","bash","Groovy","","",2
+"2967","C++","c","java","","",4
+"2968","Python","Bash","PL/SQL","Java","C#",3
+"2969","C","java","","","",1
+"2970","javascript","java","","","",1
+"2971","","","","","",NA
+"2972","","","","","",NA
+"2973","","","","","",NA
+"2974","","","","","",NA
+"2975","Java","visual basic","","","",1
+"2976","java","C#","Python","","",6
+"2977","sql","bash","oracle pl/sql","","",1
+"2978","Ada","C","C++","Python","TCL",6
+"2979","","","","","",NA
+"2980","python","bash","java","scala","clojure",1
+"2981","cobol","c","Perl","","",2
+"2982","sql","","","","",1
+"2983","PHP","javascript","coldfusion","ruby","",4
+"2984","python","C","javascript","","",2
+"2985","Java","Scala","bash","clojure","",4
+"2986","ruby","python","bash","csh","vbscript",1
+"2987","","","","","",NA
+"2988","SQL","Shell scripts (bash)","JavaScript","C","",1
+"2989","C++","C#","TSQL","PHP","Python",4
+"2990","","","","","",1
+"2991","javascript","php","python","","",3
+"2992","VBA","vbscript","","","",1
+"2993","","","","","",NA
+"2994","tcsh","c++","","","",1
+"2995","[Ba]sh/Zsh Shell scripting","Perl","Ruby","C","",2
+"2996","C","OCaml","Matlab","","",2
+"2997","python","","","","",1
+"2998","sql","ksh","php","","",1
+"2999","PHP","","","","",1
+"3000","","","","","",NA
+"3001","","","","","",NA
+"3002","","","","","",NA
+"3003","c++","c","Python","r","",1
+"3004","","","","","",NA
+"3005","php","javascript","","","",3
+"3006","actionscript","c#","java","php","visual basic",6
+"3007","","","","","",NA
+"3008","Objective-C","C","bash","","",2
+"3009","javascript","c++","java","python","",1
+"3010","","","","","",NA
+"3011","shell","","","","",2
+"3012","","","","","",1
+"3013","C#","c","shell","perl","",3
+"3014","java","shell","perl","python","objective c",3
+"3015","C","zsh","Common Lisp","Emacs Lisp","",1
+"3016","","","","","",NA
+"3017","PHP","ruby","python","javascript","java",2
+"3018","sh","javascript","php","","",1
+"3019","ruby","javascript","","","",2
+"3020","","","","","",NA
+"3021","C","C++","bash","javascript","java",2
+"3022","python","c","","","",1
+"3023","","","","","",NA
+"3024","c#","javascript","scheme","perl","ruby",4
+"3025","javascript","python","","","",3
+"3026","java","javascript","","","",1
+"3027","","","","","",1
+"3028","ruby","python","java","elisp","",2
+"3029","Php","C","Java","","",1
+"3030","php","Python","Ruby","","",1
+"3031","c++","python","c","","",2
+"3032","","","","","",NA
+"3033","c++","bash","","","",1
+"3034","PHP","javascript","xslt","c++","perl",1
+"3035","","","","","",NA
+"3036","C","Java","C++","Common Lisp","Scheme",1
+"3037","Shell Scripting","T-SQL","C#","","",1
+"3038","Javascript","","","","",1
+"3039","Python","Java","PHP","Ruby","Bash",2
+"3040","","","","","",1
+"3041","","","","","",NA
+"3042","","","","","",NA
+"3043","Bash","Java","Javascript","C","ObjC",1
+"3044","Java","Z Shell","","","",2
+"3045","Python","Javascript","ruby","c","php",5
+"3046","C","C++","","","",1
+"3047","bash/shell scripting","C","","","",1
+"3048","Ruby","","","","",2
+"3049","BASH","javascript","php","java","",3
+"3050","python","C++","","","",6
+"3051","javascript","c","","","",1
+"3052","javascript","c","php","c++","java",2
+"3053","javascript","ruby","","","",1
+"3054","","","","","",NA
+"3055","Perl","sh","ruby","python","",1
+"3056","python","c","bash","","",1
+"3057","","","","","",NA
+"3058","objective c","bash","php","ruby","c",1
+"3059","C++","Bourne Shell","C","","",2
+"3060","","","","","",NA
+"3061","python","php","ruby","javascript","java",1
+"3062","ruby","sql","applescript","bash","javascript",1
+"3063","C","c++","vhdl","assembler","java",4
+"3064","c","java","","","",1
+"3065","PHP","javascript","actionscript","","",6
+"3066","","","","","",NA
+"3067","c","python","prolog","","",1
+"3068","bash","php","","","",1
+"3069","php","c","","","",2
+"3070","","","","","",NA
+"3071","java","","","","",1
+"3072","bash","sed","awk","sql","",1
+"3073","Java","Javascript","","","",1
+"3074","c++","","","","",2
+"3075","","","","","",NA
+"3076","c++","objective c","","","",2
+"3077","C","javascript","php","","",1
+"3078","pl sql","python","php","c#","javascript",2
+"3079","C","Java","","","",1
+"3080","Perl","JavaScript","VBA","awk","bash",1
+"3081","java","c","c++","","",3
+"3082","","","","","",NA
+"3083","","","","","",1
+"3084","","","","","",NA
+"3085","Bash","C/C++","","","",1
+"3086","Python","Groovy","Java","Go","",1
+"3087","Perl","javascript","java","csh","sql",1
+"3088","PHP","objective c","c++","Java","",2
+"3089","","","","","",NA
+"3090","","","","","",1
+"3091","php","bash","sql","C#","",1
+"3092","pl sql","C","Shell scripting in Unix/Lunix","SQL","Java",1
+"3093","Perl","java","","","",1
+"3094","python","java","c#","","",3
+"3095","Visual Basic","C#","","","",1
+"3096","","","","","",NA
+"3097","","","","","",NA
+"3098","java","","","","",6
+"3099","java","javascript","","","",1
+"3100","php","ruby","","","",1
+"3101","D","Java","scheme","python","C",4
+"3102","PHP","python","javascript","java","c",6
+"3103","php","java","","","",3
+"3104","mathematica","","","","",1
+"3105","python","c++","ruby","php","",6
+"3106","ruby","c","Delphi","","",1
+"3107","","","","","",NA
+"3108","php","java","c","","",3
+"3109","javascript","fortran","c","python","c++",1
+"3110","c","bash","javascript","python","",3
+"3111","","","","","",NA
+"3112","javascript","php","","","",1
+"3113","javascript","jquery","","","",1
+"3114","python","php","bash","","",1
+"3115","Maple","PHP","bash","","",1
+"3116","c sharp","javascript","visual basic","php","",5
+"3117","","","","","",NA
+"3118","bash","c++","","","",1
+"3119","","","","","",NA
+"3120","","","","","",NA
+"3121","javascript","bash","php","c","java",1
+"3122","ruby","javascript","php","C","",5
+"3123","C#","javascript","","","",1
+"3124","Perl 6","bash","ruby","python","java",2
+"3125","","","","","",1
+"3126","python","ruby","c","c++","javascript",1
+"3127","php","javascript","c","c++","bash",1
+"3128","","","","","",NA
+"3129","","","","","",NA
+"3130","javascript","","","","",1
+"3131","c","ruby","python","java","shell",2
+"3132","","","","","",NA
+"3133","java","python","c++","c","matlab",3
+"3134","","","","","",NA
+"3135","c","javascript","","","",1
+"3136","PHP","java","shells","","",1
+"3137","php","python","c","","",1
+"3138","","","","","",NA
+"3139","c++","c","pascal","lua","",4
+"3140","","","","","",NA
+"3141","Javascript","C++","C","","",1
+"3142","C","","","","",1
+"3143","c++","","","","",1
+"3144","javascript","bash","php","","",1
+"3145","C","python","java","javascript","ocaml",1
+"3146","","","","","",NA
+"3147","Javascript","PHP","Python","","",1
+"3148","c","bourne sh","javascript","html","css",1
+"3149","java","javascript","","","",1
+"3150","","","","","",NA
+"3151","Java","Ruby","C++","Python","PHP",3
+"3152","ruby","delphi","Perl","","",3
+"3153","visual basic","bash","vba","","",1
+"3154","","","","","",NA
+"3155","C","javascript","Perl","java","php",3
+"3156","","","","","",NA
+"3157","html","javascript","c","","",1
+"3158","javascript","actionscript","","","",1
+"3159","python","java","javascript","c++","groovy",6
+"3160","AppleScript","objective c","","","",1
+"3161","","","","","",NA
+"3162","Javascript","C","","","",1
+"3163","C","C++","","","",1
+"3164","","","","","",NA
+"3165","C","Objective-C","Haskell","Python","Scheme",6
+"3166","PHP (Drupal framework)","","","","",2
+"3167","","","","","",NA
+"3168","c","c++","javascript","","",1
+"3169","","","","","",NA
+"3170","C#","Javascript","C++","","",1
+"3171","php","bash","javascript","ruby","",2
+"3172","","","","","",NA
+"3173","","","","","",NA
+"3174","matlab","mathematica","python","c++","",1
+"3175","","","","","",NA
+"3176","Java","JRuby","Perl 5","C/C++","Perl 6",3
+"3177","java","c++","ruby","python","javascript",2
+"3178","","","","","",NA
+"3179","javascript","","","","",1
+"3180","javascript","powershell","","","",1
+"3181","php","ruby","java","c++","",2
+"3182","c++","c","","","",1
+"3183","python","c","","","",1
+"3184","SQL","pl sql","shell scripts","rexx","",2
+"3185","","","","","",NA
+"3186","MySQL","PHP","","","",1
+"3187","realbasic","ruby","php","powershell","",1
+"3188","awk","python","","","",1
+"3189","Java","bash","ruby","","",2
+"3190","C++","C","","","",1
+"3191","","","","","",NA
+"3192","C","C++","C#","Telsis fastSSP/fastTC NODAL","Java",3
+"3193","C","FORTRAN","BASH","","",1
+"3194","c#","sql","javascript","","",6
+"3195","Python","Ruby","Java","","",1
+"3196","C","","","","",2
+"3197","","","","","",NA
+"3198","","","","","",NA
+"3199","Javascript","Ruby","SQL","bash","C",1
+"3200","c","sh (csh and bsh)","labview","pascal","tcl tk",2
+"3201","c","","","","",3
+"3202","bash","python","rexx","","",1
+"3203","Bash","Java","visual basic","","",1
+"3204","c++","sql","python","","",1
+"3205","bash","java","php","sql","c",4
+"3206","C","C#","sql","Haskell","bash",3
+"3207","","","","","",NA
+"3208","common lisp","erlang","javascript","ruby","c",4
+"3209","","","","","",1
+"3210","java","javascript","python","","",2
+"3211","javascript","php","c#","","",1
+"3212","","","","","",NA
+"3213","Groovy","Java","","","",3
+"3214","javascript","sql","c++","c","",1
+"3215","","","","","",NA
+"3216","extjs","javascript","c++","","",2
+"3217","PHP","Java","C","","",2
+"3218","Javascript","python","","","",1
+"3219","","","","","",NA
+"3220","","","","","",NA
+"3221","Objective C","C#","PHP","","",1
+"3222","Ruby","Python","","","",1
+"3223","","","","","",NA
+"3224","Javascript","Bash","Python","Java","",1
+"3225","haskell","","","","",1
+"3226","C","Common Lisp","Bash","C++","Lua",1
+"3227","","","","","",NA
+"3228","","","","","",NA
+"3229","","","","","",NA
+"3230","C","bash","python","","",1
+"3231","python","","","","",1
+"3232","bash","c","","","",1
+"3233","","","","","",NA
+"3234","","","","","",NA
+"3235","X++","javascript","DOS batch","","",2
+"3236","java","c#","c++","c","matlab",4
+"3237","python","php","C","Objective C","C#",6
+"3238","php","","","","",1
+"3239","","","","","",NA
+"3240","PHP","C++","C","javascript","Haskell",6
+"3241","php","javascript","","","",2
+"3242","java","python","ruby","fsharp","clojure",2
+"3243","c","vba","fortran","","",1
+"3244","","","","","",1
+"3245","php","java","bash","ruby","python",1
+"3246","Ruby","bash","Python","","",1
+"3247","Java","c","c++","ksh","ruby",1
+"3248","","","","","",NA
+"3249","","","","","",6
+"3250","python","","","","",1
+"3251","","","","","",1
+"3252","","","","","",1
+"3253","c","bash","make","","",1
+"3254","java","c","","","",NA
+"3255","","","","","",NA
+"3256","javascript","bash","c++","c","",1
+"3257","xslt","javascript","applescript","bash","",3
+"3258","Java","Erlang","Perl","C","",3
+"3259","","","","","",NA
+"3260","javascript","sql","c","","",1
+"3261","bash","applescript","","","",2
+"3262","Javascript","java","sql","","",1
+"3263","bash","javascript","logo","","",1
+"3264","bash shell scripting","","","","",1
+"3265","PHP","","","","",2
+"3266","javascript","shell","PL/SQL","python","",1
+"3267","c","javascript","","","",1
+"3268","C++","Bash","Java","","",2
+"3269","php","java","c","","",6
+"3270","Java","Groovy","","","",NA
+"3271","","","","","",NA
+"3272","c","python","","","",1
+"3273","Python","Perl","","","",2
+"3274","","","","","",NA
+"3275","sql/plsql","shell scripting (bash)","","","",2
+"3276","c","","","","",1
+"3277","javascript","python","Java","","",1
+"3278","bash","lisp","","","",1
+"3279","common lisp","javascript","python","","",1
+"3280","Java","C#","","","",1
+"3281","Java","c#","C++","python","php",3
+"3282","","","","","",NA
+"3283","","","","","",NA
+"3284","javascript","","","","",1
+"3285","python","bash","ruby","sql","",3
+"3286","Java SE/EE","C","PHP","bash","ksh",3
+"3287","Perl","Bash","SQL","javascript","java",1
+"3288","","","","","",NA
+"3289","ruby","javascript","bash","","",3
+"3290","Java","sql","php","fortran77","dcl",3
+"3291","shell script","","","","",1
+"3292","java","c++","sql","","",4
+"3293","bash","python","ruby","C","",2
+"3294","","","","","",1
+"3295","bash","C","","","",1
+"3296","","","","","",NA
+"3297","javascript","sql","bash","","",1
+"3298","Java","bash","Python","C","",6
+"3299","","","","","",1
+"3300","","","","","",NA
+"3301","Ruby","javascript","java","php","",4
+"3302","bash","php","javascript","","",1
+"3303","bourne shell","ruby","java","c++","",1
+"3304","","","","","",NA
+"3305","c++","","","","",2
+"3306","sql","javascript","","","",1
+"3307","c#","php","c","sql","perl",5
+"3308","c#","sql","python","bash","c++",2
+"3309","php","Java","c","python","ruby",2
+"3310","shell","C","","","",1
+"3311","Shell scripting","php","","","",1
+"3312","","","","","",NA
+"3313","","","","","",1
+"3314","","","","","",NA
+"3315","objective c","tcl tk","pascal","assembler","basic",1
+"3316","perl","php","bash","","",1
+"3317","csh","C++","","","",2
+"3318","java","","","","",1
+"3319","C++","javascript","sql","","",2
+"3320","","","","","",NA
+"3321","java","ruby","bourne shell","","",6
+"3322","SQL","Javascript","bash","XSLT","C",1
+"3323","Java","javascript","python","ruby","",1
+"3324","visual basic","c","c++","","",6
+"3325","C","tcl tk","sh","","",1
+"3326","c","","","","",1
+"3327","","","","","",NA
+"3328","","","","","",NA
+"3329","bash","c","c++","","",1
+"3330","","","","","",NA
+"3331","","","","","",1
+"3332","C++","pl sql","Perl","","",3
+"3333","","","","","",NA
+"3334","","","","","",NA
+"3335","sql","bash","python","coldfusion","",1
+"3336","c","c++","java","","",1
+"3337","C","C++","","","",3
+"3338","JavaScript","","","","",1
+"3339","delphi","c/c++","java","python","vb/c#",6
+"3340","","","","","",NA
+"3341","java","ruby","bash","c","javascript",4
+"3342","bash","awk","sed","php","python",1
+"3343","","","","","",NA
+"3344","","","","","",NA
+"3345","BMC Remedy","bash","visual basic","","",4
+"3346","C'/C++","PHP","Python","","",1
+"3347","javascript","ruby","php","Java","C",1
+"3348","Powershell","cmd.exe","","","",1
+"3349","C++","C","Python","TCL","Java",3
+"3350","","","","","",NA
+"3351","sh","java","python","php","c",1
+"3352","java","rexx","php","javascript","bash",1
+"3353","c++","tcl tk","java","bash","python",4
+"3354","","","","","",NA
+"3355","python","c++","c","java","",2
+"3356","C++","C","","","",1
+"3357","bash","C","C++","erlang","javascript",1
+"3358","c","sh","java","","",1
+"3359","","","","","",NA
+"3360","","","","","",NA
+"3361","javascript","java","","","",1
+"3362","ruby","bash","common lisp (sbcl)","","",2
+"3363","","","","","",NA
+"3364","Verilog","c","Matlab","","",3
+"3365","sh","","","","",1
+"3366","","","","","",1
+"3367","","","","","",NA
+"3368","C++","shell / awk","python","","",2
+"3369","","","","","",NA
+"3370","OCaml","C","","","",2
+"3371","sql","php","bash","pl sql","",1
+"3372","Javascript","","","","",1
+"3373","ruby","delphi","rpg","","",3
+"3374","Bash","PHP","Python","c","",1
+"3375","c++","c","objc","haskell","python",4
+"3376","","","","","",NA
+"3377","C","Shell","Emacs Lisp","","",1
+"3378","","","","","",1
+"3379","php","sql","javascript","c","python",6
+"3380","C++","C","","","",2
+"3381","Java","Python","Shell","","",4
+"3382","","","","","",NA
+"3383","Ruby","Python","Perl","Shell","Java",3
+"3384","javascript","xslt","php","objective c","java",1
+"3385","fortran","c","c++","matlab","python",2
+"3386","","","","","",NA
+"3387","C","PHP","python","Javascript","Java",1
+"3388","","","","","",NA
+"3389","bash","python","c++","","",1
+"3390","c++","ada","c#","java","fortran",3
+"3391","","","","","",NA
+"3392","","","","","",NA
+"3393","C++","C","bash","ksh","",1
+"3394","C#","vbscript","javascript","","",2
+"3395","bash","awk","c","","",1
+"3396","php","java","python","bash","",1
+"3397","","","","","",NA
+"3398","Javascript","c++","PHP","C","awk",1
+"3399","bash","Python","javascript","java","c",1
+"3400","javascript","","","","",1
+"3401","","","","","",NA
+"3402","javascript","sql","","","",1
+"3403","","","","","",NA
+"3404","java","bash","","","",1
+"3405","java","","","","",1
+"3406","","","","","",NA
+"3407","","","","","",NA
+"3408","python","c","","","",2
+"3409","SQL","javascript","","","",1
+"3410","","","","","",1
+"3411","java","/bin/sh","c","fortran","javascript",2
+"3412","C","Java","PL/SQL","C++","",2
+"3413","Java","SAS","C++","C","Fortran",2
+"3414","C#","bash","c","c++","",1
+"3415","Java","Python","Javascript","shell","Ruby",3
+"3416","Java","javascript","bash","","",3
+"3417","","","","","",1
+"3418","bash/sh","javascript","c#","","",1
+"3419","python","javascript","shell","c#","",4
+"3420","c","","","","",1
+"3421","python","C","","","",3
+"3422","Shell","elisp","python","C","lua",1
+"3423","C","Shell","Python","","",2
+"3424","Python","javascript","","","",6
+"3425","","","","","",NA
+"3426","javascript","php","erlang","haskell","C",1
+"3427","","","","","",NA
+"3428","javascript","c++","c","","",1
+"3429","bash","c","","","",1
+"3430","C (and XS)","Haskell","Python","Scheme","",1
+"3431","","","","","",NA
+"3432","sql","bash","","","",1
+"3433","bash","","","","",1
+"3434","java","php","","","",3
+"3435","C#","Ruby","php","python","",6
+"3436","c++","bash","","","",1
+"3437","PHP","Javascript","C","","",1
+"3438","C","Ruby","c++","","",3
+"3439","c#","","","","",1
+"3440","ABAP","Shell","","","",2
+"3441","bash","ksh","","","",1
+"3442","C","Scala","","","",1
+"3443","javascript","bash","scala","go","",1
+"3444","","","","","",NA
+"3445","C++","","","","",2
+"3446","","","","","",NA
+"3447","C++","C","Ruby","Java","Haskell",3
+"3448","c","java","bash","C++","ruby",1
+"3449","","","","","",NA
+"3450","python","bash","applescript","","",1
+"3451","","","","","",NA
+"3452","javascript","","","","",1
+"3453","sql","php","bash","c++","java",1
+"3454","shell","c","erlang","java","",1
+"3455","java","javascript","objective c","python","c",1
+"3456","","","","","",NA
+"3457","C++","","","","",1
+"3458","C","C++","javascript","python","php",1
+"3459","","","","","",1
+"3460","JavaScript","SQL","Ruby","Python","C",1
+"3461","","","","","",NA
+"3462","Java","Python","Ruby","Javascript","",6
+"3463","c#","javascript","ruby","","",4
+"3464","php","bash","","","",3
+"3465","","","","","",NA
+"3466","C#","Python","Javascript","PHP","bash",2
+"3467","javascript","","","","",1
+"3468","C#","F#","PowerShell","Scheme","C",1
+"3469","javascript","bash","c","","",1
+"3470","Python","php","Ruby","c","Prolog",1
+"3471","java","C","M (Matlab)","","",3
+"3472","Java","","","","",1
+"3473","bash","vbscript","","","",1
+"3474","","","","","",NA
+"3475","bash","sql","php","java","c#",1
+"3476","pl sql","php","javascript","","",2
+"3477","php","javascript","bash","","",1
+"3478","Bash","","","","",1
+"3479","javascript","php","c","","",1
+"3480","JavaScript","Python","Java","Scala","",2
+"3481","ruby","haskell","lisp scheme","c","c++",1
+"3482","PL/PgSQL","sql","ksh","php","javascript",3
+"3483","","","","","",NA
+"3484","C","sql","java","Pro*C","",1
+"3485","Javascript","coldfusion","vbscript","java","C",1
+"3486","php","python","javascript","","",4
+"3487","java","javascript","c++","c","python",5
+"3488","bash","php","elisp","","",1
+"3489","C++","Java","javascript","C#","",2
+"3490","","","","","",NA
+"3491","sql","","","","",1
+"3492","Javascript","","","","",1
+"3493","","","","","",NA
+"3494","C++","","","","",1
+"3495","","","","","",NA
+"3496","C#","java","javascript","python","php",3
+"3497","SQL","C++","Lua","","",1
+"3498","","","","","",NA
+"3499","","","","","",NA
+"3500","","","","","",NA
+"3501","","","","","",NA
+"3502","","","","","",NA
+"3503","","","","","",1
+"3504","C","C++","Python","Java","C#",6
+"3505","Java","c++","C#","","",3
+"3506","javascript","xslt","bash","","",1
+"3507","javascript","css","html","","",1
+"3508","java","ruby","r","python","",1
+"3509","c","c++","java","","",1
+"3510","bash","Excel","","","",1
+"3511","PHP","Javascript","c","c++","",1
+"3512","","","","","",NA
+"3513","","","","","",NA
+"3514","php","","","","",2
+"3515","c++","matlab","","","",2
+"3516","python","ruby","","","",1
+"3517","Javascript","","","","",1
+"3518","","","","","",NA
+"3519","javascript","","","","",1
+"3520","","","","","",NA
+"3521","php","bash","java","javascript","prolog",5
+"3522","c++","java","javascript","","",3
+"3523","javascript","sql","ruby","sh","xslt",1
+"3524","c","javascript","python","c++","java",1
+"3525","","","","","",NA
+"3526","Haskell","Common Lisp","C++","Prolog","",1
+"3527","Java","","","","",2
+"3528","batch/bash scripting","JavaScript","","","",1
+"3529","","","","","",NA
+"3530","javascript","java","php","","",1
+"3531","","","","","",NA
+"3532","perl","bash","erlang","C","",1
+"3533","ruby","elisp","python","javascript","common lisp",1
+"3534","","","","","",NA
+"3535","javascript","","","","",1
+"3536","","","","","",1
+"3537","c++","python","bash","","",2
+"3538","","","","","",NA
+"3539","JavaScript","Objective-C","PHP","c/c++","",1
+"3540","","","","","",NA
+"3541","bash","python","c","c++","",1
+"3542","c","","","","",1
+"3543","javascript","java","","","",1
+"3544","","","","","",NA
+"3545","C/C++","SQL","Java","vbscript","javascript",3
+"3546","javascript","java","php","asp","c#",1
+"3547","C","C++","OCaml","javascript","",1
+"3548","objective-c","javascript","bash","","",1
+"3549","Java","Lisp","Python","","",1
+"3550","","","","","",1
+"3551","PHP","","","","",1
+"3552","","","","","",NA
+"3553","","","","","",NA
+"3554","","","","","",1
+"3555","","","","","",NA
+"3556","VB","Unix shell script","Java","VBA","",2
+"3557","","","","","",NA
+"3558","C#","JavaScript","","","",3
+"3559","c","python","c++","","",2
+"3560","javascript","sql","sh","","",1
+"3561","javascript","","","","",1
+"3562","Java","Ruby","Python","C","",2
+"3563","C","c++","shell","java","",1
+"3564","C#","java","C","Scala","Go",3
+"3565","java","c++","C#","ruby","Scala",6
+"3566","","","","","",1
+"3567","python","bash","","","",1
+"3568","bash","JavaScript","C","","",1
+"3569","","","","","",NA
+"3570","","","","","",NA
+"3571","","","","","",NA
+"3572","c++","javascript","","","",1
+"3573","","","","","",NA
+"3574","Ruby","c","Java","Scala","C++",6
+"3575","","","","","",1
+"3576","pascal","php","c","c++","",3
+"3577","","","","","",1
+"3578","hungarian","","","","",6
+"3579","Java","C#","C","Python","",3
+"3580","cold fusion","C","NQP","java","c#",2
+"3581","C++","ksh","cobol","","",1
+"3582","Bourne Shell","C","Ruby","Haskell","",1
+"3583","","","","","",NA
+"3584","","","","","",NA
+"3585","DCL (on VMS, a scripting tool)","Fortran","basic","C","c++",2
+"3586","R","Javascript","","","",1
+"3587","","","","","",NA
+"3588","javascript","PHP","Python","","",2
+"3589","unix shell","windows batch","xslt","html","php",1
+"3590","","","","","",NA
+"3591","Ruby","PHP","Javascript","Python","Java",4
+"3592","","","","","",NA
+"3593","C","C++","python","bash","haskell",1
+"3594","","","","","",NA
+"3595","Javascript","","","","",1
+"3596","lua","c++","","","",3
+"3597","javascript","c","java","","",1
+"3598","","","","","",1
+"3599","c++","python","c","bash","erlang",6
+"3600","","","","","",NA
+"3601","java","python","c","ruby","c++",4
+"3602","javascript","c","","","",1
+"3603","Python","Shell","Ruby","","",2
+"3604","","","","","",NA
+"3605","PL/SQL","ksh","Java","","",3
+"3606","Bourne-Again Shell","C++","Java","","",1
+"3607","ksh","cobol","C","awk","",2
+"3608","","","","","",NA
+"3609","","","","","",NA
+"3610","Java","PHP","c++","","",2
+"3611","sql","php","objective c","bash","",1
+"3612","","","","","",NA
+"3613","","","","","",NA
+"3614","c","ruby","","","",1
+"3615","","","","","",1
+"3616","JavaScript","PHP","Scheme","AWK","Dylan",1
+"3617","c","c++","javascript","php","java",3
+"3618","c++","javascript","Java","","",1
+"3619","JavaScript","PHP","","","",2
+"3620","pl sql","c","cobol","java","javascript",1
+"3621","java","pl sql","objective c","","",3
+"3622","c++","php","c","bash","java",1
+"3623","","","","","",NA
+"3624","","","","","",NA
+"3625","","","","","",NA
+"3626","","","","","",1
+"3627","shell","c","","","",1
+"3628","C","Objective-C","","","",1
+"3629","Actionscript 3 (Adobe Flash)","Javascript","Python","PHP","C++",2
+"3630","php","ruby","c#","c++","c",4
+"3631","Java","php","bash","c++","awk",3
+"3632","SQL","","","","",1
+"3633","python","java","c","","",4
+"3634","php","sql","html","js","css",6
+"3635","","","","","",NA
+"3636","java","php","bash","awk","",3
+"3637","c","","","","",2
+"3638","","","","","",1
+"3639","java","c","c++","python","BASIC",5
+"3640","","","","","",1
+"3641","php","shell","javascript","","",2
+"3642","C#","java","sql","visual basic","ksh",1
+"3643","javascript","ruby","bash","","",1
+"3644","","","","","",NA
+"3645","","","","","",1
+"3646","Perl","Python","Ruby","Java","C",1
+"3647","","","","","",NA
+"3648","","","","","",1
+"3649","c","php","tcl tk","","",1
+"3650","vbscript","","","","",1
+"3651","javascript","bash","C","","",1
+"3652","shellscript","C","Java","Ruby","Python",1
+"3653","C","ruby","JavaScript","bash","",1
+"3654","perl","ruby","power shell","javascript","",1
+"3655","","","","","",NA
+"3656","Common Lisp","Scheme","haskell","","",1
+"3657","","","","","",NA
+"3658","javascript","c","","","",1
+"3659","c++","ruby (rails)","javascript","","",2
+"3660","","","","","",NA
+"3661","","","","","",1
+"3662","","","","","",NA
+"3663","","","","","",NA
+"3664","java","javascript","bash","c++",".net",3
+"3665","Java","","","","",1
+"3666","Java","","","","",2
+"3667","C","C++","Bash scripting","","",2
+"3668","python","php","java","c++","c",6
+"3669","","","","","",NA
+"3670","","","","","",NA
+"3671","Java","C/C++","Asm","","",3
+"3672","php","ruby","javascript","python","",1
+"3673","MS shell/powershell","Rebol","factor","","",1
+"3674","","","","","",NA
+"3675","ksh","","","","",2
+"3676","php","bash","perl","","",3
+"3677","python","java","sql","","",2
+"3678","javascript","erlang","c++","","",1
+"3679","Python","Lisp","C","sh","Haskell",3
+"3680","JavaScript","","","","",1
+"3681","javascript","java","r","c","",1
+"3682","c++","xslt","ZSH","","",2
+"3683","python","php","groovy","java","c",2
+"3684","","","","","",NA
+"3685","","","","","",NA
+"3686","shell","C","","","",1
+"3687","c","","","","",1
+"3688","javascript","visual basic","c","","",1
+"3689","","","","","",NA
+"3690","","","","","",NA
+"3691","php","c++","","","",3
+"3692","pl sql","c","bash","php","c++",1
+"3693","php","c","bash","python","pascal",1
+"3694","C","python","bash","","",2
+"3695","Java","C#","Classic ASP","PowerShell","PHP",6
+"3696","JavaScript","PHP","bash","java","",4
+"3697","Bourne shell","","","","",1
+"3698","awk","C","java","phyton","basic",1
+"3699","JavaScript","sql","c","python","",1
+"3700","java","javascript","powershell","","",6
+"3701","perl","vbscript","","","",1
+"3702","php","","","","",2
+"3703","C","C++","sql","dcl","",1
+"3704","bash","python","awk","","",1
+"3705","","","","","",NA
+"3706","C#","PHP","","","",3
+"3707","Perl6","javascript","Java","Haskell","C",1
+"3708","c++","c","bash","java","python",6
+"3709","","","","","",NA
+"3710","c","sql","","","",1
+"3711","java","python","c++","","",4
+"3712","","","","","",NA
+"3713","Python","sh","awk","C","",6
+"3714","","","","","",1
+"3715","javascript","c","python","bash","java",1
+"3716","javascript","bash","","","",1
+"3717","bash","c","sql","ruby","php",1
+"3718","","","","","",NA
+"3719","","","","","",NA
+"3720","c","awk","PHP","","",1
+"3721","","","","","",NA
+"3722","php","javascript","c","sql","",1
+"3723","Java","php","","","",1
+"3724","C","","","","",1
+"3725","fortran","python","bash","awk","c++",4
+"3726","Perl","Bash","Java","","",1
+"3727","","","","","",NA
+"3728","Propriatery and rare","c","","","",1
+"3729","c","lisp","","","",1
+"3730","Ruby","Python","ksh","c","",2
+"3731","C","c++","python","r","euclid",1
+"3732","Python","Java","","","",1
+"3733","javascript","sql","bash","c","python",1
+"3734","C++","C","Lua","Javascript","",3
+"3735","","","","","",1
+"3736","","","","","",NA
+"3737","","","","","",NA
+"3738","Javascript","C++","C","PHP","C#",1
+"3739","Java","R","","","",1
+"3740","","","","","",NA
+"3741","","","","","",1
+"3742","bash","php","javascript","C","C++",1
+"3743","bash","PHP","c++","c","",3
+"3744","javascript","ruby","python","","",1
+"3745","php","python","","","",2
+"3746","C++","Bash","","","",2
+"3747","javascript","clojure","","","",1
+"3748","C++","php","java","","",3
+"3749","asp.net","java","php","","",4
+"3750","Java","javascript","python","Scala","c++",1
+"3751","c","haskell","","","",1
+"3752","java","csh","actionscript 3","delphi","c++",3
+"3753",".Net","Java","C++","C","PHP",6
+"3754","Java","C","Groovy","Javascript","PHP",1
+"3755","","","","","",NA
+"3756","delphi","C# - Visual Studio","","","",3
+"3757","PHP","","","","",1
+"3758","Java","C#","php","","",6
+"3759","java","Javascript","XSLT","C","Ruby",5
+"3760","","","","","",NA
+"3761","sql","javascript","php","bash","c",1
+"3762","ruby","java","c++","javascript","bash",6
+"3763","","","","","",NA
+"3764","","","","","",1
+"3765","Delphi","Python","TeX","Lua","PostScript",6
+"3766","Java","AF-APL","Groovy","","",1
+"3767","","","","","",NA
+"3768","","","","","",NA
+"3769","c++","PHP","C","","",3
+"3770","","","","","",NA
+"3771","C++","python","","","",1
+"3772","OCaml","Common Lisp","Scheme","Haskell","",2
+"3773","Java","C","","","",2
+"3774","","","","","",1
+"3775","python","ruby","bash","objective c","c",1
+"3776","","","","","",NA
+"3777","c","c++","python","","",1
+"3778","python","javascript","sql","java","",1
+"3779","Progress 4GL","VBA","","","",1
+"3780","C","C++","C#","java","Python",3
+"3781","javascript","","","","",1
+"3782","","","","","",NA
+"3783","ruby","python","c++","","",1
+"3784","","","","","",NA
+"3785","xslt","javascript","bash","","",1
+"3786","C","Tcl","","","",3
+"3787","Oracle PL/SQL","visual basic","c","","",1
+"3788","python","bash","","","",1
+"3789","php","python","javascript","scheme","c",6
+"3790","PHP","c","c++","java","python",1
+"3791","java","c","c++","","",1
+"3792","VBA Macros","JavaScript","PHP","","",4
+"3793","Java","C","","","",1
+"3794","C++","C","java","","",4
+"3795","sql","javascript","","","",1
+"3796","","","","","",NA
+"3797","","","","","",NA
+"3798","SQL","R","C","LaTeX","bash",1
+"3799","TwinCAT (PLC)","C","visual basic","php","",1
+"3800","TeX","bat files","","","",1
+"3801","","","","","",NA
+"3802","C","Java","python","haskell","",2
+"3803","","","","","",NA
+"3804","","","","","",NA
+"3805","ruby","groovy","java","javascript","php",6
+"3806","java","php","c/c++","","",1
+"3807","C","Python","Java","","",1
+"3808","C","c++","","","",1
+"3809","Bourne shell","python","c","","",2
+"3810","bash","c","","","",1
+"3811","","","","","",NA
+"3812","C","C++","bash","python","",4
+"3813","","","","","",NA
+"3814","csh","c++","ruby","","",4
+"3815","","","","","",NA
+"3816","Java","Python","Mosel","C++","",3
+"3817","php","javascript","java","","",2
+"3818","C#","javascript","python","C","",5
+"3819","","","","","",NA
+"3820","","","","","",NA
+"3821","java","","","","",1
+"3822","php","","","","",1
+"3823","bash","c","Python","","",1
+"3824","bash","","","","",1
+"3825","","","","","",NA
+"3826","c","php","","","",2
+"3827","SQL","C","","","",1
+"3828","python","awk","bash","rebol","pascal",1
+"3829","java","c#","python","bash","",5
+"3830","java","bash","javascript","tcl tk","c",2
+"3831","c++","c","","","",1
+"3832","","","","","",NA
+"3833","T-SQL","Python","c++","","",NA
+"3834","SQL","php","javascript","","",1
+"3835","Javascript","C","","","",1
+"3836","python","javascript","","","",3
+"3837","c","python","Groovy","","",1
+"3838","","","","","",NA
+"3839","ksh","pl sql","python","transact sql","",3
+"3840","C","C++","shell","elisp","dhcp-eval (embedded language in ISC DHCP server)",1
+"3841","java","groovy","javascript","","",4
+"3842","Python","Common Lisp","Ruby","","",4
+"3843","javascript","","","","",1
+"3844","bash","C","Java","","",1
+"3845","C","javascript","C++","","",1
+"3846","","","","","",NA
+"3847","","","","","",NA
+"3848","c++","c","","","",2
+"3849","javascript","Bash","php","","",1
+"3850","awk","shell programming","","","",1
+"3851","javascript","","","","",1
+"3852","javascript","visual basic","emacs lisp","","",1
+"3853","javascript","c","java","","",1
+"3854","c++","java","","","",3
+"3855","javascript","SQL","","","",1
+"3856","c++","python","C","Octave","",1
+"3857","javascript","php","python","bash","",1
+"3858","c","ruby","ksh","java","",5
+"3859","javascript","lua","java","php","visual",1
+"3860","python","javascript","ruby","","",1
+"3861","","","","","",NA
+"3862","php","c","javascript","c++","python",1
+"3863","","","","","",NA
+"3864","javascript","php","C","","",1
+"3865","","","","","",NA
+"3866","r","","","","",1
+"3867","C","php","shell","fortran 77","",2
+"3868","Python","Javascript","C","","",1
+"3869","java","python","","","",1
+"3870","Ruby","javascript","sql","bash","php",3
+"3871","","","","","",NA
+"3872","Javascript","ASP","","","",2
+"3873","ruby","c","haskell","scheme","erlang",1
+"3874","scheme","elisp","lisp","ruby","awk",3
+"3875","python","","","","",1
+"3876","JavaScript","Shell","C","python","C++",1
+"3877","Java","Python","C++","PHP","",4
+"3878","r","","","","",1
+"3879","Ruby","Javascript","Clojure","","",NA
+"3880","","","","","",1
+"3881","javascript","SQL","HTML","","",1
+"3882","","","","","",NA
+"3883","","","","","",NA
+"3884","javascript","java","","","",1
+"3885","","","","","",NA
+"3886","python","C","erlang","lisp","",1
+"3887","C","C++","shell","javascript","java",1
+"3888","","","","","",NA
+"3889","bash","","","","",1
+"3890","C","","","","",1
+"3891","php","R","java","javascript","",1
+"3892","","","","","",NA
+"3893","javascript","php","java","","",1
+"3894","javascript","php","c","","",1
+"3895","","","","","",NA
+"3896","PHP","coldfusion","JavaScript","","",1
+"3897","C","c++","python","ruby","haskell",1
+"3898","tcl","bash","tcsh","php","",1
+"3899","","","","","",NA
+"3900","php","java","javascript","c","",2
+"3901","python","javascript","c#","php","erlang",4
+"3902","","","","","",NA
+"3903","Javascript","java","c","bash","",1
+"3904","","","","","",NA
+"3905","","","","","",NA
+"3906","python","javascript","c","","",1
+"3907","","","","","",NA
+"3908","","","","","",1
+"3909","python","php","c","bash","java",1
+"3910","","","","","",NA
+"3911","javascript","PHP","","","",1
+"3912","c","python","c++","ChucK","FAuSt",6
+"3913","sql","JavaScript","SQL","","",1
+"3914","Java","Python","various shell scripting languages","Tcl","javascript",1
+"3915","php","bash","applescript","","",4
+"3916","javascript","c","","","",1
+"3917","python","haskell","lisp scheme","","",6
+"3918","bash","sql","windows-cmd","python","",2
+"3919","C","","","","",1
+"3920","basic","c","javascript","java","",1
+"3921","common lisp","haskell","python","","",1
+"3922","PHP","SQL","JavaScript","","",1
+"3923","php","bash","ruby","","",1
+"3924","","","","","",1
+"3925","","","","","",1
+"3926","javascript","php","","","",1
+"3927","sh","bash","C","python","",3
+"3928","C++","","","","",1
+"3929","","","","","",NA
+"3930","Javascript","","","","",1
+"3931","","","","","",1
+"3932","C","pl sql","C++","ruby","",1
+"3933","Sh","php","awk","","",1
+"3934","C++","javascript","tcl tk","","",2
+"3935","","","","","",NA
+"3936","sql","javascript","C","bash","",1
+"3937","bash","c","c++","java","",1
+"3938","c++","python","c","java","r",1
+"3939","javascript","","","","",1
+"3940","","","","","",1
+"3941","","","","","",NA
+"3942","C","Java","C++","sh","BSD make",2
+"3943","c","ruby","javascript","sql","java",1
+"3944","Python","c","Java","","",4
+"3945","sql","javascript","bash","java","clojure",1
+"3946","c++","pascal","fortran","cobol","smalltalk",2
+"3947","","","","","",NA
+"3948","","","","","",NA
+"3949","Javascript","python","php","","",1
+"3950","","","","","",NA
+"3951","C","python","ruby","","",2
+"3952","Java","bash","","","",1
+"3953","","","","","",NA
+"3954","bash","visual basic","delphi","","",1
+"3955","","","","","",NA
+"3956","JavaScript","Shell Script","","","",1
+"3957","Java","python","PHP","","",2
+"3958","Javascript","","","","",1
+"3959","","","","","",NA
+"3960","","","","","",NA
+"3961","Python","","","","",1
+"3962","Java","C#","bash","Scala","PL/SQL",4
+"3963","javascript","c++","bash","","",1
+"3964","perl","Korn Shell/Bash","","","",1
+"3965","c","shellscript","","","",1
+"3966","python","java","","","",1
+"3967","awk","c","erlang","lua","lisp scheme",1
+"3968","","","","","",NA
+"3969","java","groovy","javascript","c#","",3
+"3970","javascript","bash","windows shell script","","",1
+"3971","javascript","bash","tcl","c","",1
+"3972","Java","php","javascript","C like languages","",1
+"3973","Ruby","Javascript","c","","",1
+"3974","bash","python","java","javascript","c++",1
+"3975","Javascript","","","","",1
+"3976","javascript","sql","bash","","",1
+"3977","matlab","shell (bash)","R","","",2
+"3978","PHP","Ruby","JavaScript","","",2
+"3979","VB.NET","vb6","php","javascript/css/html","c#",6
+"3980","C","Java","C++","Python","",6
+"3981","Python","C","","","",1
+"3982","c++","c","","","",2
+"3983","","","","","",NA
+"3984","Python","","","","",1
+"3985","","","","","",NA
+"3986","J2ME","java","PHP","","",1
+"3987","","","","","",NA
+"3988","","","","","",NA
+"3989","C#","C++","Java","python","Haskell",3
+"3990","bash","","","","",1
+"3991","C#","javascript","vb.net","","",1
+"3992","sql","javascript","c#","","",1
+"3993","","","","","",NA
+"3994","bash","C#","python","","",1
+"3995","Shell","C","Haskell","","",1
+"3996","","","","","",NA
+"3997","c","bash/sh","","","",1
+"3998","c","idl","matlab","fortran","",1
+"3999","php","python","","","",1
+"4000","BASH - Bourne again shell","Visual Basic for Applications","","","",1
+"4001","","","","","",1
+"4002","php","c","c++","javascript","c#",3
+"4003","","","","","",NA
+"4004","python","","","","",2
+"4005","haskell","bash","","","",1
+"4006","","","","","",NA
+"4007","Common Lisp","C++","C","Ruby","assembler",1
+"4008","Java","VBscript","c++","C","PHP",1
+"4009","php","python","java","javascript","c",1
+"4010","c","javascript","","","",1
+"4011","XS","c","javascript","","",1
+"4012","","","","","",NA
+"4013","Python","Bash","","","",1
+"4014","","","","","",1
+"4015","sql","javascript","","","",1
+"4016","javascript","","","","",1
+"4017","php","javascript","sql","bash","",1
+"4018","javascript","","","","",1
+"4019","Python","Bash","bc","C++","",6
+"4020","visual foxpro","tcl ","","","",2
+"4021","Perl","javascript","bash","freebasic","python",1
+"4022","","","","","",NA
+"4023","java","javascript","","","",3
+"4024","C#","Java","","","",2
+"4025","bash","c","","","",1
+"4026","PHP","Javascript","Java","","",3
+"4027","PHP","C++","Ruby","Python","C#",3
+"4028","ruby","javascript","c","c++","haskell",3
+"4029","","","","","",NA
+"4030","php","objective c","bash","c","",1
+"4031","","","","","",NA
+"4032","javascript","objective c","bash","ruby","",1
+"4033","","","","","",NA
+"4034","","","","","",NA
+"4035","javascript","","","","",1
+"4036","Python","php","C/C++","","",4
+"4037","SQL variants","Javascript","Java","","",2
+"4038","C","C++","Java","Javascript","",1
+"4039","bash shell","","","","",2
+"4040","","","","","",NA
+"4041","java","xslt","javascript","postscript","python",4
+"4042","Javascript","Java","C++","","",2
+"4043","php","c","bash","c+","python",5
+"4044","bourne shell","python","","","",1
+"4045","Perl","Python","C","","",1
+"4046","java","sh","","","",3
+"4047","Perl","java","python","javascript","c",1
+"4048","javascript","bash","sql","","",1
+"4049","Bourne Shell","C Shell","Javascript/HTML","PL/SQL","",1
+"4050","shell","","","","",1
+"4051","Bash","javascript","","","",1
+"4052","javascript","php","bash","java","",1
+"4053","php","javascript","","","",1
+"4054","javascript","","","","",1
+"4055","Javascript","PHP","","","",1
+"4056","Shell Scripting (bash and ksh)","Perl","","","",2
+"4057","php","bash","javascript","","",1
+"4058","bash","python","","","",1
+"4059","C++","ActionScript","java","javascript","C",3
+"4060","Intersystems Cache (MUMPS)","bash","awk","c","",2
+"4061","","","","","",NA
+"4062","Javascript","PHP","","","",1
+"4063","","","","","",NA
+"4064","Perl","HTML","CSS","Javascript","",1
+"4065","c++","python","php","","",NA
+"4066","javascript","actionscript","python","bash","",1
+"4067","ruby","php","","","",3
+"4068","Ruby","Javascript","php","","",1
+"4069","SAS","visual basic","","","",2
+"4070","visual basic","vbscript","","","",2
+"4071","","","","","",NA
+"4072","PHP","python","objective c","c","java",1
+"4073","java","tcl tk","bash","python","objective c",1
+"4074","PHP","Shell","","","",3
+"4075","Python","JavaScript","","","",1
+"4076","","","","","",NA
+"4077","C/C++","PHP","python","Java","ruby",1
+"4078","","","","","",NA
+"4079","/bin/bash","python","c","","",1
+"4080","JavaScript","","","","",1
+"4081","php","","","","",1
+"4082","Bourne Shell","C","Java","Python","",1
+"4083","bash","awk","C","xpath","",1
+"4084","C#","VBScript","Python","PHP","LUA",1
+"4085","php","c++","c","javascript","java",1
+"4086","","","","","",NA
+"4087","","","","","",NA
+"4088","R","Ruby","Java","","",2
+"4089","lisp scheme","python","c","lua","erlang",6
+"4090","java","scala","ruby","maple","",3
+"4091","SQL","c++","PHP","","",1
+"4092","","","","","",NA
+"4093","php","visual basic (sucks)","","","",1
+"4094","Java","PHP","SQL & PL/SQL","Perl","shell",4
+"4095","bash","","","","",1
+"4096","java","javascript","python","ruby","",6
+"4097","C/AL","php","bash","powershell","",3
+"4098","python","c","Ruby","Java","php",1
+"4099","javascript","","","","",1
+"4100","","","","","",NA
+"4101","PHP","Perl","Java","","",1
+"4102","JavaScript","Java","SQL","xslt","",2
+"4103","c","C++","Python","Javascript","",1
+"4104","java","","","","",1
+"4105","SenseTalk","bash","","","",2
+"4106","","","","","",NA
+"4107","","","","","",NA
+"4108","C","Python","Java","Rexx","Assembler",1
+"4109","bash","","","","",1
+"4110","PHP","JacaScript","c","c++","",1
+"4111","javascript","ruby","","","",1
+"4112","DOS Batch","Javascript","","","",1
+"4113","c","C++","Python","Java","",2
+"4114","Python","Javascript","Ruby","Java","PHP",4
+"4115","PHP","Bash","c","sql","",2
+"4116","Delphi","C++","","","",1
+"4117","javascript","","","","",1
+"4118","C","python","AutoIt","applescript","",1
+"4119","javascript","C","tcl tk","sql","",1
+"4120","TCL","javascript","PHP","KSH","C",1
+"4121","","","","","",1
+"4122","Ruby","Python","C","","",2
+"4123","c++","javascript","python","","",2
+"4124","java","c (ansi C)","bash","","",2
+"4125","Java","Javascript","PHP","C++","",2
+"4126","C#","java","c","","",1
+"4127","SQL","C","","","",1
+"4128","C++","C","python","","",4
+"4129","java","Groovy","","","",1
+"4130","C","","","","",2
+"4131","c++","C","assembler","php","",5
+"4132","PHP","","","","",1
+"4133","bash","c","php","","",1
+"4134","","","","","",1
+"4135","python","C#","","","",1
+"4136","","","","","",NA
+"4137","C++","C","","","",1
+"4138","java","javascript","c","c#","",1
+"4139","","","","","",NA
+"4140","Java","COBOL","","","",1
+"4141","","","","","",NA
+"4142","PHP","SQL","","","",3
+"4143","Mysql","JavaScript","CSS","HTML","",4
+"4144","python","bash scripting","java","","",1
+"4145","","","","","",NA
+"4146","bash","C","","","",1
+"4147","java","bash","","","",1
+"4148","java","php","C++","","",1
+"4149","sql","java","python","","",1
+"4150","","","","","",NA
+"4151","","","","","",NA
+"4152","PHP","","","","",1
+"4153","actionscript","java","c","perl","",4
+"4154","","","","","",NA
+"4155","shell","python","","","",2
+"4156","c","c++","matlab","emacs lisp","",1
+"4157","r","bash","latex","c","",1
+"4158","","","","","",NA
+"4159","c++","","","","",1
+"4160","SQL","Bash","javascript","c","",1
+"4161","c++","c#","c","","",3
+"4162","Java","","","","",2
+"4163","javascript","ruby","c++","python","",1
+"4164","","","","","",1
+"4165","c++","","","","",2
+"4166","c++","c#","haskell","javascript","python",4
+"4167","C++","python","bash","perl","",4
+"4168","C","","","","",1
+"4169","bash","java","c","","",2
+"4170","javascript","sql","","","",1
+"4171","java","javascript","","","",2
+"4172","Javascript","Oracle PL/SQL","Java","C","D",1
+"4173","c++","c","assembler","java","sql",4
+"4174","C","python","","","",3
+"4175","python","C","haskell","bash","java",2
+"4176","","","","","",NA
+"4177","","","","","",NA
+"4178","php","ruby","python","c","c++",1
+"4179","ruby","javascript","","","",2
+"4180","javascript","c++","objective c","python","awk",4
+"4181","","","","","",NA
+"4182","C# .NET","PHP","","","",2
+"4183","c++","c#","python","java","",1
+"4184","","","","","",1
+"4185","C++","C","assembler","emacs lisp","",1
+"4186","","","","","",NA
+"4187","php","","","","",2
+"4188","C","Tcl/Tk","","","",1
+"4189","bash","c#","","","",1
+"4190","c++","java","c","csh","",3
+"4191","","","","","",1
+"4192","","","","","",NA
+"4193","SQL","java","","","",1
+"4194","java","bash","javascript","pl sql","c++",3
+"4195","C","arm assembler","x86 assembler","","",1
+"4196","python","C","php","","",1
+"4197","JavaScript","","","","",1
+"4198","C","","","","",1
+"4199","php","javascript","","","",3
+"4200","SQL","pl sql","Shell","C","",1
+"4201","C++","C","sh","","",2
+"4202","C","C++","python","","",3
+"4203","C#","php","javascript|","java","",3
+"4204","C","sh","","","",1
+"4205","Java","C","ruby","python","",1
+"4206","javascript","php","","","",1
+"4207","php","python","erlang","ruby","java",3
+"4208","java","SQL","Shell","VBA","VB6",4
+"4209","shell","ruby","","","",1
+"4210","","","","","",1
+"4211","Java","","","","",6
+"4212","VAX BASIC","fortran","C","","",1
+"4213","","","","","",NA
+"4214","PHP","javascript","bash","","",2
+"4215","javascript","php","delphi","","",1
+"4216","JavaScript","Bash","","","",1
+"4217","C","C++","Javascript","PHP","python",1
+"4218","","","","","",1
+"4219","","","","","",NA
+"4220","","","","","",NA
+"4221","Javascript","SQL","R","","",1
+"4222","python","c","java","javascript","matlab",2
+"4223","Bourne Shell","LISP","","","",1
+"4224","javascript","java","c","c++","",1
+"4225","python","c","java","bash","javascript",3
+"4226","","","","","",NA
+"4227","","","","","",NA
+"4228","shell scripting (bash)","","","","",1
+"4229","Objective-C/Cocoa","Ruby","bash","Python","",3
+"4230","","","","","",NA
+"4231","","","","","",NA
+"4232","c","","","","",1
+"4233","SQL","R","C","LaTeX","bash",1
+"4234","jQuery","actionscript","","","",1
+"4235","","","","","",NA
+"4236","","","","","",NA
+"4237","","","","","",1
+"4238","javascript","c","ruby","python","",1
+"4239","python","bash","csh","c","",1
+"4240","sql","bash","c","","",1
+"4241","korn/Bourne/Bash shells","","","","",1
+"4242","Bash Shell Script","c","c++","php","java",1
+"4243","java","javascript","","","",1
+"4244","bash","","","","",1
+"4245","python","javascript","","","",1
+"4246","javascript","sql","","","",1
+"4247","","","","","",1
+"4248","Java","Bash","","","",1
+"4249","Ruby","","","","",1
+"4250","bash","php","c","","",1
+"4251","Bash","Java","C","","",1
+"4252","","","","","",NA
+"4253","x++","c++","python","ruby","sed",6
+"4254","shell","c","erlang","","",1
+"4255","","","","","",NA
+"4256","","","","","",NA
+"4257","php","","","","",2
+"4258","java","groovy","javascript","bash","plsql",4
+"4259","C","Bourne shell","fortran","","",2
+"4260","sql","","","","",1
+"4261","","","","","",NA
+"4262","","","","","",NA
+"4263","SQL","matlab","javascript","C++","C",1
+"4264","","","","","",NA
+"4265","","","","","",NA
+"4266","c","c++","c#","python","",1
+"4267","","","","","",NA
+"4268","Java","javascript","groovy","c++","",4
+"4269","","","","","",NA
+"4270","Java","c++","","","",1
+"4271","","","","","",NA
+"4272","","","","","",NA
+"4273","C++","javascript","C","PHP","Lua",1
+"4274","java","","","","",2
+"4275","javascript","R","c++","","",1
+"4276","","","","","",NA
+"4277","python","java","","","",1
+"4278","c++","c","java","bash","OpenOffice Basic",3
+"4279","c++","","","","",2
+"4280","","","","","",NA
+"4281","Java","Python","c++","c","",3
+"4282","sql","javascript","bash","","",1
+"4283","php","javascript","sql","bash","-",3
+"4284","","","","","",NA
+"4285","c","sql","php","bash","java",1
+"4286","","","","","",NA
+"4287","","","","","",NA
+"4288","java","c","","","",2
+"4289","bash","java","","","",1
+"4290","Bash","","","","",1
+"4291","Java","C/C++","Javascript","Python","",1
+"4292","R","python","","","",1
+"4293","","","","","",NA
+"4294","C","C++","Java","javascript","Assembly",1
+"4295","Javascript","SQL ","Java","c","",1
+"4296","c++","python","","","",1
+"4297","java","sql","sh","","",2
+"4298","javascript","bash","JAVA","C","",1
+"4299","php","","","","",1
+"4300","sql","shell","C","php","vb",1
+"4301","Internal Google languages","C++","JavaScript","bash","Python",4
+"4302","PL/SQL","HTML","CSS","","",1
+"4303","Bash","SQL","","","",1
+"4304","C","matlab","bash","","",3
+"4305","C++","shell","","","",1
+"4306","","","","","",NA
+"4307","","","","","",NA
+"4308","c++","java","csh","sh","javascript",3
+"4309","SQL","JavaScript","sh","","",1
+"4310","","","","","",NA
+"4311","","","","","",NA
+"4312","groovy","python","ruby","","",1
+"4313","Bash","C#","Java","Objective C","",1
+"4314","","","","","",1
+"4315","","","","","",NA
+"4316","","","","","",NA
+"4317","javascript","C","","","",1
+"4318","C++","java","C","FORTRAN","",6
+"4319","","","","","",NA
+"4320","php","javascript","C","","",1
+"4321","java","python","php","","",4
+"4322","java","php","c#","","",1
+"4323","C","sql","","","",1
+"4324","","","","","",NA
+"4325","c++","python","ragel","erlang","haskell",2
+"4326","PHP","EMCA Script","bash","","",1
+"4327","visual basic","csh","","","",1
+"4328","csh","","","","",1
+"4329","C","C++","","","",1
+"4330","","","","","",NA
+"4331","javascript","","","","",1
+"4332","","","","","",NA
+"4333","","","","","",NA
+"4334","c++","php","sql","c","c#",2
+"4335","C","c++","Lisp","awk","python",5
+"4336","C++","JavaScript","Python","Java","Perl",5
+"4337","r","python","fortran","elisp","c",3
+"4338","","","","","",NA
+"4339","Java","C","Haskell","Lisp","",1
+"4340","","","","","",NA
+"4341","","","","","",NA
+"4342","c","cobol","","","",1
+"4343","Ruby","PHP","","","",3
+"4344","Smalltalk","Java","C++","C","",6
+"4345","c++","C","java","lua","javascript",2
+"4346","","","","","",NA
+"4347","javascript","bash","haskell","","",1
+"4348","C#","javascript","bash","java","",1
+"4349","","","","","",6
+"4350","java","ruby","c","","",3
+"4351","","","","","",1
+"4352","","","","","",NA
+"4353","bash","c","c++","java","python",2
+"4354","","","","","",NA
+"4355","Ruby","Bourne shell","C","C++","PHP",1
+"4356","TI-BASIC","applescript","","","",1
+"4357","","","","","",NA
+"4358","Bash","","","","",1
+"4359","bash","","","","",1
+"4360","","","","","",NA
+"4361","pl sql","C#","php","python","",2
+"4362","bash","php","","","",1
+"4363","","","","","",NA
+"4364","Dos Batch","Dibol","","","",1
+"4365","C","C++","Ruby","","",2
+"4366","","","","","",1
+"4367","c++","c","php","bash","",3
+"4368","ruby","javascript","html","css","shellscript",3
+"4369","","","","","",NA
+"4370","c++","php","python","ruby","",2
+"4371","JavaScript","","","","",1
+"4372","Javascript","C","","","",1
+"4373","javascript","python","php","c","bash",1
+"4374","c++","","","","",1
+"4375","sql","python","r","c","c++",1
+"4376","Java","PL/SQL","Python","Bash (Does that count?)","",1
+"4377","javascript","sql","bash","","",1
+"4378","PHP","bash","python","c","java",1
+"4379","c#","javascript","","","",1
+"4380","","","","","",NA
+"4381","c","ruby","smalltalk","","",1
+"4382","c#","c++","javascript","objective c","",2
+"4383","","","","","",NA
+"4384","C","python","","","",1
+"4385","Ruby","Python","PHP","Java","C",2
+"4386","c++","java","objective c","bash","python",4
+"4387","php","javascript","sql","visual basic","c",1
+"4388","","","","","",NA
+"4389","","","","","",NA
+"4390","","","","","",NA
+"4391","java","php","javascript","bash","c",2
+"4392","sql","c","c++","java","javascript",1
+"4393","bash","C","","","",1
+"4394","","","","","",NA
+"4395","","","","","",NA
+"4396","C++","c","bash","lua","python",3
+"4397","bash","c","python","ruby","lisp scheme",2
+"4398","javascript","php","bash","ant","",1
+"4399","lisp scheme","javascript","python","sql","",1
+"4400","php","bash","c++","","",1
+"4401","javascript","php","python","","",4
+"4402","transact sql","pl sql","javascript","visual basic","c",6
+"4403","Java","Ruby","C","","",2
+"4404","sh","","","","",2
+"4405","java","javascript","groovy","python","",2
+"4406","sh","C","Erlang","","",2
+"4407","C","","","","",1
+"4408","bash","","","","",1
+"4409","","","","","",1
+"4410","Python","Ruby","Java","","",3
+"4411","c++","smalltalk","lisp scheme","","",1
+"4412","C#","visual basic","javascript","PL/SQL","C",3
+"4413","","","","","",NA
+"4414","objective c","ruby","zsh","Java","Python",1
+"4415","java","sql","javascript","php","",1
+"4416","php","python","javascript","bash","common lisp",4
+"4417","php","java","c","","",1
+"4418","C","bash","gawk","sed","",2
+"4419","java","php","","","",2
+"4420","(z)(ba)sh","","","","",1
+"4421","ruby","c#","vb.net","c","java",3
+"4422","Java","C#","python","powershell","c",4
+"4423","php","bash","C#","","",2
+"4424","","","","","",NA
+"4425","","","","","",NA
+"4426","Java","C#","objective c","Ruby","",5
+"4427","javascript","bash","C","c++","",1
+"4428","C","Javascript","C#","Java","",1
+"4429","","","","","",NA
+"4430","","","","","",1
+"4431","objective c","php","","","",3
+"4432","","","","","",NA
+"4433","C++","UniBASIC","Bash","Python","Java",4
+"4434","autoit","windows scripting","html","","",2
+"4435","C","C++","Shell","Tcl","",1
+"4436",".NET 2010",".NET 2008","javascript","vbscript","",1
+"4437","bash","ruby","python","php","c",1
+"4438","","","","","",NA
+"4439","sql","","","","",2
+"4440","Python","C","shell","Lua","Haskell",6
+"4441","bash","python","","","",1
+"4442","awk","c","php","bash","",6
+"4443","","","","","",1
+"4444","JavaScript","PHP","","","",1
+"4445","java","pl sql","javascript","bash","c++",3
+"4446","","","","","",NA
+"4447","objective c","C","","","",1
+"4448","","","","","",1
+"4449","c","java","python","c++","php",2
+"4450","javascript","pl sql","bash","","",1
+"4451","","","","","",NA
+"4452","shell","c","","","",1
+"4453","","","","","",NA
+"4454","","","","","",NA
+"4455","javascript","bash","","","",1
+"4456","","","","","",NA
+"4457","php","","","","",2
+"4458","objective c","c","javascript","php","java",4
+"4459","","","","","",NA
+"4460","C","C++","java","","",2
+"4461","java","","","","",1
+"4462","javascript","php","","","",1
+"4463","c","java","c++","pascal","",1
+"4464","C++","Python","Haskell","C","Standard ML",1
+"4465","","","","","",NA
+"4466","Scala","Java","Erlang","Haskell","",6
+"4467","php","java","c++","bash","c",6
+"4468","php","javascript","sql","bash","",1
+"4469","","","","","",NA
+"4470","Python","JavaScript","C","PHP","",1
+"4471","","","","","",1
+"4472","","","","","",NA
+"4473","","","","","",NA
+"4474","bash","python","php","ksh","",1
+"4475","javascript","java","haskell","php","c",1
+"4476","csh","javascript","python","c","",1
+"4477","python","awk","sql","","",1
+"4478","perl","javascript","objective c","","",1
+"4479","python","php","javascript","html","css",6
+"4480","bash","c++","java","","",2
+"4481","c","c++","c#","","",1
+"4482","javascript","bash","c","","",1
+"4483","bash","php","python","","",4
+"4484","Bash","AutoIt","","","",1
+"4485","ruby","javascript","matlab","","",3
+"4486","python","C","java","c++","C#",6
+"4487","Java","sql","javascript","","",2
+"4488","bash","Python","java","C","",1
+"4489","bash","pascal","ruby","","",1
+"4490","php","javascript","python","ruby","",1
+"4491","","","","","",NA
+"4492","","","","","",1
+"4493","","","","","",NA
+"4494","r","awk","postscript","sql","php",4
+"4495","","","","","",NA
+"4496","","","","","",NA
+"4497","shell","JavaScript","GNU awk","","",1
+"4498","ruby","python","objective c","c","c++",1
+"4499","","","","","",1
+"4500","","","","","",NA
+"4501","","","","","",1
+"4502","ruby","javascript","delphi","","",2
+"4503","","","","","",NA
+"4504","","","","","",1
+"4505","sql","javascript","bash","pl sql","",1
+"4506","bash","javascript","php","","",1
+"4507","bash","php","sql","jsp","python",6
+"4508","","","","","",NA
+"4509","C++","C","objective c","","",3
+"4510","","","","","",NA
+"4511","javascript","php","c","lisp scheme","python",2
+"4512","","","","","",NA
+"4513","C","C++","PostScript","Matlab","",2
+"4514","","","","","",NA
+"4515","","","","","",NA
+"4516","Java","SQL","Javascript","php","",4
+"4517","Javascript","","","","",1
+"4518","","","","","",NA
+"4519","","","","","",NA
+"4520","php","java","csh","c","",1
+"4521","dbase","delphi","basic","c","bash",1
+"4522","Java","C++","C","VBA (""Embedded"" Visual Basic)","",4
+"4523","","","","","",1
+"4524","javascript","php","visual basic","java","c++",1
+"4525","","","","","",NA
+"4526","","","","","",NA
+"4527","Ruby","javascript","java","c","python",2
+"4528","JavaScript","PHP","ruby","","",2
+"4529","javascript","c","bash","c++","",1
+"4530","POSIX shell","Emacs Lisp","","","",1
+"4531","python","ruby","erlang","","",2
+"4532","","","","","",NA
+"4533","csh","","","","",1
+"4534","java","","","","",1
+"4535","c++","c","tcl tk","","",1
+"4536","","","","","",NA
+"4537","c","fortran","","","",1
+"4538","bash","php","","","",1
+"4539","pl/sql","php","","","",2
+"4540","C++","JavaScript","","","",1
+"4541","c++","c","bash","","",1
+"4542","java","javascript","SQL","bash","csh",1
+"4543","c++","javascript","python","c","",3
+"4544","vb .net","javascript","python","clojure","ruby",5
+"4545","Pl/sql, Shell Scripting","","","","",1
+"4546","matlab","","","","",2
+"4547","","","","","",NA
+"4548","","","","","",NA
+"4549","shell","php","javascript","","",1
+"4550","","","","","",NA
+"4551","ruby","javascript","C#","","",2
+"4552","","","","","",NA
+"4553","java","javascript","c","sql","python",6
+"4554","c","c++","","","",1
+"4555","","","","","",1
+"4556","java","","","","",2
+"4557","javascript","php","c","python","",1
+"4558","PHP","","","","",2
+"4559","","","","","",NA
+"4560","","","","","",1
+"4561","","","","","",1
+"4562","javascript","ruby","","","",1
+"4563","","","","","",NA
+"4564","PHP","bash","c++","","",1
+"4565","Common Lisp","Python","c","sh","PHP",6
+"4566","XSLT","FreePascal","","","",2
+"4567","sql","visual basic","","","",1
+"4568","","","","","",NA
+"4569","","","","","",1
+"4570","Ruby","Python","Scheme","Haskell","C",3
+"4571","Java","bash","php","","",4
+"4572","javascript","bash","php","groovy","",1
+"4573","C","java","sh","tcsh","sed",1
+"4574","PHP","Java","sql","c","",6
+"4575","C++","Java","","","",1
+"4576","","","","","",NA
+"4577","c/c++","bash","","","",1
+"4578","php","awk","python","c","c++",2
+"4579","javascript","python","bash","java","",1
+"4580","C","PL/PgSQL","Shell","XSL","JavaScript",1
+"4581","c++","java","bash","","",1
+"4582","sh","python","javascript","java","",1
+"4583","python","php","bash","","",1
+"4584","","","","","",NA
+"4585","","","","","",NA
+"4586","","","","","",NA
+"4587","","","","","",NA
+"4588","ruby","javascript","","","",1
+"4589","","","","","",1
+"4590","PHP","bash","","","",2
+"4591","Python","C#","Java","C","",2
+"4592","","","","","",1
+"4593","","","","","",NA
+"4594","","","","","",NA
+"4595","Java","C","COBOL","","",2
+"4596","Java","Perl","Bash","JavaScript","C++",2
+"4597","PHP","","","","",1
+"4598","python","","","","",2
+"4599","java","javascript","object-c","clojure","lisp scheme",1
+"4600","python","c","matlab","fortran","java",6
+"4601","","","","","",NA
+"4602","Visual foxpro","","","","",2
+"4603","c","c++","","","",1
+"4604","sh/bash","ruby","c#","vbscript","",1
+"4605","javascript","php","xslt","","",1
+"4606","Bash","PHP","Python","Ruby","",1
+"4607","perl","bash","","","",1
+"4608","c","php","","","",2
+"4609","javascript","xslt","xquery","ruby","",2
+"4610","SQL","sh","C","javascript","",1
+"4611","javascript","java","c","pascal","",1
+"4612","","","","","",NA
+"4613","asp.net(c#)","","","","",2
+"4614","","","","","",3
+"4615","","","","","",NA
+"4616","","","","","",NA
+"4617","jython","javascript","java","ruby","lua",1
+"4618","C","php","javascript","","",1
+"4619","C","C++","python","bash","",3
+"4620","","","","","",NA
+"4621","","","","","",NA
+"4622","C","python","","","",1
+"4623","","","","","",NA
+"4624","XSLT","tcl tk","C++","java","",2
+"4625","PL/I","Lua","java","c","Python",3
+"4626","java","python","bash","php","prolog",3
+"4627","C#","C","Java","Javascript","Python",4
+"4628","javascript","pl pgsql","bash","","",1
+"4629","c","bash","javascript","xslt","php",1
+"4630","","","","","",1
+"4631","","","","","",NA
+"4632","Javascript","Shell","","","",1
+"4633","PHP","C++","","","",2
+"4634","java","c","python","","",1
+"4635","","","","","",NA
+"4636","","","","","",NA
+"4637","","","","","",NA
+"4638","JavaScript","php","java","tcl tk","",1
+"4639","php","c#","javascript","c++","actionscript",4
+"4640","c++","python","php","javascript","",6
+"4641","","","","","",NA
+"4642","php","","","","",2
+"4643","sql","pl/pgsql","bash","javascript","",1
+"4644","","","","","",NA
+"4645","java","sql","bash","javascript","",1
+"4646","javascript","bash","","","",1
+"4647","","","","","",NA
+"4648","","","","","",NA
+"4649","javascript","","","","",1
+"4650","c#","javascript","java6","php","bourne shell",5
+"4651","","","","","",NA
+"4652","C++","Javascript","Java","","",1
+"4653","python","c","","","",6
+"4654","python","java","","","",1
+"4655","bash","c","ruby","python","",1
+"4656","DCL","Python","C","bash","C++",1
+"4657","C","javascript","","","",2
+"4658","php","bash","c","","",1
+"4659","ruby","c++","erlang","haskell","java",1
+"4660","objective c","java","javascript","C#","",1
+"4661","bash","javascript","","","",1
+"4662","bash","javascript","C","","",1
+"4663","PHP","c++","JavaScript","Java","",4
+"4664","php","Unix shell","","","",1
+"4665","","","","","",NA
+"4666","assembler","c","c++","c#","",3
+"4667","python","vbscript","shell","javascript","batch",2
+"4668","","","","","",NA
+"4669","Borne Shell","","","","",1
+"4670","java","C","","","",1
+"4671","Maple","C++","R","Java","C",3
+"4672","php","python","","","",1
+"4673","r","bash","","","",1
+"4674","","","","","",NA
+"4675","","","","","",NA
+"4676","C++","JAVA","javascript","c","assembler",1
+"4677","I only use Perl","I only use Perl","I only use Perl","I only use Perl","I only use Perl",1
+"4678","Pscal","JavaScript","Java","","",1
+"4679","javascript","bash","c","objective c","",1
+"4680","c#","javascript","visual basic","","",3
+"4681","","","","","",NA
+"4682","c","c#","csh","c++","",1
+"4683","C","delphi","","","",1
+"4684","TCL","C/C++","","","",1
+"4685","PHP","bash","","","",2
+"4686","C","bash","python","","",3
+"4687","","","","","",NA
+"4688","bash","c","javascript","","",1
+"4689","Python","Sh","","","",1
+"4690","","","","","",NA
+"4691","bash","visual basic","c","lisp","",1
+"4692","java","javascript","python","","",1
+"4693","Common Lisp","XQuery","Elisp","bash","javascript",1
+"4694","","","","","",NA
+"4695","Java","C++","C","bash","",2
+"4696","php","bash","c","c++","",1
+"4697","php","javascript","","","",1
+"4698","javascript","sql","","","",1
+"4699","Javascript","","","","",1
+"4700","","","","","",NA
+"4701","ruby","","","","",2
+"4702","Perl","python","php","","",1
+"4703","","","","","",NA
+"4704","","","","","",NA
+"4705","Lua","sql","bash","php","objective c",1
+"4706","c","c++","tcl tk","","",3
+"4707","javascript","c","","","",1
+"4708","","","","","",1
+"4709","","","","","",NA
+"4710","Scheme","C","Python","Common Lisp","",4
+"4711","javascript","java","php","c","",1
+"4712","javascript","sql (postgresql)","bash","","",1
+"4713","plpgsql","c","bash","php","t-sql",1
+"4714","ruby","bash","c","","",3
+"4715","c++","perl","python","","",2
+"4716","puppet","bash","ruby","","",3
+"4717","smalltalk","java","c","clojure","c++",2
+"4718","bash","Eiffel","Java","C","make",1
+"4719","PHP","","","","",1
+"4720","php","javascript","python","c++","c",6
+"4721","javascript","","","","",1
+"4722","bash","javascript","","","",1
+"4723","","","","","",NA
+"4724","SPSS","visual basic","python","","",1
+"4725","","","","","",NA
+"4726","","","","","",NA
+"4727","erlang","bash","ocaml/fsharp","falcon","python",2
+"4728","","","","","",NA
+"4729","","","","","",NA
+"4730","","","","","",NA
+"4731","bash","python","","","",1
+"4732","javascript","java","php","","",1
+"4733","Shellscript","php","c++","C","D",1
+"4734","C","c++","java","javascript","sql",2
+"4735","php","","","","",1
+"4736","javascript","bourne shell","python","C","java",1
+"4737","","","","","",1
+"4738","php","javascript","bash","delphi","",1
+"4739","","","","","",NA
+"4740","","","","","",NA
+"4741","","","","","",1
+"4742","java","bash","javascript","c","sql",6
+"4743","Shell (bash, korn shell)","","","","",1
+"4744","JavaScript","","","","",1
+"4745","Bash","Python","","","",2
+"4746","R","bash","PHP","C","",2
+"4747","bash","python","c++","","",1
+"4748","Java","ESQL","C","C#","",1
+"4749","C","fortran","objective c","","",1
+"4750","javascript","php","","","",1
+"4751","php","python","Lua","c","ruby",4
+"4752","javascript","c","c++","java","",1
+"4753","python","c","c++","haskell","javascript",6
+"4754","python","c","PHP","","",1
+"4755","C","python","ruby","C++","ocaml",1
+"4756","Php","Python ","","","",1
+"4757","","","","","",NA
+"4758","Perl","javascript","php","sql","",1
+"4759","c","c++","","","",2
+"4760","","","","","",NA
+"4761","C","Javascript","bash","C#","python",1
+"4762","","","","","",NA
+"4763","C#","php","java","javascript","visual basic",2
+"4764","c++","php","","","",1
+"4765","sql","bash","","","",1
+"4766","","","","","",NA
+"4767","php","javascript","bash","python","",2
+"4768","perl","php","bash","sql","",1
+"4769","javascript","SQL","Ruby","python","lua",1
+"4770","PHP","JavaScript","Java","Lua","Python",1
+"4771","javascript","Java","","","",1
+"4772","","","","","",NA
+"4773","","","","","",NA
+"4774","","","","","",NA
+"4775","matlab","c","java","bash","fortran",3
+"4776","java","groovy","python","c#","",3
+"4777","","","","","",NA
+"4778","","","","","",NA
+"4779","php","javascript","sql","ruby","java",4
+"4780","","","","","",NA
+"4781","Java","PL/SQL","","","",3
+"4782","php","Java","C","Ruby","",2
+"4783","c++","java","sql","cobol","javascript",1
+"4784","","","","","",NA
+"4785","C++","Bash","Haskell","Ruby","Lua",1
+"4786","Perl","bash","","","",1
+"4787","","","","","",NA
+"4788","C/C++","java","python","matlab","javascript",2
+"4789","bash","php","C","","",2
+"4790","bash","php","c","python","",1
+"4791","Java","","","","",1
+"4792","c++","c#","pascal","","",4
+"4793","bash","cobol","php","javascript","",1
+"4794","C","php","","","",1
+"4795","C++","C","","","",1
+"4796","php","javascript","sh","","",1
+"4797","Java","PL/SQL","C","Javascript","C++",1
+"4798","","","","","",1
+"4799","","","","","",NA
+"4800","matlab","bash","C/C++","","",2
+"4801","C","awk","vbscript","javascript","shell",1
+"4802","","","","","",NA
+"4803","javascript","sql","","","",1
+"4804","","","","","",NA
+"4805","C","elisp","shell","","",3
+"4806","c++","php","bash","emacs-lisp","python",3
+"4807","","","","","",NA
+"4808","vbscript","visual basic","bash","","",1
+"4809","","","","","",NA
+"4810","Java","C#","php","","",4
+"4811","c++","Java","","","",2
+"4812","","","","","",NA
+"4813","C#","HTML","PHP","javascript","ASP.Net",6
+"4814","","","","","",NA
+"4815","Python","PHP","","","",3
+"4816","bash","PHP","Java","","",2
+"4817","SAS","VB","","","",1
+"4818","","","","","",NA
+"4819","ruby","bash","redcode","","",1
+"4820","","","","","",NA
+"4821","Python","","","","",1
+"4822","bash","php","python","","",1
+"4823","bash","","","","",1
+"4824","","","","","",NA
+"4825","python","java","php","c++","javascript",3
+"4826","php","python","Sql","","",1
+"4827","javascript","","","","",1
+"4828","Bash (if it qualifies as a ""programming language"")","","","","",1
+"4829","","","","","",NA
+"4830","javascript","bash","","","",1
+"4831","","","","","",1
+"4832","transact sql","delphi","","","",3
+"4833","sh","java","c","","",1
+"4834","php","bash scripting","c","","",1
+"4835","","","","","",NA
+"4836","Perl","Javascript","PHP","","",1
+"4837","c","C++","","","",1
+"4838","php","javascript","java","","",6
+"4839","bash","ksh","php","Common Lisp","",1
+"4840","actionscript","c","php","tcl tk","c++",1
+"4841","Ruby","Python","Java","","",1
+"4842","javascript","scheme","php","python","ruby",1
+"4843","C++","C","python","","",2
+"4844","","","","","",NA
+"4845","","","","","",NA
