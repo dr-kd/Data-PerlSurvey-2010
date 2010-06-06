@@ -1,7 +1,5 @@
-> names(perl.survey)
-  [1] "session_key"                                                    
-  [2] "completed"                                                      
-  [3] "gender"                                                         
+demographic
+[3] "gender"                                                         
   [4] "age_group"                                                      
   [5] "birth_country"                                                  
   [6] "resident_country"                                               
@@ -64,7 +62,9 @@
  [63] "work_proportion_programming_software_projects"                  
  [64] "work_proportion_programming_software_projects_not_writing_code" 
  [65] "time_percentage_programming_perl"                               
- [66] "programming_in_spare_time"                                      
+ [66] "programming_in_spare_time"
+
+ perl info
  [67] "versions_of_perl_commonly_used_1"                               
  [68] "versions_of_perl_commonly_used_2"                               
  [69] "versions_of_perl_commonly_used_3"                               
