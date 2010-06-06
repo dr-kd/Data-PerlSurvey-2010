@@ -1,8 +1,10 @@
-demographic
-[3] "gender"                                                         
+* demographic
+  [3] "gender"                                                         
   [4] "age_group"                                                      
+
   [5] "birth_country"                                                  
   [6] "resident_country"                                               
+
   [7] "highest_qual"                                                   
   [8] "post_school_training_Computing"                                 
   [9] "post_school_trainingArts"                                       
@@ -14,9 +16,11 @@ demographic
  [15] "post_school_trainingEngineering"                                
  [16] "post_school_training_Education"                                 
  [17] "post_school_training_Other"                                     
+
  [18] "formally_taught_perl"                                           
  [19] "formally_taught_other_os_language"                              
  [20] "other_os_language_taught"                                       
+
  [21] "approx_annual_income"                                           
  [22] "work_industries_Advertising_Marketing_Public_Relations"         
  [23] "work_industries_Agriculture.Forestry.Fishing"                   
@@ -57,6 +61,8 @@ demographic
  [58] "work_industries_Textiles"                                       
  [59] "work_industries_Transportation"                                 
  [60] "work_industries_Other"                                          
+
+* Programming experience
  [61] "programming_computers_for"                                      
  [62] "programming_perl_for"                                           
  [63] "work_proportion_programming_software_projects"                  
@@ -64,7 +70,7 @@ demographic
  [65] "time_percentage_programming_perl"                               
  [66] "programming_in_spare_time"
 
- perl info
+* Perl info
  [66] "programming_in_spare_time"                                      
  [67] "versions_of_perl_commonly_used_5.4"                             
  [68] "versions_of_perl_commonly_used_5.0005"                          
@@ -73,6 +79,8 @@ demographic
  [71] "versions_of_perl_commonly_used_5.10"                            
  [72] "versions_of_perl_commonly_used_5.12"                            
  [73] "version_of_perl_used_most_frequently"                           
+
+* Operating systems info
  [74] "os_used_programming_development_Amiga"                          
  [75] "os_used_programming_development_Android"                        
  [76] "os_used_programming_development_Apollo"                         
@@ -179,17 +187,23 @@ demographic
 [177] "os_completed_projects_deployed_Windows_7"                       
 [178] "os_completed_projects_deployed_Windows_XP"                      
 [179] "os_completed_projects_deployed_Other"                           
+
+* Windows perl
 [180] "win_os_perl_distro_strawberry"                                  
 [181] "win_os_perl_distro_activestate"                                 
 [182] "win_os_perl_distro_cygwin"                                      
 [183] "win_os_perl_distro_other"                                       
 [184] "win_os_perl_distro_best"                                        
+
+* Programming languages info
 [185] "language_1"                                                     
 [186] "language_2"                                                     
 [187] "language_3"                                                     
 [188] "language_4"                                                     
 [189] "language_5"                                                     
 [190] "where_perl_belongs_in_list"                                     
+
+* Text editors info
 [191] "text_editor_Anjuta"                                             
 [192] "text_editor_BBEdit"                                             
 [193] "text_editor_Crimson"                                            
@@ -278,20 +292,39 @@ demographic
 [276] "text_editor_occasional_Vi"                                      
 [277] "text_editor_occasional_Vim"                                     
 [278] "text_editor_occasional_Xemacs"                                  
+
+* Community involvement
 [279] "perl_mongers_mailing_lists_subscribe_to"                        
 [280] "technical_perl_mailing_lists_subscribe_to"                      
 [281] "technical_not_perl_mailing_lists_subscribe_to"                  
 [282] "local_perl_mongers_group"                                       
 [283] "attend_local_perl_mongers_group_meetings"                       
 [284] "have_attended_perl_related_conference"                          
+
+* Perl Media
+[285] read_perl_news_sites_planet
+[286] read_perl_news_sites_sphere
+[287] read_perl_news_sites_ironman
+[288] read_perl_news_sites_planetsix
+[289] read_perl_news_sites_planetparrot
+[290] read_perl_news_sites_perlblogs
+[291] read_perl_news_sites_use
+[292] read_perl_news_sites_reddit
+[293] read_perl_news_sites_other
+
+* CPAN info
 [294] "num_cpan_modules"                                               
-[295] "num_cpan_modules_handed_over"                                   
+[295] "num_cpan_modules_handed_over"
+
+* Code involvement info
 [296] "provided_bug_report_for_perl_interpreter"                       
 [297] "provided_code_to_fix_bug_perl_interpreter"                      
 [298] "provided_code_to_add_feature_to_perl_interpreter"               
 [299] "provided_bug_report_for_CPAN_module"                            
 [300] "provided_code_to_fix_bug_CPAN_module"                           
 [301] "provided_code_to_add_feature_to_CPAN_module"                    
+
+* Opinions
 [302] "perl_cutting_edge_programming_language"                         
 [303] "perl_encouraged_at_workplace"                                   
 [304] "perl_good_language_for_startup"                                 
@@ -308,26 +341,31 @@ demographic
 [315] "perl_good_tool_system_administrators"                           
 [316] "perl_good_tool_network_engineers"                               
 [317] "perl_good_tool_embedded_systems_programmers"                    
-[318] "perl_good_tool_applications_programmers"                        
+[318] "perl_good_tool_applications_programmers"
+
+* Opinions words
 [319] "perl_best_thing"                                                
 [320] "perl_frustrates_most"                                           
 [321] "describe_perl"                                                  
+
+* Certification
 [322] "official_perl_cert_for_me"                                      
 [323] "official_perl_cert_for_others"                                  
 [324] "perl_cert_comments"                                             
+
+* Importnt CPAN modules
 [325] "CPAN_1"                                                         
 [326] "CPAN_2"                                                         
 [327] "CPAN_3"                                                         
 [328] "CPAN_4"                                                         
 [329] "CPAN_5"                                                         
+
+* CPAN workflow
 [330] "install_CPAN_always_test_run"                                   
 [331] "freq_force_install_CPAN_mods_after_test_fail"                   
 [332] "try_to_understand_why_tests_fail_before_force_install"          
 [333] "report_test_fails_thru_approp_channels"                         
+
+* Cross platform
 [334] "running_perl_program_across_mult_platforms_easy"                
 [335] "cross_platform_perl_programming_comments"                       
-[336] "page"                                                           
-[337] "path"                                                           
-[338] "scopes"                                                         
-[339] "scope_stack"                                                    
-> 
