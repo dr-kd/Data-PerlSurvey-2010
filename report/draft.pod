@@ -1,0 +1,135 @@
+=head2 Demographics
+
+
+=head3 Gender
+
+=begin R
+
+library(Hmisc)
+describe(factor(perl.survey$gender))
+
+=end R
+
+Male (4294, 96%), Female (139, 3%), Other (28, 1%) 
+
+=head3 Age group
+
+=begin R
+
+perl.survey$age_group <- ordered(perl.survey$age_group)
+describe(perl.survey$age_group)
+
+=end R
+
+           | <20 | 20-24 |  25-29  |  30-39 |  40-49 |  50+ |
+Frequency  | 94  | 466   |  975    |  1830  |  817   |  306 |
+Percent    | 2   | 10    | 22      |  41    |  18    | 7    |
+
+
+=head3 Country of birth and residence.
+
+
+Country is more fun.  The old sort| uniq trick works best here.  With a little under 160 countries mentioned.  It's in the data dir.
+
+
+=head3 Highest qualification
+
+=begin R
+
+describe(ordered(perl.survey$highest_qual))
+
+=end R
+
+School (702, 16%), Technical College (505, 12%), Bachelors (1723, 40%), Masters (1370, 32%)
+
+=head4 did they learn Perl?
+
+             |None | Almost none | A little | Quite a bit |  A lot |
+Frequency    |3584 | 295         | 309      | 54          |  38    |
+Percent      | 84   7   7  1  1
+
+
+=head3 Post-school training
+
+=begin R
+
+describe(sapply(perl.survey[8:17],ordered))
+
+=end R
+
+Computing     | 45%
+Engineering   | 16%
+Science       | 14%
+Mathematics   | 12%
+Other         |  7%
+Languages     |  4%
+Arts          |  3%
+Social Science|  3%
+Creative Arts |  2%
+Education     |  1%
+
+
+=head3 Formally taught Perl
+
+
+
+=head2 Estimating the size of the Perl community.
+
+=begin R
+
+perl.survey <- read.csv("../data/all_data.csv");
+perl.survey$num_cpan_modules <- ordered(perl.survey$num_cpan_modules)
+summary(perl.survey$num_cpan_modules)
+sum(summary(perl.survey$num_cpan_modules)[2:4]) # non-cpan contributors
+sum(summary(perl.survey$num_cpan_modules)[1]) # cpan contributors
+
+=end R
+
+803 CPAN contributors
+
+2872 Non-CPAN contributors.
+
+So we've got 9.8% of the CPAN contributors.  So to get an order of magnitude estimate of the size of the Perl community at large, we can assume that we've got somewhere between 1 in 10 and 1 in 100 of regular Perl users.  So the size of the Perl community is somewhere between: 36,950 and 295,500 individuals.
+
+
+=head3 Involvement with perlmongers
+
+=begin R
+
+perl.survey$attend_local_perl_mongers_group_meetings  <- ordered(perl.survey$attend_local_perl_mongers_group_meetings)
+summary(perl.survey$attend_local_perl_mongers_group_meetings)
+
+# Total % of perl mongers attendees
+sum(summary(perl.survey$attend_local_perl_mongers_group_meetings)[2:6])/sum(summary(perl.survey$attend_local_perl_mongers_group_meetings)[1:6])*100 
+
+
+# % of perl mongers attendees who contribute to CPAN
+
+sum(summary(perl.survey$attend_local_perl_mongers_group_meetings[perl.survey$num_cpan_modules > 1])[1])/sum(summary(perl.survey$attend_local_perl_mongers_group_meetings[perl.survey$num_cpan_modules > 1])[1:6])*100
+
+=end R
+
+30% of respondents attend PerlMongers meetings. 45%% of CPAN contributors attend PM meetings.
+
+=head3 Does this change by mailing list?
+
+
+=begin R
+
+perl.survey$perl_mongers_mailing_lists_subscribe_to  <- ordered(perl.survey$perl_mongers_mailing_lists_subscribe_to)
+summary(perl.survey$perl_mongers_mailing_lists_subscribe_to)
+
+# Total % of perl mongers list subscribers
+sum(summary(perl.survey$perl_mongers_mailing_lists_subscribe_to)[2:4])/sum(summary(perl.survey$perl_mongers_mailing_lists_subscribe_to)[1:4])*100 
+
+
+# % of perl mongers list subscribers who contribute to CPAN
+
+sum(summary(perl.survey$perl_mongers_mailing_lists_subscribe_to[perl.survey$num_cpan_modules > 1])[1])/sum(summary(perl.survey$perl_mongers_mailing_lists_subscribe_to[perl.survey$num_cpan_modules > 1])[1:4])*100
+
+=end R
+
+
+This is a rather odd counter-intuitive result:  42% of non-CPAN contributers subscribe to at least 1 PM mailing list.  32% of CPAN contributors do.
+
+
