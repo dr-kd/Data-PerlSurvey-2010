@@ -21,9 +21,10 @@ describe(perl.survey$age_group)
 
 =end R
 
-           | <20 | 20-24 |  25-29  |  30-39 |  40-49 |  50+ |
-Frequency  | 94  | 466   |  975    |  1830  |  817   |  306 |
-Percent    | 2   | 10    | 22      |  41    |  18    | 7    |
+           | <20 | 20-24 |  25-29  |  (20-29)  |  30-39 |  40-49 |  50+ |
+Frequency  | 94  | 466   |  975    |   1441    |  1830  |  817   |  306 |
+Percent    | 2   | 10    |  22     |   32      |  41    |  18    |  7   |
+
 
 
 =head3 Country of birth and residence.
@@ -35,6 +36,8 @@ Country is more fun.  The old sort| uniq trick works best here.  With a little u
 =head3 Highest qualification
 
 =begin R
+
+
 
 describe(ordered(perl.survey$highest_qual))
 

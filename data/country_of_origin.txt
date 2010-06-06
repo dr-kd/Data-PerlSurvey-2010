@@ -1,7 +1,7 @@
 1551 usa
  685 germany
  453 
- 283 united kingdom
+ 342 united kingdom
  178 canada
  177 australia
  123 russian federation
@@ -13,7 +13,6 @@
   67 netherlands
   63 switzerland
   60 spain
-  59 england
   48 sweden
   45 italy
   41 ukraine

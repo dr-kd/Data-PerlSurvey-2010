@@ -1,7 +1,7 @@
 1387 usa
  687 germany
  453 
- 290 united kingdom
+ 365 united kingdom
  157 canada
  153 russian federation
  138 australia
@@ -9,7 +9,6 @@
  122 india
   94 austria
   77 brazil
-  75 england
   66 norway
   58 netherlands
   53 spain
