@@ -2,9 +2,11 @@
   [3] "gender"                                                         
   [4] "age_group"                                                      
 
+* countries
   [5] "birth_country"                                                  
   [6] "resident_country"                                               
 
+* education
   [7] "highest_qual"                                                   
   [8] "post_school_training_Computing"                                 
   [9] "post_school_trainingArts"                                       
@@ -17,10 +19,12 @@
  [16] "post_school_training_Education"                                 
  [17] "post_school_training_Other"                                     
 
+* perl education
  [18] "formally_taught_perl"                                           
  [19] "formally_taught_other_os_language"                              
  [20] "other_os_language_taught"                                       
 
+* work info 
  [21] "approx_annual_income"                                           
  [22] "work_industries_Advertising_Marketing_Public_Relations"         
  [23] "work_industries_Agriculture.Forestry.Fishing"                   
@@ -71,7 +75,6 @@
  [66] "programming_in_spare_time"
 
 * Perl info
- [66] "programming_in_spare_time"                                      
  [67] "versions_of_perl_commonly_used_5.4"                             
  [68] "versions_of_perl_commonly_used_5.0005"                          
  [69] "versions_of_perl_commonly_used_5.6"                             
