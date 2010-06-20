@@ -28,5 +28,6 @@ split.data("15_code_involvement_info",295,301);
 split.data("16_opinions",302,318);
 split.data("17_opinions_words",319,321);
 split.data("18_important_cpan_modules",325,329);
-split.data("19_cpan_workflow",330,331);
+split.data("19_cpan_workflow",330,333);
 split.data("20_x_platform",334,335);
+split.data("21_perl_cert",322,324);
