@@ -1,0 +1,334 @@
+select resident, count(resident) as ct from countries group by resident order by ct desc;
+
+usa|1555
+germany|687
+not stated|455
+united kingdom|344
+australia|178
+canada|178
+russian federation|123
+france|121
+austria|91
+norway|78
+brazil|75
+india|70
+netherlands|67
+switzerland|63
+spain|60
+sweden|49
+italy|45
+ukraine|41
+new zealand|37
+israel|35
+denmark|34
+poland|33
+china|29
+finland|26
+japan|24
+romania|23
+hungary|20
+belgium|16
+portugal|16
+ireland|15
+mexico|15
+singapore|13
+argentina|12
+belarus|12
+indonesia|12
+croatia|11
+south africa|9
+bulgaria|8
+greece|8
+slovakia|8
+
+select birth, count(birth) as ct from countries group by birth order by ct desc;
+
+usa|1395
+germany|689
+not stated|455
+united kingdom|368
+canada|157
+russian federation|155
+australia|139
+france|135
+india|122
+austria|94
+brazil|83
+norway|66
+netherlands|58
+spain|53
+ukraine|52
+italy|51
+poland|49
+new zealand|42
+sweden|40
+china|39
+switzerland|39
+romania|31
+denmark|29
+finland|28
+hungary|26
+israel|24
+portugal|21
+argentina|20
+indonesia|18
+ireland|18
+mexico|18
+croatia|17
+japan|16
+belarus|15
+belgium|15
+south africa|15
+korea|12
+slovakia|12
+bulgaria|11
+turkey|10
+czech republic|9
+
+## next let's look at migration to the larger countries
+
+USA has lots of immigrants:
+
+(- 1395 1336) 59
+usa|1336
+india|35
+united kingdom|27
+canada|19
+germany|12
+russian federation|9
+france|7
+australia|5
+israel|5
+korea|5
+china|4
+iran|4
+japan|4
+not stated|4
+ukraine|4
+mexico|3
+netherlands|3
+new zealand|3
+switzerland|3
+taiwan|3
+argentina|2
+colombia|2
+hong kong|2
+indonesia|2
+lebanon|2
+malaysia|2
+poland|2
+serbia|2
+singapore|2
+south africa|2
+spain|2
+sweden|2
+turkey|2
+bahamas|1
+belgium|1
+bosnia and herzegovina|1
+brazil|1
+bulgaria|1
+cananda|1
+czech republic|1
+denmark|1
+dominican republic|1
+egypt|1
+ethiopia|1
+finland|1
+greece|1
+guatemala|1
+guinea|1
+hungary|1
+kazakhstan|1
+latvia|1
+moldova|1
+namibia|1
+nepal|1
+netherlands antilles|1
+nigeria|1
+pakistan|1
+papua new guinea|1
+philippines|1
+romania|1
+slovakia|1
+sri lanka|1
+thailand|1
+uda|1
+united arab emirates|1
+vietnam|1
+zimbabwe|1
+
+
+## germany fewer:
+
+germany|628
+russian federation|9
+austria|7
+poland|7
+united kingdom|4
+australia|3
+not stated|3
+bulgaria|2
+croatia|2
+romania|2
+ukraine|2
+usa|2
+argentina|1
+canada|1
+east germany|1
+finland|1
+france|1
+gdr|1
+hungary|1
+iceland|1
+indonesia|1
+iran|1
+ireland|1
+italy|1
+netherlands|1
+south africa|1
+spain|1
+turkey|1
+
+### united kingdom fewer again:
+
+united kingdom|273
+usa|8
+australia|7
+new zealand|6
+canada|4
+france|4
+poland|4
+spain|4
+germany|3
+ireland|3
+italy|3
+china|2
+finland|2
+india|2
+netherlands|2
+pakistan|2
+south africa|2
+austria|1
+bahrain|1
+czech republic|1
+greece|1
+kenya|1
+norway|1
+not stated|1
+portugal|1
+sweden|1
+uganda|1
+ukraine|1
+vietnam|1
+zambia|1
+
+## Russian federation hackers all come from the soviet bloc
+
+russian federation|114
+ukraine|3
+belarus|2
+azerbaijan|1
+kazakhstan|1
+kyrgyzstan|1
+uzbekistan|1
+
+## The french are more like the germans
+
+(+ 110 2 2 1 1 1 1 1 1 )120
+(/ 110.0 120) 0.9166666666666666
+
+france|110
+germany|2
+usa|2
+argentina|1
+canada|1
+denmark|1
+romania|1
+sierra leone|1
+slovakia|1
+united kingdom|1
+
+# the canadians are diverse like the americans
+
+canada|124
+usa|12
+united kingdom|9
+india|5
+russian federation|5
+china|2
+france|2
+germany|2
+hungary|2
+iran|2
+romania|2
+ macedonia|1
+bahrain|1
+brazil|1
+croatia|1
+ireland|1
+italy|1
+not stated|1
+pakistan|1
+serbia|1
+south afica|1
+south africa|1
+
+## australia:
+
+australia|117
+united kingdom|21
+new zealand|7
+india|4
+indonesia|4
+usa|4
+china|3
+malaysia|2
+canada|1
+croatia|1
+el salvador|1
+fiji|1
+germany|1
+iceland|1
+iraq|1
+nepal|1
+netherlands|1
+poland|1
+russian federation|1
+singapore|1
+slovenia|1
+sweden|1
+thailand|1
+vietnam|1
+
+# france - not a very diverse group:
+
+france|110
+germany|2
+usa|2
+argentina|1
+canada|1
+denmark|1
+romania|1
+sierra leone|1
+slovakia|1
+united kingdom|1
+
+# austria same
+
+austria|81
+germany|5
+czech republic|2
+slovakia|1
+switzerland|1
+usa|1
+
+
+# brasil and india - let's see what the develping coountries look like
+
+brazil - one chilean one german
+
+india  - all indian by birth.
+
+
+

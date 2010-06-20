@@ -1,0 +1,7 @@
+"","perl_mongers_mailing_lists_subscribe_to","technical_perl_mailing_lists_subscribe_to","technical_not_perl_mailing_lists_subscribe_to","local_perl_mongers_group","attend_local_perl_mongers_group_meetings","have_attended_perl_related_conference"
+"perl_mongers_mailing_lists_subscribe_to",1,0.54,0.29,0.54,0.01,0
+"technical_perl_mailing_lists_subscribe_to",0.54,1,0.4,0.34,-0.02,-0.05
+"technical_not_perl_mailing_lists_subscribe_to",0.29,0.4,1,0.17,0.01,-0.02
+"local_perl_mongers_group",0.54,0.34,0.17,1,0.1,0.06
+"attend_local_perl_mongers_group_meetings",0.01,-0.02,0.01,0.1,1,0.09
+"have_attended_perl_related_conference",0,-0.05,-0.02,0.06,0.09,1
