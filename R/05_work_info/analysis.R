@@ -8,7 +8,7 @@ data$approx_annual_income <- ordered(data$approx_annual_income,levels=c(1:5),lab
 png("income.png")
 par(las=2)
 plot(data$approx_annual_income)
-sec <- category.matrix(data[2:40]);
+sec <- category.matrix(data[2:40], "^work_industries_", strip.dots=TRUE);
 library(R2HTML);
 
 HTMLStart(".", 'index', HTMLframe=FALSE, Title="Age, Income and Industry Sector", autobrowse=FALSE);

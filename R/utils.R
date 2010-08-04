@@ -14,23 +14,25 @@ category.count <- function(s) {
   return(c(is, perc))
 }
 
-category.names <- function(s) {
+category.names <- function(s, txt, strip.dots=FALSE) {
   s.n <- names(s)
   for (n in 1:length(s.n)) {
-    s.n[n] <- sub("^work_industries_", "", s.n[n])
-    s.n[n]<- gsub("_|\\.", " ", s.n[n])
+    s.n[n] <- sub(txt, "", s.n[n])
+    if (strip.dots == TRUE) {
+      s.n[n]<- gsub("_|\\.", " ", s.n[n])
     }
+  }
   return(s.n)
 }
 
-category.matrix <- function(data) {
+category.matrix <- function(data, txt, strip.dots=FALSE) {
   N <- length(data)
   sec <- data.frame(Count=integer(N), percent=numeric(N))
   for (x in c(1:N)) {
     r <- category.count(data[x])
     sec[x,] <- r[1:2]
   }
-  rownames(sec) <- category.names(data)
+  rownames(sec) <- category.names(data,txt,strip.dots)
   sec <- sec[order(sec[,2], decreasing=TRUE),]
   return(sec)
 }
