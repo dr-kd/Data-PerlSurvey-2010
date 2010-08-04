@@ -5,3 +5,32 @@ library(prettyR)
 my.report <- function(my.table) {
     return (round( my.table/sum(my.table) * 100, 2))
 }
+
+category.count <- function(s) {
+  is   <- length(s[s[1] == 1])
+  isnt <- length(s[s[1] == 0])
+  tot = is+isnt
+  perc = round(is/tot*100,2)
+  return(c(is, perc))
+}
+
+category.names <- function(s) {
+  s.n <- names(s)
+  for (n in 1:length(s.n)) {
+    s.n[n] <- sub("^work_industries_", "", s.n[n])
+    s.n[n]<- gsub("_|\\.", " ", s.n[n])
+    }
+  return(s.n)
+}
+
+category.matrix <- function(data) {
+  N <- length(data)
+  sec <- data.frame(Count=integer(N), percent=numeric(N))
+  for (x in c(1:N)) {
+    r <- category.count(data[x])
+    sec[x,] <- r[1:2]
+  }
+  rownames(sec) <- category.names(data)
+  sec <- sec[order(sec[,2], decreasing=TRUE),]
+  return(sec)
+}
