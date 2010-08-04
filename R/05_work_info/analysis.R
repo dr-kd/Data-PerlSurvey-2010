@@ -1,53 +1,46 @@
 load("05_work_info.RData")
-data$age_group <- factor(data$age_group,levels=c(1:6),labels=c(Under 20,20 - 24,25 - 29,30 - 39,40 - 49,50+))
 
-data$approx_annual_income <- ordered(data$approx_annual_income,levels=c(1:5),labels=c("$0 - $30,000","$30,000 - $60,000","$60,000 - $90,000","$90,000 - $120,000","$120,000+"))
+sector.count <- function(s) {
+  is   <- length(s[s[1] == 1])
+  isnt <- length(s[s[1] == 0])
+  tot = is+isnt
+  perc = round(is/tot*100,2)
+  return(c(is, perc))
+}
+sec.names <- function(s) {
+  s.n <- names(s)
+  for (n in 1:length(s.n)) {
+    s.n[n] <- sub("^work_industries_", "", s.n[n])
+    s.n[n]<- gsub("_|\\.", " ", s.n[n])
+    }
+  return(s.n)
+}
 
-library(Hmisc)
-describe(sapply(data[2:40],ordered))
-
-Computers_Software (1785, 37%)
-Computers_Services (925, 19%)
-Internet (774, 16%) 
-Education (348, 7%) 
-Telecommunications (326, 7%) 
-Science (282, 6%) 
-Consulting_Services (273, 6%)
-Financial (265, 5%) 
-Computers_Hardware (178, 4%)
-Government (179, 4%)
-Other (170, 4%) 
-Advertising_Marketing_Public_Relations (154, 3%)
-Publishing (126, 3%) 
-Engineering (138, 3%)
-Nonprofit (116, 2%) 
-Entertainment (105, 2%)
-Health_Care (97, 2%) 
-Creative.Design (82, 2%) 
-Manufacturing (74, 2%) 
-Automotive (73, 2%) 
-Electronics (69, 1%)
-Medical.Healthcare (67, 1%)
-Retail (67, 1%) 
-Transportation (53, 1%) 
-Architectural_Services (51, 1%)
-Customer_Service (48, 1%)
-Hospitality.Tourism (46, 1%) 
-Agriculture.Forestry.Fishing (46, 1%) 
-Insurance (44, 1%) 
-Consumer_Products (44, 1%)
-Military (39, 1%) 
-Energy.Utilities (38, 1%) 
-Real_Estate (29, 1%) 
-Environmental  (22, 0%)
-Human_Resources (22, 0%) 
-Legal (21, 0%) 
-Sports_Recreation  (16, 0%) 
-Construction_Mining (14, 0%) 
-Textiles (5, 0%) 
+sec.matrix <- function(data) {
+  N <- length(data)
+  sec <- data.frame(Count=integer(N), percent=numeric(N))
+  for (x in c(1:N)) {
+    r <- sector.count(data[x])
+    sec[x,] <- r[1:2]
+  }
+  rownames(sec) <- sec.names(data)
+  sec <- sec[order(sec[,2], decreasing=TRUE),]
+  return(sec)
+}
 
 
 
+data$approx_annual_income <- ordered(data$approx_annual_income,levels=c(1:5),labels=c("$0-\n$30,000","$30,000-\n$60,000","$60,000-\n$90,000","$90,000-\n$120,000","$120,000+"))
 
+png("income.png")
+par(las=2)
+plot(data$approx_annual_income)
+sec <- sec.matrix(data[2:40]);
+library(R2HTML);
 
-
+HTMLStart(".", 'index', HTMLframe=FALSE, Title="Age, Income and Industry Sector", autobrowse=FALSE);
+HTML.title("Age, Income and Industry Sector", HR=1)
+HTML.title("Income", HR=2)
+HTMLInsertGraph("income.png")
+HTML.title("Industry Sector", HR=2)
+HTML(sec,row.names=TRUE)
