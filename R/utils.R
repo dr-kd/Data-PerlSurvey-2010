@@ -19,7 +19,7 @@ category.names <- function(s, txt, strip.dots=FALSE) {
   for (n in 1:length(s.n)) {
     s.n[n] <- sub(txt, "", s.n[n])
     if (strip.dots == TRUE) {
-      s.n[n]<- gsub("_|\\.", " ", s.n[n])
+      s.n[n]<- gsub("(_|\\.)+", " ", s.n[n])
     }
   }
   return(s.n)
@@ -32,7 +32,7 @@ category.matrix <- function(data, txt, strip.dots=FALSE) {
     r <- category.count(data[x])
     sec[x,] <- r[1:2]
   }
-  rownames(sec) <- category.names(data,txt,strip.dots)
+  rownames(sec) <- category.names(data,txt,strip.dots=strip.dots)
   sec <- sec[order(sec[,2], decreasing=TRUE),]
   return(sec)
 }
