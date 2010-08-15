@@ -1,104 +1,22 @@
 load("11_editor_info.RData")
-main <- data[1:44]
-occasional <- data[45:88]
-library(Hmisc)
-describe(sapply(main,ordered))
+source("../utils.R")
+main <- category.matrix(data[1:44], "^text_editor_", strip.dots=TRUE)
+occasional <- category.matrix(data[45:88], "^text_editor_occasional_", strip.dots=TRUE)
 
+names(main)[1] <- "Count main text editor"
+names(main)[2] <- "Percent main text editor"
+names(occasional)[1] <- "Count occasional text editor"
+names(occasional)[2] <- "Percent occasional text editor"
 
-Vim (1787, 37%) 
-Emacs (733, 15%)
-Eclipse_EPIC (326, 7%) 
-Vi (473, 10%) 
-Gvim (358, 7%) 
-Notepad.. (304, 6%) 
-Gedit (134, 3%) 
-Ultra_Edit_ (122, 3%) 
-Komodo_Edit (114, 2%) 
-Kate (111, 2%) 
-Komodo_IDE (107, 2%) 
-TextMate (147, 3%) 
-Padre (103, 2%) 
-Xemacs (96, 2%) 
-Nano (68, 1%) 
-BEdit (62, 1%) 
-TextPad (58, 1%) 
-Notepad (57, 1%) 
-SciTE (55, 1%) 
-EditPlus (49, 1%) 
-Geany (49, 1%) 
-JEdit (47, 1%) 
-Crimson (47, 1%) 
-TextWrangler (40, 1%) 
-Joe (40, 1%) 
-NEdit (37, 1%) 
-Mcedit (33, 1%) 
-DzSoft_Perl (27, 1%) 
-PSPad (25, 1%) 
-KDevelop (23, 0%) 
-Anjuta (20, 0%) 
-Smultron (19, 0%) 
-PerlWiz (17, 0%) 
-Far (16, 0%) 
-Jed (15, 0%) 
-KEdit (14, 0%) 
-Open_Perl_IDE (13, 0%) 
-SlickEdit (12, 0%) 
-Notepad2 (11, 0%) 
-OptiPerl (9, 0%) 
-Perl_Express (5, 0%) 
-EngInSite.Perl (4, 0%) 
-Kephra (2, 0%) 
+all.editors <- merge(main,occasional,by="row.names")
+rownames(all.editors) <- all.editors$Row.names
+all.editors$Row.names <- NULL
+all.editors <- all.editors[order(all.editors[,2], decreasing=TRUE),]
+library(R2HTML)
+HTMLStart(".", 'index', HTMLframe=FALSE, Title="Text Editors Used", autobrowse=FALSE);
+HTML.title("Text Editors Used - usual and occasional", HR=1)
+HTML(all.editors)
+HTMLStop()
 
-
-describe(sapply(occasional,ordered))
-
-Vim (825, 17%) 
-Vi (626, 13%) 
-Notepad.. (289, 6%) 
-Eclipse_EPIC (268, 6%) 
-Emacs (257, 5%) 
-Gvim (235, 5%) 
-Gedit (229, 5%)
-Notepad (224, 5%) 
-Padre (182, 4%) 
-Nano (164, 3%) 
-Ultra_Edit_ (116, 2%) 
-Kate (112, 2%) 
-Komodo_Edit (100, 2%) 
-Xemacs (81, 2%) 
-Komodo_IDE (81, 2%) 
-TextMate (78, 2%) 
-TextPad (74, 2%) 
-SciTE (62, 1%) 
-Geany (59, 1%) 
-KEdit (57, 1%) 
-BBEdit (54, 1%) 
-Pico (51, 1%) 
-JEdit (49, 1%) 
-Joe (42, 1%) 
-EditPlus (42, 1%) 
-Mcedit (41, 1%) 
-TextWrangler (39, 1%) 
-Anjuta (30, 1%) 
-Crimson (32, 1%) 
-PSPad (31, 1%) 
-NEdit (29, 1%)
-KDevelop (27, 1%) 
-Far (22, 0%) 
-Notepad2 (21, 0%) 
-Smultron (17, 0%) 
-Open_Perl_IDE (17, 0%) 
-DzSoft_Perl (13, 0%) 
-Jed (10, 0%) 
-SlickEdit (6, 0%) 
-OptiPerl (5, 0%) 
-Perl_Express (5, 0%) 
-EngInSite.Perl (2, 0%) 
-Kephra (2, 0%) 
-PerlWiz (2, 0%) 
-
-
-
-
-
-
+         
+                     
