@@ -1,7 +1,3 @@
-
-## usage : my.report(table(x,y)) for crosstab percentages rounded to 2 dec places.
-library(prettyR)
-
 my.report <- function(my.table) {
     return (round( my.table/sum(my.table) * 100, 2))
 }
@@ -35,4 +31,11 @@ category.matrix <- function(data, txt, strip.dots=FALSE) {
   rownames(sec) <- category.names(data,txt,strip.dots=strip.dots)
   sec <- sec[order(sec[,2], decreasing=TRUE),]
   return(sec)
+}
+
+round.up.hundred <- function(x) {
+  y = x + 100
+  z = y %% 100
+  y = y -z
+  return(y)
 }
