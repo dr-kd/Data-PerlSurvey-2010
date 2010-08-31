@@ -39,3 +39,15 @@ round.up.hundred <- function(x) {
   y = y -z
   return(y)
 }
+
+is.not.na <- function(x) !is.na(x)
+
+full.mean <- function(x) {
+  x.idx <- which(is.not.na(x))
+  if (length(x.idx) > 0) {
+   return( mean(x[x.idx]) )
+  }
+  else {
+    return ( NA )
+  }
+}
