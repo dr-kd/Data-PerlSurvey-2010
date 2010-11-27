@@ -1,0 +1,511 @@
+old,new
+,NA
+-,NA
+.bat,windows batch
+.net,
+.net 2008,.net
+.net 2010,.net
+.net/c#,.net
+"""shellscript""",shell
+(z)(ba)sh,shell
+[ba]sh/zsh shell scripting,shell
+*nix shell,shell
+*sh,shell
+/bin/bash,shell
+/bin/sh,shell
+4gl,
+6502 asm,assembler
+a86 assembler,assembler
+abap,abap
+abap (sap),
+abf,abf
+actionscript,
+actionscript 3,actionscript
+actionscript 3 (adobe flash),actionscript
+ada,ada
+advanced revelation r/basic (is like pick basic),basic
+af-apl,
+ansi c,c
+ant,
+applescript,
+arc,
+arexx,
+arm assembler,assembler
+asm,assembler
+asp,asp
+asp.net,asp
+asp.net(c#),asp
+assembler,assembler
+assembler (review),assembler
+assembly,assembler
+assembly(x86),assembler
+autohotkey,
+autoit,
+autoit3,autoit
+avr c,c
+awk,awk
+b,
+bash,shell
+bash ,shell
+bash - bourne again shell,shell
+bash (does that count?),shell
+"bash (if it qualifies as a ""programming language"")",shell
+bash / shell,shell
+bash script,shell
+bash scripting,shell
+bash shell,shell
+bash shell script,shell
+bash shell scripting,shell
+"bash, sed, awk",shell
+bash?,shell
+bash/batch,shell
+bash/sh,shell
+bash/shell scripting,shell
+basic,
+bat files,windows batch
+batch,windows batch
+batch/bash scripting,windows batch
+bc,
+bmc remedy,
+borne shell,shell
+bourne again shell,shell
+bourne sh,shell
+bourne shell,shell
+bourne shell scripting,shell
+bourne shell scripts,shell
+bourne-again shell,shell
+brainfuck,
+bsd make,make
+c,c
+c ,c
+c (and xs),c
+c (ansi c),c
+c (historic),c
+c / c++,c
+c like languages,c
+c sharp,c
+c shell,c
+"c, c++",c
+c'/c++,c
+c(++),c
+c/al,c
+c/c++,c
+c/cal,c
+c#,c
+c# - visual studio,c#
+c# .net,c#
+c# (mono),c#
+c#.net,c#
+c+,c++
+c++,c++
+c++ ,c++
+c++ java,c++
+c++/c,c++
+c++/cli,c++
+c++/qt,c++
+capl,
+ccscript,
+cecil,
+centura,
+cgi,
+chuck,
+classic asp,asp
+clojure,
+clp,
+cmd.exe,windows batch
+cobol,
+cocoa/xcode,cocoa
+cold fusion,coldfusion
+coldfusion,
+comal,
+comedy option : brainfuck,brainfuck
+common lisp,lisp
+common lisp (sbcl),lisp
+consistent changes,
+cpp,c++
+csh,shell
+csharp,c#
+css,html
+css/xhtml,html
+ctl,
+cucumber,
+cuda,
+custom domain languages,
+cython,python
+d,
+db2 sql,sql
+dbase,
+dcl,
+"dcl (on vms, a scripting tool)",dcl
+delphi,
+delphi (pascal),deplhi
+dhcp-eval (embedded language in isc dhcp server),dchp-eval
+dibol,
+diverse bactch script,windows batch
+donald knuth tex,tex
+dos batch,windows batch
+dos batch file programming,windows batch
+dos batch files,windows batch
+dotnet,.net
+dsssl,
+dylan,
+e (specman),e
+ecmascript,javascript
+eiffel,
+elisp,elisp
+emacs lisp,elisp
+emacs-lisp,elisp
+emca script,javascript
+emcascript,javascript
+erlang,
+escript,
+esql,sql
+euclid,
+excel,vba
+expect,
+extjs,javascript
+f#,
+factor,
+falcon,
+farnsworth,
+faust,
+flex,
+forth,
+fortran,
+fortran 77,fortran
+fortran77,fortran
+freebasic,basic
+freepascal,pascal
+fsharp,f#
+gawk,awk
+gnu awk,awk
+gnu make,make
+go,
+golang,
+grace,
+groovy,
+groovy grails,groovy
+hal/s (review),hal/s
+haskell,
+haskell (for fun),haskell
+hlsl,haskell
+hskell,haskell
+html,html
+html ?,html
+html/css,html
+hungarian,
+i only use perl,NA
+idl,
+idoc,
+ilerpg,
+inform 7,inform
+intercal,
+internal google languages,
+intersystems cache (mumps),mumps
+io,
+j,
+j/apl,javascript
+j2ee,java
+j2me,java
+jaava,java
+jacascript,javascript
+java,java
+java me,java
+java script,javascript
+java se/ee,java
+java6,java
+javafx,java
+javascrip,javascript
+javascript,javascript
+javascript (ecma-262 3rd ed),javascript
+javascript (jquery rocks!),javascript
+javascript and html,javascript
+javascript/css/html,javascript
+javascript/html,javascript
+javascript|,javascript
+jcl,
+jquery,javascript
+jruby,
+js,javascript
+jsfl,
+jsp,
+jython,
+korn shell,shell
+korn shell/bash,shell
+korn/bourne/bash shells,shell
+ksh,shell
+ksh/bash,shell
+labview,
+labview ,
+latex,
+ldap,
+lisaac,
+lisp,lisp
+lisp ,lisp
+lisp (for fun),lisp
+lisp emacs/sawfish,lisp
+lisp scheme,lisp
+logo,
+lolcode,
+lpc,
+lsl,
+lua,lua
+lua ,lua
+m (matlab),matlab
+majic,
+make,
+make (nbmake),make
+makefile language,make
+makefiles,make
+makepp,make
+many other,NA
+maple,
+mason,
+mathematica,
+matlab,matlab
+matlab/octave,matlab
+mel,
+microsoft basic 4.0,basic
+ml,
+mosel,
+mozart,
+ms batch,windows batch
+ms shell/powershell,powershell
+ms visual basic 6,visual basic
+mvs basic assembler,assembler
+mysql,sql
+natural (see http://www.softwareag.com),natural
+nawk,awk
+no other currently,NA
+none,NA
+nqp,
+o'caml,
+obejct pascal,pascal
+objc,objective c
+object-c,objective c
+objective  c,objective c
+objective c,objective c
+objective c++,objective c
+objective-c,objective c
+objective-c/cocoa,objective c
+ocaml,
+ocaml/fsharp,ocaml
+ocean,
+octave,
+octave scripting,octave
+ooc,
+ooo,
+openoffice basic,basic
+openwatcom c/c++,c
+openwatcom fortran,fortran
+oracle pl/sql,sql
+oracle sql,sql
+parrot,
+parrot intermediate representation,parrot
+pascal,
+pawn,
+peoplecode,
+perl,
+perl 5,perl6
+perl 6,perl6
+perl6,perl6
+php,php
+php ,php
+php (drupal framework),php
+php (sadly),php
+php (yuck),php
+php but i don't like to,php
+"php, sql",php
+php4,php
+php5,php
+phyton,python
+pic assembler,assembler
+pike,
+pl pgsql,sql
+pl sql,sql
+pl/* (postgresql stored procedure languages),sql
+pl/i,sql
+pl/pgsql,sql
+pl/sql,sql
+"pl/sql, shell scripting",sql
+plpgsql,sql
+plsql,sql
+plsql/plpgsql,sql
+posix sh,shell
+posix shell,shell
+postgres  plsql,sql
+postscript,
+power shell,powershell
+powerbuilder,
+powerscript,powershell
+powershell,
+praat,
+pro,
+pro*c,c
+processing,
+processing.org (java language/library),java
+product specific scripting and parameter languages,propietary
+progress,progress
+progress 4gl,progress
+progress/webspeed,progress
+prolifics panther,
+prolog,
+propriatery and rare,propietary
+proprietary internal languages,propietary
+pscal,
+puppet,
+py,python
+python,python
+python ,python
+python vala,python
+q/pure,
+quickbasic,basic
+r,r
+r stats package,r
+ragel,
+rails,ruby
+rakudo,perl6
+realbasic,basic
+rebol,
+redcode,
+rexx,
+rpg,
+rpg iv,rpg
+rpg iv ile,rpg
+ruby,
+ruby (hmm),ruby
+ruby (rails),ruby
+ruby on rails,rubh
+"sao, tdu - my own",propietary
+sas,
+scade,
+scala,
+scheme,lisp
+scratch,
+sed,
+sensetalk,
+sh,shell
+sh (+ assorted tools),shell
+sh (bourne),shell
+sh (csh and bsh),shell
+sh/bash,shell
+sh/bash/ksh,shell
+shell,shell
+"shell (bash and ksh, mostly)",shell
+"shell (bash, korn shell)",shell
+shell (bash),shell
+"shell (ksh, bash)",shell
+shell / awk,shell
+shell programming,shell
+shell script,shell
+shell script (bash),shell
+shell scripting,shell
+shell scripting (bash and ksh),shell
+shell scripting (bash),shell
+shell scripting in unix/lunix,shell
+shell scripts,shell
+shell scripts (bash),shell
+"shell, bash",v
+shell(bash),shell
+shell/bash,shell
+shells,shell
+shellscript,shell
+sieve,
+skill,
+smalltalk,
+sml,
+spel,
+spl (vendor-specific language for chemistry),sqp
+spss,
+sql,sql
+sql ,sql
+sql - ugh,sql
+"sql (mysql , oracle pl/sql)",sql
+sql (postgresql),sql
+sql & pl/sql,sql
+sql variants,sql
+sql(postgres),sql
+sql*plus,sql
+sql/plpgsql,sql
+sql/plsql,sql
+sqr,sql
+standard ml,
+sybase sql,sql
+sybase transact sql,sql
+systemverilog,
+t-sql,sql
+tcl,tcl
+tcl ,tcl
+tcl tk,tcl
+tcl/expect,tcl
+tcl/tk,tcl
+tcsh,shell
+telsis fastssp/fasttc nodal,telsis fastssp
+template toolkit,tt
+tex,tex
+ti-basic,basic
+tpu,
+transact sql,sql
+transact-sql,sql
+tsql,sql
+twincat (plc),twincat
+unibasic,basic
+unix,shell
+unix csh,shell
+"unix scripting - bash, ksh, sed.grep. tr, etc",shell
+unix shell,shell
+unix shell (bash),shell
+unix shell (bash/ksh/sh),shell
+unix shell script,shell
+unix-shell,shell
+vala,
+various shell scripting languages,shell
+vax basic,basic
+vb,visualbasic
+vb .net,visualbasic
+vb script,visualbasic
+vb.net,visualbasic
+vb/c#,visualbasic
+vb6,visualbasic
+vba,visualbasic
+"vba (""embedded"" visual basic)",visualbasic
+vba macros,visualbasic
+vbscript,vbscript
+vbscript/asp,vbscript
+vcl,
+verilog,
+vhdl,
+vi,
+vimscript,
+visal basic,visualbasic
+visual,visualbasic
+visual basic,visualbasic
+visual basic (sucks),visualbasic
+visual basic 6,visualbasic
+visual basic for applications,visualbasic
+visual basic.net,visualbasic
+visual c++,c++
+visual foxpro,foxpro
+visualbasic,visualbasic
+windows batch,windows batch
+windows cmd,windows batch
+windows cmd script,windows batch
+windows powershell,powershell
+windows scripting,windows batch
+windows shell,windows batch
+windows shell (batch),windows batch
+windows shell script,windows batch
+windows-cmd,windows batch
+wsh/vbscript,vbscript
+x++,
+x86 assembler,assembler
+xhtml,html
+xml,xml
+xpath,xpath
+xquery,xquery
+xs,c
+xsl,xsl
+xslt,xsl
+z shell,shell
+zsh,shell
+zsh/bash,shell

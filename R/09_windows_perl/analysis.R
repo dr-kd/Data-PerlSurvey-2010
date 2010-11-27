@@ -1,11 +1,17 @@
 load("09_windows_perl.RData")
-data$win_os_perl_distro_best <- factor(data$win_os_perl_distro_best,levels=c(1:4),labels=c("Strawberry Perl","ActiveState Perl","Cygwin Perl","Other"))
-version <- read.csv("version.csv")
+source("../utils.R")
+data$win_os_perl_distro_best <- factor(data$win_os_perl_distro_best,levels=c(1:4),labels=c("Strawberry","ActiveState","Cygwin","Other"))
+version <- data[1:4]
 
-pdf("version.pdf")
-par(las=2,mfrow=c(1,2))
+png("version.png")
+par(las=2)
 plot(data$win_os_perl_distro_best,cex.names=0.7,main="Best Windows distro")
-barplot(version$Count,names.arg=version$Distribution,cex.names=0.7,main="Used Windows distro")
 dev.off()
 
-
+library(R2HTML)
+HTMLStart(".", 'index', HTMLframe=FALSE, Title="Perl on Windows", autobrowse=FALSE);
+HTML.title("Perl on Windows", HR=1)
+HTMLInsertGraph("version.png")
+HTML.title("Windows Perl Distributions Used", HR=2);
+HTML(category.matrix(version, "^win_os_perl_distro_", strip.dots=TRUE))
+HTMLStop()
